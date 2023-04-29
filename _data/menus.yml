@@ -1,13 +1,13 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Inicio
   url: ""
 
-- title: About
+- title: Sobre nosotros
   url: "about/"
 
-- title: Contact
+- title: Contacto
   url: "contact/"
 
 - title: Get this theme  
@@ -18,13 +18,13 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Inicio
   url: ""
 
-- title: Privacy Policy
+- title: Políticas de privacidad
   url: "privacy-policy/"
 
-- title: Contact
+- title: Contacto
   url: "contact/"
 
 - title: Download
