@@ -4,7 +4,7 @@ topmenu:
 - title: Inicio
   url: ""
 
-- title: Sobre nosotros
+- title: Nosotros
   url: "about/"
 
 - title: Contacto
@@ -21,7 +21,7 @@ footermenu:
 - title: Inicio
   url: ""
 
-- title: Políticas de privacidad
+- title: Política de privacidad
   url: "privacy-policy/"
 
 - title: Contacto
