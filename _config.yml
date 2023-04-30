@@ -38,7 +38,7 @@ social:
   facebook: https://www.facebook.com/floranativabb/
 
 # Plugins
-plugins: 
+plugins:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed
