@@ -5,12 +5,12 @@ topmenu:
   url: ""
 
 - title: Nosotros
-  url: "about/"
+  url: "nosotros/"
 
 - title: Contacto
   url: "contact/"
 
-- title: Get this theme  
+- title: Get this theme
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
@@ -28,5 +28,5 @@ footermenu:
   url: "contact/"
 
 - title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   external: true
