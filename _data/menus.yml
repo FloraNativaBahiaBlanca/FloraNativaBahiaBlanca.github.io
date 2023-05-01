@@ -10,8 +10,8 @@ topmenu:
 - title: Contacto
   url: "contact/"
 
-- title: Get this theme
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: ¡Apóyanos!
+  url: https://cafecito.app/floranativabb
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -27,6 +27,6 @@ footermenu:
 - title: Contacto
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: ¡Apóyanos!
+  url: https://cafecito.app/floranativabb
   external: true
