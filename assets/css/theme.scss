@@ -135,8 +135,35 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #fdd93d;
-    padding: 5rem 5rem;
+  position: relative;
+  padding: 2rem 2rem;
+}
+
+.hero .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.hero:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: url("{{site.baseurl}}/assets/images/banner.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.hero img.intro {
+  position: relative;
+  z-index: 1;
 }
 
 @media only screen and (max-width: 1024px) {
