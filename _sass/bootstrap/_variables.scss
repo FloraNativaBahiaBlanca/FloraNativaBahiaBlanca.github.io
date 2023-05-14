@@ -3,8 +3,6 @@
 // Variables should follow the `$component-state-property-size` formula for
 // consistent naming. Ex: $nav-link-disabled-color and $modal-content-box-shadow-xs.
 
-@use "sass:math";
-
 //
 // Color system
 //
@@ -250,7 +248,7 @@ $h4-font-size:                $font-size-base * 1.5 !default;
 $h5-font-size:                $font-size-base * 1.25 !default;
 $h6-font-size:                $font-size-base !default;
 
-$headings-margin-bottom:      math.div($spacer, 2) !default;
+$headings-margin-bottom:      ($spacer / 2) !default;
 $headings-font-family:        inherit !default;
 $headings-font-weight:        500 !default;
 $headings-line-height:        1.2 !default;
@@ -588,10 +586,10 @@ $nav-pills-link-active-bg:          $component-active-bg !default;
 
 // Navbar
 
-//$navbar-padding-y:                  math.div($spacer, 2) !default;
+//$navbar-padding-y:                  ($spacer / 2) !default;
 //$navbar-padding-x:                  $spacer !default;
-$navbar-padding-y:                  math.div($spacer, 4) !default;
-$navbar-padding-x:                  math.div($spacer, 2) !default;
+$navbar-padding-y:                  ($spacer / 4) !default;
+$navbar-padding-x:                  ($spacer / 2) !default;
 
 $navbar-nav-link-padding-x:         .5rem !default;
 
