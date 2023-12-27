@@ -25,7 +25,7 @@ image: assets/images/Phyla1.png
 **¡Una curiosidad!** 👀 Los nativos ranqueles llaman a esta planta "*chod lawen*", que en chedungun significa "remedio amarillo" (chod = amarillo, lawen = remedio o hierba medicinal).
 ❌ No confundir con *Helianthus petiolaris* o *Helianthus tuberosus*, dos especies exóticas naturalizadas parientes del girasol. Una forma rápida de diferenciarlas es que la exótica *H. petiolaris* tiene el centro de la flor oscuro mientras que la nativa *V. encelioides* tiene el centro amarillo/anaranjado. Por otra parte *H. tuberosus* suele ser una planta mucho más alta y con hojas más grandes que *V. encelioides*.
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Verbesina-encelioides" %}
 
 ***
 

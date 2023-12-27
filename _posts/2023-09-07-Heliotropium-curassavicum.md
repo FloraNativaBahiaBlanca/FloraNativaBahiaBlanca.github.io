@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 **¡Una curiosidad!** 👀 La que encontramos en nuestra zona es la variedad *curassavicum*, que posee tallos decumbentes o procumbentes, a diferencia de la variedad *fruticulosum* que posee tallos erectos y puede alcanzar una altura mayor. A su vez en la zona podemos encontrar la especie *H. amplexicaule* que posee flores violetas, pero su distribución llega hasta las Sierras de la Ventana.
 👀 Los nativos ranqueles lo llaman '*külen trewa*', que significa '*cola de perro*'. Lo emplean para lavar y desinfectar heridas
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Heliotropium-curassavicum" %}
 
 ***
 

@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 **¡Una curiosidad!** 👀 En la región se pueden encontrar otras especies afines, anuales o perennes, con flores azules, blancas o amarillas.
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Sisyrinchium-platense" %}
 
 ***
 

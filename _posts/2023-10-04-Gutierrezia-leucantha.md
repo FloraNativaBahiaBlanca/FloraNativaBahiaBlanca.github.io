@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 **¡Una curiosidad!** 👀 Anteriormente esta especie se consideraba parte de *Gutierrezia gilliesii* pero una revisión del género realizada en 2020 (Ratto & Bartoli, 2020) determinó que se trata de una especie diferente. *G. leucantha* se diferencia de *G. gilliesii* por ser de mayor tamaño y poseer hojas más anchas. 
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Gutierrezia-leucantha" %}
 
 ***
 

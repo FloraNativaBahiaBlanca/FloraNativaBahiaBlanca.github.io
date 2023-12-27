@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 **¡Una curiosidad!** 👀 En Europa existen cultivares de esta planta como '*Wisley Blue*' (con flores algo azuladas), '*Froyle Mill*' (de flores violetas), '*Alberto Castillo*' (de flores completamente blancas) y '*Rolf Fiedler*' (de flores algo más pequeñas y azuladas), todas ellas ganadoras del Award of Garden Merit de la Royal Horticultural Society (https://www.rhs.org.uk/plants/pdfs/agm-lists/agm-ornamentals.pdf).
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Ipheion-uniflorum" %}
 
 ***
 

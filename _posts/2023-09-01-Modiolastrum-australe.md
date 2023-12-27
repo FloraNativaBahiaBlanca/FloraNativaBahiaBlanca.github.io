@@ -22,7 +22,7 @@ image: assets/images/Phyla1.png
 
 🔍 **Otros datos:** Especie endémica con gran potencial como cubresuelos. Florece en primavera. Crece exclusivamente en el sur de la provincia de Buenos Aires, en los alrededores de Bahía Blanca. Por su reducida distribución ha sido catalogada en peligro crítico en la provincia de Buenos Aires (Delucchi, 2006) y en la categoría de amenaza 5 de la lista PlanEAr (2008).
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Modiolastrum-australe" %}
 
 ***
 

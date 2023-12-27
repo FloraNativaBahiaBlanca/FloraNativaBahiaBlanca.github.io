@@ -23,7 +23,7 @@ image: assets/images/Phyla1.png
 🔍 **Otros datos:** Especie con gran potencial ornamental. Requiere exposición al sol y muy poco riego. Se puede propagar por semillas y esquejes. Florece en primavera y verano. Otras especies de este género en la región son *G. platensis* (de flores blancas) y *G. peruviana* (de flores rojo punzó).
 ❌ No confundir con *Glandularia dissecta*, especie de distribución más acotada y tallos erguidos que alcanza una altura mayor (hasta 0,5 mts. de alto). Tampoco confundir con *Junellia hookeriana*, especie con flores similares, pero en este caso se trata de un subarbusto de mucho mayor porte (hasta 0,8 mts. de alto).
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Glandularia-tenera" %}
 
 ***
 

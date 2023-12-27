@@ -23,7 +23,7 @@ image: assets/images/Phyla1.png
 🔍 **Otros datos:** Especie con gran potencial ornamental por la belleza de sus flores. Florece en verano, generalmente luego de una lluvia. Se puede reproducir por semillas o a través de sus bulbos. En la zona existen otras especies del género como *Z. filifolia* (de flores amarillo limón), *Z. gracilifolia* (de flores rosadas) y *Z. jamesonii* (de flores blancas, algo rosadas).
 **¡Una curiosidad!** 👀 La especie ha sido ganadora del Award of Garden Merit de la Royal Horticultural Society (https://www.rhs.org.uk/plants/8195/habranthus-tubispathus/details)
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Zephyranthes-tubispatha" %}
 
 ***
 

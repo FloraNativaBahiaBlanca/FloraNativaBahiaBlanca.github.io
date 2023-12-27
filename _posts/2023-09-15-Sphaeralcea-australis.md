@@ -22,7 +22,7 @@ image: assets/images/Phyla1.png
 
 🔍 **Otros datos:** Especie endémica del sur de Buenos Aires, noreste de Río Negro y este de La Pampa. Florece en verano y se reproduce por semillas. Recientemente se ha comenzado a destacar su potencial ornamental y se han publicado estudios al respecto (Dascanio, 2022; Gutierrez et. al, 2021).
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Sphaeralcea-australis" %}
 
 ***
 

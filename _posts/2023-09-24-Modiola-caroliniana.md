@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 **¡Una curiosidad!** 👀 El nombre vulgar 'pila-pila' proviene del término mapuche "*pëla-pëla*" (que significa 'muy fresco'). Dicho pueblo le atribuye propiedades contra las afecciones de la garganta y los bronquios, como también en casos de hidropesía y empachos.
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Modiola-caroliniana" %}
 
 ***
 

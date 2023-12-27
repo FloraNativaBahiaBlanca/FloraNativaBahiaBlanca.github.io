@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 **¡Una curiosidad!** 👀 El nombre "piquillín" proviene del quechua "*piquillay*" que significa "no te pinches", haciendo alusión a sus espinas. Por su parte, los nativos ranqueles le llaman *trüka mamüll*, cuya leña (*küme mamüll*) es muy apreciada por su elevado valor calórico, además de servir para hacer útiles. De la corteza de la raíz extraen un tinte marrón rojizo que se utiliza corrientemente para teñir lana de ese color; es el colorante más utilizado en la elaboración de artesanías del telar. A su vez el término *trüka* es el nombre que le dan al fruto del piquillín, pequeñas drupas amarillas (*chod trüka*), rojas (*kolü trüka*) o negras (*kuru trüka*); todas ellas dulces y muy agradables. Las suelen comer como golosinas y se utilizan para la elaboración de dulce (*kochi*). Los carozos de estos frutos no deben ser ingeridos porque producen estreñimiento. También elaboran con los frutos una bebida refrescante (*treko*), y un licor (*trüka pulku*) por fermentación alcohólica. En verano, cuando maduran, se cosechan en cantidad, se secan y se conservan para el invierno.
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Condalia-microphylla" %}
 
 ***
 

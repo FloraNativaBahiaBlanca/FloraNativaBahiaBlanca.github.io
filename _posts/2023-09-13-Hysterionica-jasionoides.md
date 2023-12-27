@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 **¡Una curiosidad!** 👀 En sitios rocosos en las afueras de la ciudad puede encontrarse una pariente, *Neja pinifolia* (antes *Hysterionica pinifolia*), una planta similar aunque más pequeña y con hojas aciculares, frecuentemente asociada a la región serrana.
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Hysterionica-jasionoides" %}
 
 ***
 

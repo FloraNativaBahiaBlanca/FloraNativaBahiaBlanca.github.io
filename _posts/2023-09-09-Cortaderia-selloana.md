@@ -25,7 +25,7 @@ image: assets/images/Phyla1.png
 
 🗒 Nota: Si bien esta especie está descripta formalmente como dioica, un estudio demostró que, dentro de la gran variabilidad que presenta, existen poblaciones apomícticas (solo pies pistilados) y sexuales (ginodioicas) (Testoni & Villamil, 2014). 
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Cortaderia-selloana" %}
 
 ***
 

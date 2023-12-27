@@ -23,7 +23,7 @@ image: assets/images/Phyla1.png
 🔍 **Otros datos:** Especie endémica de Argentina. Sus vistosas flores rojas le proporcionan un gran potencial ornamental. Puede prosperar en suelos con salinidad moderada. En general se lo encuentra creciendo cerca de los alambrados. Su distribución incluye las provincias de Córdoba, San Luis, La Pampa y el sudoeste bonaerense. 
 **¡Una curiosidad!** 👀 En la ciudad de Bahía Blanca existe un ejemplar añoso en las inmediaciones del Hospital Penna declarado Patrimonio Verde Urbano por ordenanza 20371/2021.
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Neltuma-humilis" %}
 
 ***
 

@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 **¡Una curiosidad!** 👀 Pertenece al mismo género y por ende es una pariente cercana del tabaco (*Nicotiana tabacum*).
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Nicotiana-longiflora" %}
 
 ***
 

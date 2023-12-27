@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 **¡Una curiosidad!** 👀 Los nativos mapuche la llaman *fülel* (fulel). De hecho es uno de los nombres vulgares con que se conoce a la especie en Chile.
 👀 Posee uso medicinal popular como sedante, diurético, cicatrizante de heridas y para combatir dolores de cabeza. Se utiliza como infusión, en decocción y como fomentos.
 
- (Carrusel)
+ {% include image-gallery.html folder="/assets/images/Solidago-chilensis" %}
 
 ***
 
