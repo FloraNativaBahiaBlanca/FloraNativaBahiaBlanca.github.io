@@ -24,7 +24,7 @@ image: assets/images/Phyla1.png
 
 ------
 
-{% include image-gallery.html folder="/assets/images" %}
+{% include image-gallery.html folder="/assets/images/Phyla-nodiflora" %}
 
 ***
 
