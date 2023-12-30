@@ -393,8 +393,8 @@ ul.tags li {
 	font-size:0.9rem;
 }
 ul.tags li a {
-    color: #333;
-    padding: 3px 10px;
+    color: #333 !important;
+    padding: 3px 10px !important;
     border-radius: 3px;
     font-weight: 500;
     background:#eee;
@@ -540,7 +540,7 @@ background-color: #fff;
     padding-top: 7px;
 }
 .sidebar-section {     
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.44);
     padding: 30px;
 }

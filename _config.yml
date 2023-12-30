@@ -5,7 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Fede
+author: FNBB
 paginate: 30
 disqus: 'floranativabb'
 locale: es_ar
@@ -30,13 +30,13 @@ jekyll-archives:
 
 # Authors
 authors:
-  fede:
-    name: Fede
-    display_name: Fede
+  fnbb:
+    name: Flora Nativa Bahia Blanca
+    display_name: FNBB
     avatar: 'assets/images/sal.png'
-    email: fede.fg13@gmail.com
-    instagram: https://www.instagram.com/sembremos_nativas
-    description: "Técnico Univ. en Parques y Jardines y fundador de Flora Nativa Bahia Blanca"
+    email: floranativabb@gmail.com
+    instagram: https://www.instagram.com/floranativabb
+      #description: "Técnico Univ. en Parques y Jardines y fundador de Flora Nativa Bahia Blanca"
 
 # Social
 social:

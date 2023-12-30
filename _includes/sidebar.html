@@ -1,4 +1,20 @@
-<div class="sidebar sticky-top">        
+<div class="sidebar">
+    <div class="sidebar-section">
+	<!-- Site Tags -->
+        <h5><span>Tags</span></h5>
+	<div class="after-post-tags">
+	    <ul class="tags">
+		{% assign allTags = site.tags | keys | sort %}
+		{% for tag in allTags %}
+		{% assign tagName = tag | first %}
+		    <li>
+			<a href="{{ site.baseurl }}/tag/{{ tagName | slugify }}">{{ tagName }}</a>
+		    </li>
+		{% endfor %}
+	    </ul>
+	</div>
+	<!-- End Site Tags -->
+    </div>
     <div class="sidebar-section">
         <h5><span>Anunciantes</span></h5>
         <a href=https://trafkintu.com.ar/>

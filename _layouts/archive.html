@@ -1,9 +1,14 @@
-<h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
-<ul class="posts">
+---
+layout: default
+---
+
+<h1>Posts con {{ page.type }} '{{ page.title }}'</h1>
+<div class="row">
   {% for post in page.posts %}
-    <li>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
+    {% if post.title != null %}
+      <div class="col-md-4 mb-5">
+      {% include postbox.html %}
+      </div>
+    {% endif %}
   {% endfor %}
-</ul>
+</div>
