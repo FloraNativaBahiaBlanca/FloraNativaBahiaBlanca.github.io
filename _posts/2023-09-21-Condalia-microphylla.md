@@ -3,7 +3,7 @@ layout: post
 title: "Condalia microphylla (Piquillín)"
 tags: [Arbustos, Endemismo, Color rojo]
 categories: [Flora, Rhamnaceae]
-image: assets/images/Phyla1.png
+image: assets/images/Portadas/CondaliaM.jpg
 ---
 
 ***

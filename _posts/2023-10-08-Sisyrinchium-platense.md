@@ -3,7 +3,7 @@ layout: post
 title: "Sisyrinchium platense (Canchalagua)"
 tags: [Herbáceas, Endemismo, Color violeta]
 categories: [Flora, Iridaceae]
-image: assets/images/Phyla1.png
+image: assets/images/Portadas/SisyrinchiumP.jpg
 ---
 
 ***

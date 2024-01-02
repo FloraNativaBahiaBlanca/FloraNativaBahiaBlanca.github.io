@@ -3,7 +3,7 @@ layout: post
 title: "Gutierrezia leucantha (-----)"
 tags: [Arbustos, Endemismo, Color blanco]
 categories: [Flora, Asteraceae]
-image: assets/images/Phyla1.png
+image: assets/images/Portadas/GutierreziaL.jpg
 ---
 
 ***

@@ -3,7 +3,7 @@ layout: post
 title: "Glandularia tenera (Verbena violeta)"
 tags: [Cubresuelos, Color violeta]
 categories: [Flora, Verbenaceae]
-image: assets/images/Phyla1.png
+image: assets/images/Portadas/GlandulariaT.jpg
 ---
 
 ***

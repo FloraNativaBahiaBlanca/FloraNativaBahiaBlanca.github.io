@@ -3,7 +3,7 @@ layout: post
 title: "Zephyranthes tubispatha (Azucenita)"
 tags: [Herbáceas, Color amarillo]
 categories: [Flora, Amaryllidaceae]
-image: assets/images/Phyla1.png
+image: assets/images/Portadas/ZephyranthesT.jpg
 ---
 
 ***

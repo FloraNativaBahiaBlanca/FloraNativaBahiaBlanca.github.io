@@ -3,7 +3,7 @@ layout: post
 title: "Sphaeralcea australis (Malvavisco)"
 tags: [Herbáceas, Endemismo, Color naranja]
 categories: [Flora, Malvaceae]
-image: assets/images/Phyla1.png
+image: assets/images/Portadas/SphaeralceaA.JPG
 ---
 
 ***

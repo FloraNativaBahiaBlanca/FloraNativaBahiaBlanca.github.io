@@ -3,7 +3,7 @@ layout: post
 title: "Heliotropium curassavicum var. curassavicum (Heliotropo)"
 tags: [Herbáceas, Color blanco]
 categories: [Flora, Boraginaceae]
-image: assets/images/Phyla1.png
+image: assets/images/Portadas/HeliotropiumC.jpg
 ---
 
 ***
