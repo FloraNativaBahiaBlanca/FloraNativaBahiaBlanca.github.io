@@ -10,6 +10,10 @@ topmenu:
 - title: Contacto
   url: "contact/"
 
+#- title: Tienda
+#  url: https://floranativabb.mitiendanube.com
+#  external: true
+
 - title: ¡Apóyanos!
   url: https://cafecito.app/floranativabb
   class: "ml-2 btn btn-dark text-white px-3"
