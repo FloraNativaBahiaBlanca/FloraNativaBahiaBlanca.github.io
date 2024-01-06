@@ -1,37 +1,43 @@
 ---
 layout: page
-title: Privacy Policy
+title: Políticas de privacidad
 permalink: /privacy-policy/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+Última actualización: 06 de Enero de 2024
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+Flora Nativa Bahía Blanca (en adelante "nosotros", "nuestro" o "sitio web") se compromete a proteger la privacidad de los usuarios de nuestro sitio web [www.floranativabb.com.ar](http://www.floranativabb.com.ar/). Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos la información personal de los usuarios.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+### **1. Información que Recopilamos:**
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+Recopilamos información personal, como nombres y direcciones de correo electrónico, cuando los usuarios nos proporcionan esta información al realizar consultas a través de nuestro formulario de contacto. También podemos recopilar datos de navegación, como direcciones IP y cookies, para mejorar la experiencia del usuario y analizar el rendimiento del sitio.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+### **2. Uso de la Información:**
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+Utilizamos la información recopilada para responder a consultas, mejorar la experiencia del usuario en nuestro sitio y personalizar el contenido. Además, podemos utilizar servicios de terceros que recopilen datos para mejorar nuestras operaciones y ofrecer servicios adicionales.
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+### **3. Compartir Información con Terceros:**
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+Podemos compartir información personal con servicios de terceros que nos ayudan en el análisis del sitio web, la gestión de consultas y la mejora de la experiencia del usuario. Estos terceros están obligados a proteger la información de acuerdo con esta Política de Privacidad.
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+### **4. Seguridad de los Datos:**
 
-3rd party advertising companies may also use cookies for tracking purposes.
+Implementamos medidas de seguridad para proteger la información de los usuarios. Sin embargo, no podemos garantizar la seguridad absoluta de los datos transmitidos por Internet.
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+### **5. Derechos de los Usuarios:**
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+Los usuarios tienen el derecho de acceder, corregir, eliminar o modificar su información personal. También pueden retirar su consentimiento o ponerse en contacto con nosotros para resolver cualquier consulta a través de floranativabb@gmail.com.
 
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+### **6. Cookies:**
+
+Utilizamos cookies para mejorar la experiencia del usuario. Los usuarios pueden controlar el uso de cookies a través de la configuración de su navegador.
+
+### **7. Cambios en la Política de Privacidad:**
+
+Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Se notificarán cambios significativos a través de nuestro sitio web.
+
+### **8. Información de Contacto:**
+
+Para cualquier pregunta o inquietud relacionada con la privacidad, los usuarios pueden ponerse en contacto con nosotros a través de floranativabb@gmail.com.
+
