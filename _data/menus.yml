@@ -8,7 +8,7 @@ topmenu:
   url: "nosotros/"
 
 - title: Contacto
-  url: "contact/"
+  url: "contacto/"
 
 #- title: Tienda
 #  url: https://floranativabb.mitiendanube.com
@@ -26,10 +26,10 @@ footermenu:
   url: ""
 
 - title: Política de privacidad
-  url: "privacy-policy/"
+  url: "politica-privacidad/"
 
 - title: Contacto
-  url: "contact/"
+  url: "contacto/"
 
 - title: ¡Apóyanos!
   url: https://cafecito.app/floranativabb
