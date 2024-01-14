@@ -20,5 +20,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'tzinfo-data'
     gem 'tzinfo'
+    gem 'jekyll-glossary_tooltip'
 end
 gem "webrick", "~> 1.8"
