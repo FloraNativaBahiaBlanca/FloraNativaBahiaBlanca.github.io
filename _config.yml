@@ -22,7 +22,7 @@ sass:
   style: :compressed
 ganalytics: UA-113961478-1
 jekyll-archives:
-  enabled: [categories,tags]
+  enabled: [categories, tags]
   layout: archive
   permalinks:
     tag: '/tag/:name/'
@@ -50,3 +50,4 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-glossary_tooltip
