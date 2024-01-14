@@ -4,3 +4,7 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+.img-no-download {
+  pointer-events: none;
+}
