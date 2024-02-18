@@ -8,3 +8,7 @@ body {}
 .img-no-download {
   pointer-events: none;
 }
+
+.img-fluid {
+  width: 100% !important;
+}
