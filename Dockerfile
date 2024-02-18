@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 RUN gem install jekyll bundler
 
-COPY Gemfile Gemfile.lock ./
+COPY Gemfile ./
 
 RUN bundle install
 
