@@ -6,7 +6,7 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: FNBB
-paginate: 30
+paginate: 6
 disqus: 'floranativabb'
 locale: es_ar
 lang: es_ar
