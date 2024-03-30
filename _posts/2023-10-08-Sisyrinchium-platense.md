@@ -16,7 +16,7 @@ image: assets/images/Portadas/SisyrinchiumP.jpg
 
 ***
 
-📋 **Descripción:** Hierba perenne, con raíces carnosas. Numerosas hojas basales, acintadas, verde-grisáceas, de hasta 25 cm. de largo. Flores de 10 a 20 mm. de diámetro, con seis tépalos de color azul-violáceo que nacen desde el interior de brácteas verdes, dispuestas en la parte superior de los tallos. El fruto es una cápsula con numerosas semillas pequeñas.
+📋 **Descripción:** Hierba perenne, con raíces carnosas. Numerosas hojas {% glossary basal, display: basales %}, acintadas, verde-grisáceas, de hasta 25 cm. de largo. Flores de 10 a 20 mm. de diámetro, con seis {% glossary tépalo, display: tépalos %} de color azul-violáceo que nacen desde el interior de {% glossary bráctea, display: brácteas %} verdes, dispuestas en la parte superior de los tallos. El fruto es una {% glossary cápsula %} con numerosas semillas pequeñas.
 
 **Fauna que atrae:** (🐝🪲🐦) Sus flores son polinizadas por pequeños escarabajos y abejas. Las semillas son consumidas por aves.
 

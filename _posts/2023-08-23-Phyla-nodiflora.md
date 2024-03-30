@@ -16,7 +16,7 @@ image: assets/images/Portadas/PhylaN.jpg
 
 ***
 
-📋 **Descripción:** Herbácea perenne de follaje caduco. Hojas pequeñas, entre 1 y 2,5 cm. de longitud, algo carnosas, con pelos y el borde aserrado desde la mitad hasta el extremo. Flores de 2 a 3 mm. de longitud, blancas o liliáceas, en capítulos. El fruto es seco y se separa en la madurez.
+📋 **Descripción:** Herbácea {% glossary perenne %} de follaje caduco. Hojas pequeñas, entre 1 y 2,5 cm. de longitud, algo carnosas, con pelos y el borde {% glossary aserrada, display: aserrado %} desde la mitad hasta el extremo. Flores de 2 a 3 mm. de longitud, blancas o lilas, en {% glossary capítulo, display: capítulos %}. El fruto es seco y se separa en la madurez.
 
 **Fauna que atrae:** (🦋🐝🪲🐦) Atrae diversos insectos autóctonos como abejas, mariposas y escarabajos. Es hospedera de la mariposa 'Cuatro Ojos' (*Junonia genoveva hilaris*). Sus semillas atraen aves granívoras.
 

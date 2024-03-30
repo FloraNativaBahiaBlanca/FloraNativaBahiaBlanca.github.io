@@ -16,7 +16,7 @@ image: assets/images/Portadas/VerbesinaE.jpg
 
 ***
 
-📋 **Descripción:** Hierba anual de crecimiento erguido. Posee tallos estriados, muy ramificados y con pocas hojas dispuestas de forma alterna sobre el tallo, desde la base hasta el extremo. Las hojas tienen forma triangular, miden 5 a 6 cm. de largo y poseen borde irregular o dentado. Las flores son de color amarillo y se reúnen en capítulos. Los frutos son aquenios comprimidos, alados, con algunos pelos.
+📋 **Descripción:** Hierba anual de crecimiento erguido. Posee tallos estriados, muy ramificados y con pocas hojas dispuestas de forma alterna sobre el tallo, desde la base hasta el extremo. Las hojas tienen forma triangular, miden 5 a 6 cm. de largo y poseen borde irregular o dentado. Las flores son de color amarillo y se reúnen en capítulos. Los frutos son {% glossary aquenio, display: aquenios %} comprimidos, alados, con algunos pelos.
 
 **Fauna que atrae:** (🦋🐝🪲🐦) Esta planta melífera atrae diversos polinizadores como abejas, abejorros, moscas y mariposas. Además, es hospedera de la mariposa "hortensia" (*Euptoieta hortensia*). Sus semillas sirven de alimento de las aves granívoras y la abundancia de insectos en la planta atrae también aves insectívoras.
 

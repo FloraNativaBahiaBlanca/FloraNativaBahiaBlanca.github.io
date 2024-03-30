@@ -16,7 +16,7 @@ image: assets/images/Portadas/HeliotropiumC.jpg
 
 ***
 
-📋 **Descripción:** Herbácea perenne de hojas y tallos carnosos. Sus tallos son apoyantes, color verde grisáceo. Sus hojas son angostas, alargadas y con borde liso. Las flores se agrupan en cimas, dispuestas de un sólo lado, tomando la forma de una cola de escorpión. Son de color blanco, a veces con el centro lila o amarillo. El fruto es una cápsula muy pequeña (2 mm.) que se separa a la madurez en cuatro partes, cada una con una semilla.
+📋 **Descripción:** Herbácea perenne de hojas y tallos carnosos. Sus tallos son apoyantes, color verde grisáceo. Sus hojas son angostas, alargadas y con borde liso. Las flores se agrupan en {% glossary cima, display: cimas %}, dispuestas de un sólo lado, tomando la forma de una cola de escorpión. Son de color blanco, a veces con el centro lila o amarillo. El fruto es una cápsula muy pequeña (2 mm.) que se separa a la madurez en cuatro partes, cada una con una semilla.
 
 **Fauna que atrae:** (🦋🐝🪲🐦) Atrae diversos insectos polinizadores que visitan sus flores. A su vez atrae aves que se alimentan de estos insectos.
 

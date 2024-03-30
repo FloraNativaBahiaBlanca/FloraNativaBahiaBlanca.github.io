@@ -16,7 +16,7 @@ image: assets/images/Portadas/SolidagoC.jpg
 
 ***
 
-📋 **Descripción:** Herbácea perenne, rizomatosa, que a menudo forma manchones muy extensos. Tallos sin ramificaciones que llevan hojas en toda su extensión. Hojas alargadas, de 4 a 8 cm. de longitud, con pequeños pelos cortos y curvos en sus bordes. Las flores son de color amarillo brillante y se disponen en capítulos agrupados en densas inflorescencias al final del tallo. Los frutos son aquenios con papus blanco.
+📋 **Descripción:** Herbácea perenne, {% glossary rizoma, display: rizomatosa %}, que a menudo forma manchones muy extensos. Tallos sin ramificaciones que llevan hojas en toda su extensión. Hojas alargadas, de 4 a 8 cm. de longitud, con pequeños pelos cortos y curvos en sus bordes. Las flores son de color amarillo brillante y se disponen en {% glossary capítulo, display: capítulos %} agrupados en densas {% glossary inflorescencia, display: inflorescencias %} al final del tallo. Los frutos son {% glossary aquenio, display: aquenios %} con {% glossary vilano, display: papus %} blanco.
 
 **Fauna que atrae:** (🦋🐝🪲🐦) La planta es polinizada por abejas y también visitada por otros insectos como mariposas y escarabajos. Sus semillas alimentan a las aves granívoras.
 

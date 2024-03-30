@@ -16,7 +16,7 @@ image: assets/images/Portadas/ZephyranthesT.jpg
 
 ***
 
-📋 **Descripción:** Hierba perenne, bulbosa y de crecimiento erguido. Todas las hojas son basales y lineares, de entre 12 y 15 cm. de longitud y escasas. Tallo desprovisto de hojas que sostiene una flor en el ápice protegido por una bráctea. La flor es color amarillo o anaranjado cobrizo, aunque dada su variabilidad se pueden llegar a presentar ejemplares con flores rosa claro, casi blancas. El fruto es una cápsula esférica aplastada con semillas planas.
+📋 **Descripción:** Hierba perenne, bulbosa y de crecimiento erguido. Todas las hojas son {% glossary basal, display: basales %} y {% glossary linear, display: lineares %}, de entre 12 y 15 cm. de longitud y escasas. Tallo desprovisto de hojas que sostiene una flor en el {% glossary ápice %} protegido por una {% glossary bráctea %}. La flor es color amarillo o anaranjado cobrizo, aunque dada su variabilidad se pueden llegar a presentar ejemplares con flores rosa claro, casi blancas. El fruto es una cápsula esférica aplastada con semillas planas.
 
 **Fauna que atrae:** (🦋🐝🪲) La visitan una variedad de polinizadores, entre los que se encuentran los escarabajos (nitidúlidos y melíridos), las abejas (ápidos y halíctidos), las mariposas (hespéridos) y las moscas de las flores (sírfidos).
 

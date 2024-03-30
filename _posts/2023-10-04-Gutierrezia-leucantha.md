@@ -16,7 +16,7 @@ image: assets/images/Portadas/GutierreziaL.jpg
 
 ***
 
-📋 **Descripción:** Arbusto perenne de entre 30 y 100 cm. de altura, ramificados desde la base. Tallos erectos, costados, glandulares, foliosos. Hojas subcoriáceas, sésiles, irregularmente dentadas en la margen, hojas linear–elípticas de 30–50 x 3–5 mm, agudas. Flores dispuestas en capítulos radiados, sésiles y solitarios, de 10 a 16 mm. de diámetro. Inflorescencia color blanco con el centro amarillento. Los frutos son aquenios color gris claro con finos pelos en su superficie.
+📋 **Descripción:** Arbusto perenne de entre 30 y 100 cm. de altura, ramificados desde la base. Tallos erectos, {% glossary costado, display: costados %}, glandulares, {% glossary folioso, display: foliosos %}. Hojas {% glossary subcoriácea, display: subcoriáceas %}, {% glossary sésil, display: sésiles %}, irregularmente dentadas en la margen, hojas linear–elípticas de 30–50 x 3–5 mm, agudas. Flores dispuestas en {% glossary capítulo, display: capítulos %} {% glossary radiado, display: radiados %}, {% glossary sésil, display: sésiles %} y solitarios, de 10 a 16 mm. de diámetro. Inflorescencia color blanco con el centro amarillento. Los frutos son {% glossary aquenio, display: aquenios %} color gris claro con finos pelos en su superficie.
 
 **Fauna que atrae:** (🦋🐝) Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas, mariposas y moscas de las flores.
 

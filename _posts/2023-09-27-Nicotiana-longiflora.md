@@ -16,7 +16,7 @@ image: assets/images/Portadas/NicotianaL.jpg
 
 ***
 
-📋 **Descripción:** Herbácea arrosetada perenne. Su follaje es persistente. Hojas ovadas, con el borde algo ondulado y pecíolo alado. Flores actinomorfas y bisexuales, la corola posee un tubo que mide entre 4 y 12 cm., con limbo de entre 2 y 2,5 cm. de diámetro. El fruto es una cápsula ovoide de entre 1 y 1,5 cm.
+📋 **Descripción:** Herbácea {% glossary arrosetado, display: arrosetada %} perenne. Su follaje es persistente. Hojas {% glossary ovado, display: ovadas %}, con el borde algo ondulado y {% glossary peciolo, display: pecíolo %} {% glossary alado %}. Flores {% glossary actinomorfa, display: actinomorfas %} y bisexuales, la {% glossary corola %} posee un tubo que mide entre 4 y 12 cm., con {% glossary limbo %} de entre 2 y 2,5 cm. de diámetro. El fruto es una cápsula ovoide de entre 1 y 1,5 cm.
 
 **Fauna que atrae:** (🦋) Sus flores atraen principalmente a la especie de polilla titán (*Aellopos titan*) y otras mariposas nocturnas, en especial de la familia *Sphingidae*.
 

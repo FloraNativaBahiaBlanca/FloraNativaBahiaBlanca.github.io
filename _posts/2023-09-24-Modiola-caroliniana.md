@@ -16,7 +16,7 @@ image: assets/images/Portadas/ModiolaC.jpg
 
 ***
 
-📋 **Descripción:** Hierba perenne rastrera. Tanto sus tallos como sus hojas están cubiertos de finos pelos. Tallos tendidos o ascendentes, con raíces en los nudos. Hojas alternas, suborbiculares, 5 a 7 veces palmatipartidas, de 1,5 a 4 cm. de longitud y con pecíolos de hasta 7 cm. de largo. Flores pequeñas, solitarias, axilares, color anaranjado. Los frutos son mericarpos oscuros a la madurez, que se dividen en varias partes con una semilla cada una. Las semillas son oscuras, reniformes, de 1,5 mm. de longitud, algo pubescentes.
+📋 **Descripción:** Hierba perenne rastrera. Tanto sus tallos como sus hojas están cubiertos de finos pelos. Tallos tendidos o ascendentes, con raíces en los nudos. Hojas {% glossary alterna, display: alternas %}, {% glossary suborbicular, display: suborbiculares %}, 5 a 7 veces {% glossary palmatipartido, display: palmatipartidas %}, de 1,5 a 4 cm. de longitud y con {% glossary peciolo, display: pecíolos %} de hasta 7 cm. de largo. Flores pequeñas, solitarias, {% glossary axilar, display: axilares %}, color anaranjado. Los frutos son {% glossary mericarpo, display: mericarpos %} oscuros a la madurez, que se dividen en varias partes con una semilla cada una. Las semillas son oscuras, {% glossary reniforme, display: reniformes %}, de 1,5 mm. de longitud, algo {% glossary pubescente, display: pubescentes %}.
 
 **Fauna que atrae:** (🦋🐝) Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas y mariposas.
 
