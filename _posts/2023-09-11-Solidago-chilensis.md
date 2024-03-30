@@ -35,9 +35,9 @@ Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseñ
 Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
 
 Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de 
-https://shorturl.at/ghBE9
+[https://shorturl.at/ghBE9](https://shorturl.at/ghBE9)
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Solidago chilensis*. Recuperado de 
-https://shorturl.at/kqGWZ
+[https://shorturl.at/kqGWZ](https://shorturl.at/kqGWZ)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.

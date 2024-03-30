@@ -30,13 +30,13 @@ image: assets/images/Portadas/ZephyranthesT.jpg
 **Bibliografía:**
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes tubispatha*. Recuperado de 
-https://shorturl.at/kmGMQ
+[https://shorturl.at/kmGMQ](https://shorturl.at/kmGMQ)
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes filifolia*. Recuperado de 
-https://shorturl.at/BKU29
+[https://shorturl.at/BKU29](https://shorturl.at/BKU29)
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes jamesonii*. Recuperado de 
-https://shorturl.at/etMU9
+[https://shorturl.at/etMU9](https://shorturl.at/etMU9)
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 

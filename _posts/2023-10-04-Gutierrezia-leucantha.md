@@ -31,10 +31,10 @@ image: assets/images/Portadas/GutierreziaL.jpg
 **Bibliografía:**
 
 Instituto de Botánica Darwinion. (2020). *Flora Argentina. Gutierrezia gilliesii*. Recuperado de 
-https://shorturl.at/opuFJ
+[https://shorturl.at/opuFJ](https://shorturl.at/opuFJ)
 
 Instituto de Botánica Darwinion. (2020). *Flora Argentina. Gutierrezia leucantha*. Recuperado de 
-https://shorturl.at/iAEKW
+[https://shorturl.at/iAEKW](https://shorturl.at/iAEKW)
 
 Ratto, F. & Bartoli, C. M. A. (2020). *Revisión de las especies sudamericanas de Gutierrezia (Asteraceae, Astereae, Solidagininae).* Boletín De La Sociedad Argentina De Botánica, *55*(3), 411–470. 
-https://shorturl.at/eIM12
+[https://shorturl.at/eIM12](https://shorturl.at/eIM12)

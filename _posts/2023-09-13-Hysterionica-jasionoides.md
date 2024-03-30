@@ -31,7 +31,7 @@ image: assets/images/Portadas/HysterionicaJ.jpg
 **Bibliografía:**
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Hysterionica jasionoides*. Recuperado de 
-https://shorturl.at/bhy01
+[https://shorturl.at/bhy01](https://shorturl.at/bhy01)
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 

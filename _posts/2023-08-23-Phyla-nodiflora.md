@@ -33,6 +33,6 @@ image: assets/images/Portadas/PhylaN.jpg
 Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Phyla nodiflora var. nodiflora*. Recuperado de 
-https://shorturl.at/huvX4
+[https://shorturl.at/huvX4](https://shorturl.at/huvX4)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS

@@ -31,7 +31,7 @@ image: assets/images/Portadas/ModiolaC.jpg
 **Bibliografía:**
 
 Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de 
-https://shorturl.at/rAS17
+[https://shorturl.at/rAS17](https://shorturl.at/rAS17)
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Modiola caroliniana*. Recuperado de 
-https://shorturl.at/BMVWX
+[https://shorturl.at/BMVWX](https://shorturl.at/BMVWX)
