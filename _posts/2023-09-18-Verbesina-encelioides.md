@@ -33,7 +33,8 @@ image: assets/images/Portadas/VerbesinaE.jpg
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Verbesina encelioides*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/592
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Verbesina encelioides*. Recuperado de 
+https://shorturl.at/aisuV
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 

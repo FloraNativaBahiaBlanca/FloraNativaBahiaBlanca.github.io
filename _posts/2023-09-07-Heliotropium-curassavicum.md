@@ -30,9 +30,11 @@ image: assets/images/Portadas/HeliotropiumC.jpg
 
 **Bibliografía:**
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Heliotropium curassavicum var. curassavicum*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/7221
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Heliotropium curassavicum var. curassavicum*. Recuperado de 
+https://shorturl.at/lHXY5
 
-Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. https://www.ambiente.gba.gob.ar/imagenes/Nativas/Catalogo_Nativas_2023_web.pdf
+Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. 
+https://shorturl.at/djtuC
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 

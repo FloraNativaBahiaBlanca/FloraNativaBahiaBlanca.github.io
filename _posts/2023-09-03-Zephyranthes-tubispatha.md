@@ -21,7 +21,7 @@ image: assets/images/Portadas/ZephyranthesT.jpg
 **Fauna que atrae:** (🦋🐝🪲) La visitan una variedad de polinizadores, entre los que se encuentran los escarabajos (nitidúlidos y melíridos), las abejas (ápidos y halíctidos), las mariposas (hespéridos) y las moscas de las flores (sírfidos).
 
 🔍 **Otros datos:** Especie con gran potencial ornamental por la belleza de sus flores. Florece en verano, generalmente luego de una lluvia. Se puede reproducir por semillas o a través de sus bulbos. En la zona existen otras especies del género como *Z. filifolia* (de flores amarillo limón), *Z. gracilifolia* (de flores rosadas) y *Z. jamesonii* (de flores blancas, algo rosadas).
-**¡Una curiosidad!** 👀 La especie ha sido ganadora del Award of Garden Merit de la Royal Horticultural Society (https://www.rhs.org.uk/plants/8195/habranthus-tubispathus/details)
+**¡Una curiosidad!** 👀 La especie ha sido ganadora del [Award of Garden Merit de la Royal Horticultural Society](https://www.rhs.org.uk/plants/8195/habranthus-tubispathus/details)
 
  {% include image-gallery.html folder="/assets/images/Zephyranthes-tubispatha" %}
 
@@ -29,11 +29,14 @@ image: assets/images/Portadas/ZephyranthesT.jpg
 
 **Bibliografía:**
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes tubispatha*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/112971
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes tubispatha*. Recuperado de 
+https://shorturl.at/kmGMQ
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes filifolia*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/9815
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes filifolia*. Recuperado de 
+https://shorturl.at/BKU29
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes jamesonii*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/199487
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Zephyranthes jamesonii*. Recuperado de 
+https://shorturl.at/etMU9
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 

@@ -29,4 +29,5 @@ image: assets/images/Portadas/NeltumaH.jpg
 
 **Bibliografía:**
 
-Instituto de Botánica Darwinion. (2022). *Flora Argentina. Neltuma humilis*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/200699
+Instituto de Botánica Darwinion. (2022). *Flora Argentina. Neltuma humilis*. Recuperado de 
+https://shorturl.at/wIP28
