@@ -3,7 +3,7 @@ layout: post
 title: "Neltuma humilis (Algarrobilla)"
 tags: [Arbustos, Color rojo, Endemismo]
 categories: [Flora, Fabaceae]
-image: assets/images/Portadas/NeltumaH.jpg
+image: assets/images/Portadas/NeltumaH.webp
 ---
 
 ***

@@ -3,7 +3,7 @@ layout: post
 title: "Phyla nodiflora (Bella Alfombra)"
 tags: [Cubresuelos, Color blanco]
 categories: [Flora, Verbenaceae]
-image: assets/images/Portadas/PhylaN.jpg
+image: assets/images/Portadas/PhylaN.webp
 ---
 
 ***

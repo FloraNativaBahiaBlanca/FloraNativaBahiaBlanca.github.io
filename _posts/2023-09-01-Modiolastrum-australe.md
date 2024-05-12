@@ -3,7 +3,7 @@ layout: post
 title: "Modiolastrum australe (-----)"
 tags: [Cubresuelos, Color rosado, Endemismo]
 categories: [Flora, Malvaceae]
-image: assets/images/Portadas/ModiolastrumA.jpg
+image: assets/images/Portadas/ModiolastrumA.webp
 ---
 
 ***

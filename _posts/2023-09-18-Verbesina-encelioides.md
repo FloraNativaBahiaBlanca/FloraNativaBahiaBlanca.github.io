@@ -3,7 +3,7 @@ layout: post
 title: "Verbesina encelioides (Girasolillo)"
 tags: [Herbáceas, Color amarillo]
 categories: [Flora, Asteraceae]
-image: assets/images/Portadas/VerbesinaE.jpg
+image: assets/images/Portadas/VerbesinaE.webp
 ---
 
 ***
