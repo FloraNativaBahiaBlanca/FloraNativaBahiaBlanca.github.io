@@ -22,6 +22,8 @@
   definition: "referido a las hojas, cuando éstas abrazan por su base al tallo."
 - term: androceo
   definition: "conjunto de órganos masculinos de una flor; estambres."
+- term: androginóforo
+  definition: "eje o pie alargado que soporta al androceo y gineceo."
 - term: angustisepta
   definition: "se dice de la silícula (fruto de las crucíferas), cuando el tabique que separa las dos valvas es perpendicular a su parte más ancha, como en Capsella bursa-pastoris."
 - term: antera
@@ -40,6 +42,8 @@
   definition: "fruto seco, monospermo e indehiscente, como los de la familia Compositae, también denominado cipsela."
 - term: araenosa
   definition: "cubierta de pelos largos y entrecruzados, de modo que recuerdan a la tela de una araña."
+- term: arilo
+  definition: "envoltura, casi siempre carnosa y de colores vivos, que tienen algunas semillas."
 - term: arista
   definition: "estructura linear, rígida que se inserta en diversas posiciones en las glumas y glumelas de las gramíneas."
 - term: arrosetado
@@ -70,20 +74,26 @@
   definition: "estructura laminar situada en la base de la inflorescencia; normalmente menores y más sencillas que las normales."
 - term: bracteola
   definition: "órgano laminar, más sencillo que una hoja, que se sitúa en la base de una flor."
-- term: bracteola
-  definition: "órgano laminar, más sencillo que una hoja, que se sitúa en la base de una flor."
 - term: bulbo
   definition: "tallo subterráneo de reserva, carnoso; normalmente está formado por la base engrosada de hojas o escamas. En su parte interna se encuentra la yema apical y en su base desarrolla raíces adventicias."
+- term: calículo
+  definition: "verticilo aparente de la flor, formado por brácteas que abrazan la base del cáliz."
 - term: cáliz
   definition: "verticilo floral formado por los sépalos."
 - term: caméfito
   definition: "planta con las yemas de recambio situadas hasta una altura 0,25 m; suelen ser pequeñas matas o herbáceas perennes."
+- term: campanulado
+  definition: "que tiene forma de campana."
 - term: canaliculado
   definition: "que forma una canaladura, como en la base de algunas hojas."
+- term: capitado
+  definition: "más engrosado hacia la extremidad con la forma de una cabeza."
 - term: capítulo
   definition: "inflorescencia con el eje ensanchado en su extremo (receptáculo), donde se insertan las flores, rodeadas por brácteas (involucro). El conjunto es funcionalmente como una flor. Esta inflorescencia es característica de la familia Compositae. En el capítulo puede haber sólo flores flosculosas, sólo liguladas, o una combinación de flósculos en el centro del capítulo (disco) y lígulas en el exterior (radios)."
 - term: cápsula
   definition: "fruto seco, polispermo y dehiscente derivado de la fusión de 2 o más carpelos; la dehiscencia puede ser por poros (poricida en Papaver), a lo largo de suturas (loculicida), etc.."
+- term: carina
+  definition: "con forma de quilla de un barco."
 - term: carinado
   definition: "que al plegarse sobre sí mismo da lugar a un canto o cresta marcada."
 - term: cariópside
@@ -100,6 +110,8 @@
   definition: "pelos rígidos y finos del margen de las hojas."
 - term: cima
   definition: "inflorescencia en la que el extremo de la rama florífera acaba en una flor y las restantes flores proceden de ramas laterales."
+- term: cincino
+  definition: "inflorescencia cimosa que presenta ramificaciones laterales dispuestas alternativamente a uno y otro lado del eje"
 - term: cipsela
   definition: "fruto característico de la familia Compositae; sinónimo de aquenio."
 - term: compuesta
@@ -152,6 +164,10 @@
   definition: "hoja compuesta con 4 o más foliolos todos ellos insertos en el extremo del peciolo."
 - term: dioica
   definition: "plantas en las que las flores unisexuales se encuentran en pies másculinos y femeninos independientes."
+- term: discoide
+  definition: "con forma de disco."
+- term: discolor
+  definition: "alude a la diferencia tonal entre el haz y el envés de las hojas"
 - term: dística
   definition: "se aplica a cualquier órgano dispuesto en dos filas, como las hojas de las gramíneas."
 - term: drupa
@@ -210,8 +226,12 @@
   definition: "estambre estéril, generalmente rudimentario."
 - term: estigma
   definition: "en el gineceo, zona donde germinan los granos de polen, normalmente situado en el extremo del estilo."
+- term: estilo
+  definition: "prolongación del ovario al final de la cual aparece el estigma."
 - term: estilopodio
   definition: "base sobre la que se sitúan los estilos en las umbelíferas."
+- term: estípite
+  definition: "elemento de soporte, más o menos largo, de una estructura u órgano de una planta vascular."
 - term: estípula
   definition: "estructuras laminares, en ocasiones glándulas o espinas, situadas en la base del peciolo de algunas hojas."
 - term: estolón
@@ -230,6 +250,8 @@
   definition: "capa externa del fruto; en el melocotón, un fruto tipo drupa, es la piel."
 - term: farinosa
   definition: "con una cubierta que parece de harina."
+- term: filiforme
+  definition: "semejante a un hilo, muy delgado y flexible."
 - term: fistuloso
   definition: "tallo hueco en su interior."
 - term: flor
@@ -242,6 +264,8 @@
   definition: "cada uno de los elementos individuales en los que se divide el limbo de una hoja compuesta."
 - term: folioso
   definition: "que posee hojas; hojoso."
+- term: foveado
+  definition: "con fosas o concavidades."
 - term: fruto
   definition: "órgano especializado en la dispersión de las semillas formado a partir de las paredes del gineceo y en el que también puede participar el receptáculo u otras estructuras florales; más ráramente procede de una inflorescencias, constituyendo entonces una infrute.ia."
 - term: geniculada
@@ -288,6 +312,8 @@
   definition: "hoja compuesta y pinnada cuyo raquis termina en un foliolo."
 - term: indehiscente
   definition: "fruto que una vez maduro no se abre espontáneamente para dispersar las semillas; en este caso se dispersan conjuntamente fruto y semillas."
+- term: indumento
+  definition: "conjunto de glándulas, escamas, papilas, tricomas o pelos que cubren la superficie de los órganos de las plantas."
 - term: ínfero
   definition: "gineceo cuyo punto de inserción está por debajo del resto de los verticilos florales: cáliz, corola y androceo; la flor es entonces epigina."
 - term: inflorescencia
@@ -324,6 +350,8 @@
   definition: "hoja con los bordes paralelos y mucho más larga que ancha, como el limbo de las gramíneas."
 - term: lirada
   definition: "hoja de pinnaticompuesta con el foliolo terminal mayor que los inferiores, que además van aumentando de tamaño desde la base hacia el ápice."
+- term: lobado
+  definition: "provisto de lóbulos o segmentos cortos y redondeados, distribuidos de forma regular"
 - term: lóbulo
   definition: "porción redondeada y saliente de un órgano cualquiera cuando es de pequeño tamaño (de una hoja u otro órgano lobulado)."
 - term: lóculo
@@ -332,6 +360,8 @@
   definition: "fruto seco, polispermo, con estrechamientos en las zonas donde no hay semillas y que se fragmentan transversalmente."
 - term: mediterránea
   definition: "que se distribuye por los territorios con clima mediteráneo que se sitúan alrededor del mar Mediterráneo."
+- term: membranáceo
+  definition: "similar a una membrana."
 - term: membranosa
   definition: "que forma una lámina fina y flexible."
 - term: mericarpo
@@ -366,6 +396,8 @@
   definition: "con el contorno ovado, con forma de huevo, pero con la parte más ancha en la zona apical."
 - term: ócrea
   definition: "estructura membranosa que rodea el tallo procedente de la soldadura de las estípulas, característica de las poligonáceas."
+- term: opérculo
+  definition: "estructura o estructuras de algunas plantas vasculares, musgos, u hongos que actúan como tapa o aleta."
 - term: opuestas
   definition: "referido a las hojas, cuando éstas se insertan a lo largo del tallo una enfrente de otra, es decir, dos en cada nudo; si giran 90° con respecto a las del nudo adyacente, se denominan decusadas."
 - term: ovado
@@ -374,12 +406,16 @@
   definition: "bráctea superior, membranosa, de las dos que se encuentran en la flor de las gramíneas; también se denomina glumela superior."
 - term: palmada
   definition: "con forma de palma (de la mano)"
+- term: palmatinervia
+  definition: "hoja que tiene varios nervios principales (del mismo grosor) que salen de la zona del peciolo y recorren la lámina como si fueran los dedos de una mano abierta."
 - term: palmatipartido
   definition: "dicho de una hoja palmeada, que está dividido en porciones que alcanzan más de la mitad de la lámina, pero sin llegar a la base."
 - term: panícula
   definition: "inflorescencia muy ramificada consistente en un racimo de racimos."
 - term: panoja
   definition: "conjunto de flores arracimadas, cónico o piramidal, por ser los pedúnculos inferiores más largos que los superiores."
+- term: papiloso
+  definition: "cubierto de papilas, diminutas excrecencias cortas y obtusas que se forman en las células epidérmicas."
 - term: parásita
   definition: "planta que obtiene sus nutrientes de otra especie, el huésped."
 - term: paripinnada
@@ -428,10 +464,14 @@
   definition: "fruto seco y polispermo con dehiscencia transversal."
 - term: plegada
   definition: "tipo de prefoliación en el que la hoja externa doblada sobre sí misma contiene a la otra, también doblada a su vez."
+- term: plicativo
+  definition: "que presenta pliegues o dobleces."
 - term: plumoso
   definition: "referido al vilano cuando los pelos que lo componen están ramificados en largos pelos más finos."
 - term: plurirregional
   definition: "planta que se distribuye por dos o más regiones biogeográficas."
+- term: pluriseminado
+  definition: "fruto con varias semillas."
 - term: poliaquenio
   definition: "fruto formado por varios aquenios."
 - term: polispermo
@@ -478,6 +518,8 @@
   definition: "porciones en las que se divide una hoja o un fruto."
 - term: semiamplexicaule
   definition: "hoja sésil que abraza al tallo hasta su mitad."
+- term: semicaducifolio
+  definition: "que pierde parte de sus hojas durante épocas de sequía o de bajas temperaturas."
 - term: sepaloideo
   definition: "con aspecto de sépalo."
 - term: sépalos
@@ -520,6 +562,8 @@
   definition: "planta anual que durante la estación desfavorable se encuentra en forma de semilla."
 - term: testa
   definition: "cubierta de la semilla."
+- term: tomento
+  definition: "conjunto de pelos de algunas plantas que se doblan y son enmarañados, formando capas de lana."
 - term: tetranúcula
   definition: "grupo de cuatro núculas."
 - term: trepador
