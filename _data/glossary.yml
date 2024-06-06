@@ -12,6 +12,8 @@
   definition: "hoja que se estrecha paulatinamente en un ápice alargado."
 - term: adpreso
   definition: "situado muy próximo, en paralelo, sin llegar a unirse."
+- term: áfilo
+  definition: "que no tiene hojas."
 - term: aguijón
   definition: "protuberancias rígidas y punzantes en la epidermis de un órgano (tallo, hoja, etc.)."
 - term: alado
@@ -140,6 +142,8 @@
   definition: "hoja embrionaria presente en la semilla; en las de las dicotiledóneas son dos y en los de las monocotiledóneas uno; en las plántulas de las dicotiledóneas son las hojas que inicialmente realizan la fotosíntesis y resultan útiles para su identificación."
 - term: crenado
   definition: "margen de la hoja con protuberancias redondeadas."
+- term: cuculado
+  definition: "que tiene forma de capucha."
 - term: cuerpo
   definition: "en el fruto de las crucíferas parte que alberga las semillas."
 - term: cuneada
@@ -150,8 +154,8 @@
   definition: "con el tallo tendido sobre el suelo, sin arraigar en él."
 - term: decurrente
   definition: "hoja sésil con el limbo prolongado en su base y soldado al tallo."
-- term: decusadas
-  definition: "hojas opuestas que giran 90° con respecto a las del nudo adyacente."
+- term: decusado
+  definition: "disposición en que un par de hojas opuestas crece en sentido perpendicular al par anterior, formando cruces al mirarlos desde arriba."
 - term: dehiscente
   definition: "fruto que se abre espontáneamente una vez maduro para dispersar sus semillas."
 - term: dentada
@@ -516,10 +520,14 @@
   definition: "que crece tumbado sobre el suelo."
 - term: receptáculo
   definition: "extremo del pedicelo o del pedúnculo, más o menos ensanchado, en el que se insertan los verticilos florales (cáliz, corola, androceo o gineceo) o las flores en el caso de los capítulos."
+- term: reflexo
+  definition: "dicho de un órgano, que está dirigido hacia la base del tallo."
 - term: reniforme
   definition: "con forma de riñón."
 - term: reticulada
   definition: "con aspecto de red, como la nerviación entre los nervios principales de una hoja."
+- term: retinervado
+  definition: "distribución en forma de red de las nervaduras de una hoja."
 - term: retrorso
   definition: "dirigido hacia la parte basal del órgano al que se refiere."
 - term: revoluto
@@ -576,6 +584,8 @@
   definition: "planta con tejidos leñosos sólo en su base."
 - term: súpero
   definition: "gineceo cuyo punto de inserción está por encima del resto de los verticilos florales; cáliz, corola y androceo; la flor es entonces hipogina."
+- term: surcado
+  definition: "que presenta surcos."
 - term: tépalo
   definition: "piezas del periantio en flores en las que no se distinguen cáliz y corola, al presentar las piezas de ambos verticilos una consistencia, color y forma semejante; esto sucede en algunas liliáceas, como los ajos (Allium)."
 - term: terminal
