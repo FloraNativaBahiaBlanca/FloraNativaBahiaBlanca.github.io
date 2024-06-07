@@ -16,7 +16,7 @@ image: assets/images/Portadas/ModiolastrumA.webp
 
 ***
 
-📋 **Descripción:** Hierba perenne de crecimiento rastrero. Hojas de hasta 2,5 cm. de largo, {% glossary palmada, display: palmadas %}, con 5 {% glossary lóbulo, display: lóbulos %}, color verde oscuro. Flores pequeñas y solitarias, de color rosa. El fruto es una cápsula de color oscuro con varias partes que se separan a la madurez.
+📋 **Descripción:** Hierba perenne de crecimiento rastrero. Hojas de hasta 2,5 cm. de largo, {% glossary palmada, display: palmadas %}, con 5 {% glossary lobulo, display: lóbulos %}, color verde oscuro. Flores pequeñas y solitarias, de color rosa. El fruto es una cápsula de color oscuro con varias partes que se separan a la madurez.
 
 **Fauna que atrae:** Dada su acotada distribución hasta la fecha no existen registros de interacciones biológicas con la especie. 
 

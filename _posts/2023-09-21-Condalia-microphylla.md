@@ -16,7 +16,7 @@ image: assets/images/Portadas/CondaliaM.webp
 
 ***
 
-📋 **Descripción:** Arbusto {% glossary xerófito, display: xerófilo %} endémico de porte erguido. Su tronco es de corteza oscura con ramas rígidas de color verde oscuro, terminadas en punta espinosa, con espinas laterales que poseen pequeñas hojas. Las hojas son simples, diminutas, {% glossary sésil, display: sésiles %}, de color verde oscuro y dispuestas en ramillete. Las flores son amarillas y sin pétalos, reunidas en pequeños grupos de 2 a 5 flores. Sus frutos son {% glossary drupa, display: drupas %} de 5 a 11 mm., de color anaranjado rojizo hasta negro, brillantes a la madurez, muy dulces y comestibles.
+📋 **Descripción:** Arbusto {% glossary xerofito, display: xerófilo %} endémico de porte erguido. Su tronco es de corteza oscura con ramas rígidas de color verde oscuro, terminadas en punta espinosa, con espinas laterales que poseen pequeñas hojas. Las hojas son simples, diminutas, {% glossary sesil, display: sésiles %}, de color verde oscuro y dispuestas en ramillete. Las flores son amarillas y sin pétalos, reunidas en pequeños grupos de 2 a 5 flores. Sus frutos son {% glossary drupa, display: drupas %} de 5 a 11 mm., de color anaranjado rojizo hasta negro, brillantes a la madurez, muy dulces y comestibles.
 
 **Fauna que atrae:** (🐝🐦) Sus pequeñas flores perfumadas atraen a numerosos polinizadores y sus frutos, a aves frugívoras.
 

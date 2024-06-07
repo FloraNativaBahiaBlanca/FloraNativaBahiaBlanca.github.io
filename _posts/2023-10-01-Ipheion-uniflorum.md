@@ -16,7 +16,7 @@ image: assets/images/Portadas/IpheionU.webp
 
 ***
 
-📋 **Descripción:** Herbácea bulbosa perenne, con bulbos esféricos, que emite al frotarla un intenso olor a ajo. Hojas acintadas, algo carnosas, obtusas, largas, de 2 a 7 mm. de ancho. Flores solitarias en el extremo de {% glossary escapo, display: escapos %} simples, vistosas, perfumadas, de color variable entre blanco y violáceo más o menos intenso, con una línea oscura en el centro de cada uno de los seis {% glossary tépalo, display: tépalos %} que forman el {%glossary perigonio %}. El fruto es una cápsula con numerosas semillas.
+📋 **Descripción:** Herbácea bulbosa perenne, con bulbos esféricos, que emite al frotarla un intenso olor a ajo. Hojas acintadas, algo carnosas, obtusas, largas, de 2 a 7 mm. de ancho. Flores solitarias en el extremo de {% glossary escapo, display: escapos %} simples, vistosas, perfumadas, de color variable entre blanco y violáceo más o menos intenso, con una línea oscura en el centro de cada uno de los seis {% glossary tepalo, display: tépalos %} que forman el {% glossary perigonio %}. El fruto es una cápsula con numerosas semillas.
 
 **Fauna que atrae:** (🐝🐦) Sus flores atraen a insectos que las polinizan. A su vez, las aves insectívoras y granívoras encuentran alimento en los insectos que frecuentan esta planta y en sus semillas.
 

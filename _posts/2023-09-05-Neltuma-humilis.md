@@ -16,7 +16,7 @@ image: assets/images/Portadas/NeltumaH.webp
 
 ***
 
-📋 **Descripción:** {% glossary sufrútice, display: Subarbusto %} bajo de entre 20 y 40 cm de altura. Sus tallos son espinosos, con espinas {% glossary axilar, display: axilares %} de hasta 5 cm de longitud. Posee hojas reducidas o {% glossary deciduo, display: deciduas %}, {% glossary bipinnada, display: bipinnadas %}, {% glossary uniyugada, display: uniyugadas %}, con 1 a 2 pares de diminutos {% glossary folíolo, display: folíolos %}. Las flores se presentan en {% glossary racimo, display: racimos %} axilares de una longitud de entre 3 y 6 cm, de un color rojo fuerte y corola amarilla. El fruto es una {% glossary legumbre %} comprimida, rojiza, linear, algo curva, de 4 a 10,5 cm de largo por 1 cm de ancho.
+📋 **Descripción:** {% glossary sufrutice, display: Subarbusto %} bajo de entre 20 y 40 cm de altura. Sus tallos son espinosos, con espinas {% glossary axilar, display: axilares %} de hasta 5 cm de longitud. Posee hojas reducidas o {% glossary deciduo, display: deciduas %}, {% glossary bipinnada, display: bipinnadas %}, {% glossary uniyugada, display: uniyugadas %}, con 1 a 2 pares de diminutos {% glossary foliolo, display: folíolos %}. Las flores se presentan en {% glossary racimo, display: racimos %} axilares de una longitud de entre 3 y 6 cm, de un color rojo fuerte y corola amarilla. El fruto es una {% glossary legumbre %} comprimida, rojiza, linear, algo curva, de 4 a 10,5 cm de largo por 1 cm de ancho.
 
 **Fauna que atrae:** Hasta la fecha no existen registros de interacciones biológicas con la especie. 
 

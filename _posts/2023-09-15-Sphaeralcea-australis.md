@@ -16,7 +16,7 @@ image: assets/images/Portadas/SphaeralceaA.webp
 
 ***
 
-📋 **Descripción:** Hierba perenne o {% glossary sufrútice, display: subarbusto %} de crecimiento erguido y raíces profundas. Sus ramas jóvenes son finamente aterciopeladas. Las hojas tienen forma irregular y variable, están cubiertas de pelos y pueden medir hasta 4 cm. de largo. Las flores son de color naranja y se disponen en {% glossary racimo, display: racimos %} {% glossary terminal, display: terminales %}. El fruto es una cápsula de color marrón claro, que se separa en varias partes a la madurez, con semillas {% glossary reniforme, display: reniformes %}.
+📋 **Descripción:** Hierba perenne o {% glossary sufrutice, display: subarbusto %} de crecimiento erguido y raíces profundas. Sus ramas jóvenes son finamente aterciopeladas. Las hojas tienen forma irregular y variable, están cubiertas de pelos y pueden medir hasta 4 cm. de largo. Las flores son de color naranja y se disponen en {% glossary racimo, display: racimos %} {% glossary terminal, display: terminales %}. El fruto es una cápsula de color marrón claro, que se separa en varias partes a la madurez, con semillas {% glossary reniforme, display: reniformes %}.
 
 **Fauna que atrae:** (🦋🐝🪲) Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas, escarabajos, mariposas y moscas de las flores.
 
