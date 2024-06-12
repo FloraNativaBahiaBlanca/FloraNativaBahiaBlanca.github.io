@@ -12,11 +12,13 @@ image: assets/images/Portadas/VerbesinaE.webp
 
 **Medidas:** 0,5 metros de diámetro y  hasta 1 metro de altura
 
-**Otros nombres:** Mirasolcito, mirasolcito del campo
+**Otros nombres:** Mirasolcito, mirasolcito del campo, flor de Santa María, girasolcito, mirasol, mirasolillo, quellocizo, queyuciva, queyusina, queyusisa, quillosisa, quillusisa, Santa María, yuyo de Santa María
 
 ***
 
-📋 **Descripción:** Hierba anual de crecimiento erguido. Posee tallos estriados, muy ramificados y con pocas hojas dispuestas de forma alterna sobre el tallo, desde la base hasta el extremo. Las hojas tienen forma triangular, miden 5 a 6 cm. de largo y poseen borde irregular o dentado. Las flores son de color amarillo y se reúnen en capítulos. Los frutos son {% glossary aquenio, display: aquenios %} comprimidos, alados, con algunos pelos.
+🌱 **Descripción general:** Hierba anual de crecimiento erguido. Posee tallos estriados, muy ramificados y con pocas hojas dispuestas de forma alterna sobre el tallo, desde la base hasta el extremo. Las hojas tienen forma triangular, miden 5 a 6 cm. de largo y poseen borde irregular o dentado. Las flores son de color amarillo y se reúnen en capítulos. Los frutos son {% glossary aquenio, display: aquenios %} comprimidos, alados, con algunos pelos.
+
+📋 **Descripción técnica:** Hierbas anuales de 10-60(-100) cm de alto, hojosas, con tallos ramificados. Hojas inferiores opuestas, las medianas y superiores alternas, todas pecioladas; pecíolos con o sin alas, a veces con aurículas en la base; láminas ovado-triangulares, de 3-8(-11) × 2- 4(5) cm, irregularmente dentadas, láminas con base cuneada a truncada, levemente discoloras, la haz con pelos cortos y esparcidos, el envés con pubescencia densa y serícea. Capítulos radiados, pedunculados en el extremo de las ramitas, formando una cima corimbiforme paucicéfala; pedúnculos de 23-75 mm de largo, pubescentes. Involucro hemiesférico; filarios 2-seriados, lanceolados, seríceo-pubescentes. Receptáculo con páleas lanceoladas, membranáceas, abrazadoras, pubescentes, persistentes. Flores dimorfas, las del margen pistiladas, con corola ligulada, amarilla, lígula de (8-)12-15, de 8-10(-13) mm de largo, tubo delgado, piloso; las del centro numerosas, perfectas, con corola tubulosa, amarilla. Aquenios dimorfos, de 4,5-7 mm de largo, los del margen sin papus, ligeramente comprimidos, por lo general oscuros y rugosos; los del disco algo comprimidos, laxamente pilosos, con alas anchas y papus 2-aristado.
 
 **Fauna que atrae:** (🦋🐝🪲🐦) Esta planta melífera atrae diversos polinizadores como abejas, abejorros, moscas y mariposas. Además, es hospedera de la mariposa "hortensia" (*Euptoieta hortensia*). Sus semillas sirven de alimento de las aves granívoras y la abundancia de insectos en la planta atrae también aves insectívoras.
 
@@ -32,6 +34,8 @@ image: assets/images/Portadas/VerbesinaE.webp
 **Bibliografía:**
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Verbesina encelioides*. Recuperado de 
 [https://shorturl.at/aisuV](https://shorturl.at/aisuV)

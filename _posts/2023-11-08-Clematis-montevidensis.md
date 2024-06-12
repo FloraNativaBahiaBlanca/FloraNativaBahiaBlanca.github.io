@@ -12,7 +12,7 @@ image: assets/images/Portadas/ClematisM.webp
 
 **Medidas:** Entre 3 y 4 metros de altura
 
-**Otros nombres:** Cabello de ángel, loconte, bejuco, flámula, zocate, centeya, tuyá rendivá (guaraní)
+**Otros nombres:** Cabello de ángel, loconte, bejuco, flámula, zocate, centeya, tuyá rendivá (guaraní), barba de chivo, bejuco caústico, cabello de indio, cabello de vieja, centella, clematide, enredadera amarga, liana, parra, parra plumero, plumero, zocate
 
 ***
 
@@ -39,6 +39,8 @@ Barboza, G. E., J. J. Cantero, C. Núñez, A. Pacciaroni & L. Ariza Espinar. 200
 Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseño de espacios verdes: introducción al paisaje natural: parte 2* (1ᵃ ed.). Orientación Gráfica Editora.
 
 Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Eynard, C., Calviño, A. & Ashworth, L. (2020). *Cultivo de plantas nativas: propagación y viverismo de especies de Argentina Central* (2ᵃ ed.). Ecoval Ediciones.
 

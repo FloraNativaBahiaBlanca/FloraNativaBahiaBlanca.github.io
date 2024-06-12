@@ -16,7 +16,9 @@ image: assets/images/Portadas/NeltumaH.webp
 
 ***
 
-📋 **Descripción:** {% glossary sufrutice, display: Subarbusto %} bajo de entre 20 y 40 cm de altura. Sus tallos son espinosos, con espinas {% glossary axilar, display: axilares %} de hasta 5 cm de longitud. Posee hojas reducidas o {% glossary deciduo, display: deciduas %}, {% glossary bipinnada, display: bipinnadas %}, {% glossary uniyugada, display: uniyugadas %}, con 1 a 2 pares de diminutos {% glossary foliolo, display: folíolos %}. Las flores se presentan en {% glossary racimo, display: racimos %} axilares de una longitud de entre 3 y 6 cm, de un color rojo fuerte y corola amarilla. El fruto es una {% glossary legumbre %} comprimida, rojiza, linear, algo curva, de 4 a 10,5 cm de largo por 1 cm de ancho.
+🌱 **Descripción general:** {% glossary sufrutice, display: Subarbusto %} bajo de entre 20 y 40 cm de altura. Sus tallos son espinosos, con espinas {% glossary axilar, display: axilares %} de hasta 5 cm de longitud. Posee hojas reducidas o {% glossary deciduo, display: deciduas %}, {% glossary bipinnada, display: bipinnadas %}, {% glossary uniyugada, display: uniyugadas %}, con 1 a 2 pares de diminutos {% glossary foliolo, display: folíolos %}. Las flores se presentan en {% glossary racimo, display: racimos %} axilares de una longitud de entre 3 y 6 cm, de un color rojo fuerte y corola amarilla. El fruto es una {% glossary legumbre %} comprimida, rojiza, linear, algo curva, de 4 a 10,5 cm de largo por 1 cm de ancho.
+
+📋 **Descripción técnica:** Subarbusto subáfilo de 20-40 cm de alt., con tallos subterráneos robustos y ramas aéreas algo rígidas, estriadas longitudinalmente. Espinas geminadas. Hojas de menos de 1 cm, pinnas 1-3-yugadas. Racimos espiciformes con flores rojas. Legumbres angostas, ligeramente curvas, 4-11 cm, rojizas. Semillas de 7-9 x 4,8-5,7 mm.
 
 **Fauna que atrae:** Hasta la fecha no existen registros de interacciones biológicas con la especie. 
 
@@ -28,6 +30,8 @@ image: assets/images/Portadas/NeltumaH.webp
 ***
 
 **Bibliografía:**
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Instituto de Botánica Darwinion. (2022). *Flora Argentina. Neltuma humilis*. Recuperado de 
 [https://shorturl.at/wIP28](https://shorturl.at/wIP28)

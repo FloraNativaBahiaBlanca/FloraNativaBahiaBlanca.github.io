@@ -38,6 +38,8 @@ Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseñ
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
 
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
+
 Eynard, C., Calviño, A. & Ashworth, L. (2020). *Cultivo de plantas nativas: propagación y viverismo de especies de Argentina Central* (2ᵃ ed.). Ecoval Ediciones.
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Abutilon grandifolium*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/15928

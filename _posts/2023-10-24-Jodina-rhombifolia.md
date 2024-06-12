@@ -12,7 +12,7 @@ image: assets/images/Portadas/JodinaR.webp
 
 **Medidas:** Hasta 5 metros de altura
 
-**Otros nombres:** Peje, quebrachillo, quebracho flojo, quinchilín
+**Otros nombres:** Peje, quebrachillo, quebracho flojo, quinchilín, coro, quebrachillo flojo, quebracho blanco, quichirín, quinchilín, quirilín, sangre de toro, toro-pisombra
 
 ***
 
@@ -39,6 +39,8 @@ Arana, M. & Luna, M. L. (2019). *A new subspecies of Jodina rhombifolia (Santala
 Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseño de espacios verdes: introducción al paisaje natural: parte 2* (1ᵃ ed.). Orientación Gráfica Editora.
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Eynard, C., Calviño, A. & Ashworth, L. (2020). *Cultivo de plantas nativas: propagación y viverismo de especies de Argentina Central* (2ᵃ ed.). Ecoval Ediciones.
 

@@ -12,11 +12,13 @@ image: assets/images/Portadas/SolidagoC.webp
 
 **Medidas:** 0,5 metros de diámetro y hasta 1,7 metros de alto (en floración)
 
-**Otros nombres:** Vara amarilla, romerillo amarillo, romerillo dorado, felel
+**Otros nombres:** Vara amarilla, romerillo amarillo, romerillo dorado, felel, cola de zorro, falso romerillo, huellén, lanza de oro, mbuig, penachillo, penacho, punta de lanza, saucillo, vara de San José, yerba de los indios, yerba lanceta
 
 ***
 
-📋 **Descripción:** Herbácea perenne, {% glossary rizoma, display: rizomatosa %}, que a menudo forma manchones muy extensos. Tallos sin ramificaciones que llevan hojas en toda su extensión. Hojas alargadas, de 4 a 8 cm. de longitud, con pequeños pelos cortos y curvos en sus bordes. Las flores son de color amarillo brillante y se disponen en {% glossary capitulo, display: capítulos %} agrupados en densas {% glossary inflorescencia, display: inflorescencias %} al final del tallo. Los frutos son {% glossary aquenio, display: aquenios %} con {% glossary vilano, display: papus %} blanco.
+🌱 **Descripción general:** Herbácea perenne, {% glossary rizoma, display: rizomatosa %}, que a menudo forma manchones muy extensos. Tallos sin ramificaciones que llevan hojas en toda su extensión. Hojas alargadas, de 4 a 8 cm. de longitud, con pequeños pelos cortos y curvos en sus bordes. Las flores son de color amarillo brillante y se disponen en {% glossary capitulo, display: capítulos %} agrupados en densas {% glossary inflorescencia, display: inflorescencias %} al final del tallo. Los frutos son {% glossary aquenio, display: aquenios %} con {% glossary vilano, display: papus %} blanco.
+
+📋 **Descripción técnica:** Hierbas perennes, rizomatosas, hasta de 1,70 m de alto; tallos erectos, hojosos, glabros. Hojas basales usualmente no persistentes durante la floración; hojas caulinares angostamente oblanceoladas a elípticas, de 2-9 cm × 0,3-15 mm, base atenuada, ápice agudo, gradualmente menores hacia el ápice, margen aserrado en la porción distal; las del eje de la inflorescencia lineares, reducidas, con margen entero. Capítulos radiados, cortamente pedunculados, muy numerosos, dispuestos en inflorescencias secundarias paniculiformes, piramidales, amplias, densas, de 4-6 × 4-5 mm. Involucro acampanado, con filarios graduados dispuestos en 3(4) series, oblongos, de 1,5- 4,5 × 0,6-0,9 mm, subobtusos. Flores marginales con corola amarilla, de 3,3-4,6 mm de largo, limbo de 1,7-2,5 × ca. 0,5 mm; flores del centro con corola de 3-3,8 mm de largo. Aquenios obovoides a elipsoides, de 0,5-0,8 × 0,3 mm, subglabros. Papus ca. 3,5 mm de largo.
 
 **Fauna que atrae:** (🦋🐝🪲🐦) La planta es polinizada por abejas y también visitada por otros insectos como mariposas y escarabajos. Sus semillas alimentan a las aves granívoras.
 
@@ -33,6 +35,8 @@ image: assets/images/Portadas/SolidagoC.webp
 Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseño de espacios verdes: introducción al paisaje natural: parte 2* (1ᵃ ed.). Orientación Gráfica Editora.
 
 Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de 
 [https://shorturl.at/ghBE9](https://shorturl.at/ghBE9)

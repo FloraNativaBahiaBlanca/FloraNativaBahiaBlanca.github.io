@@ -12,7 +12,7 @@ image: assets/images/Portadas/PassifloraC.webp
 
 **Medidas:** Hasta 5 metros de altura
 
-**Otros nombres:** Pasionaria, flor de la pasión
+**Otros nombres:** Pasionaria, flor de la pasión, biricuyá, brucuyá, burucuyá, flor de Cristo, fruta de la pasión, granadilla, pasiflora, pocote
 
 ***
 
@@ -43,6 +43,8 @@ Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseñ
 Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
 
 Deginani, N. B., & Novara, L. (1999). *Passifloraceae*. Aportes Botanicos de Salta-Serie Flora, *6*(2), 1-24.
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Eynard, C., Calviño, A. & Ashworth, L. (2020). *Cultivo de plantas nativas: propagación y viverismo de especies de Argentina Central* (2ᵃ ed.). Ecoval Ediciones.
 

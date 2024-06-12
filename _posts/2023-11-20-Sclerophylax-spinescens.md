@@ -32,4 +32,6 @@ image: assets/images/Portadas/SclerophylaxS.webp
 
 De La Peña, M. (2005). Nuevas Observaciones en la Alimentación de las Aves. *FAVE Sección Ciencias Veterinarias*, *1*(2), 59–64. https://doi.org/10.14409/favecv.v1i2.1377
 
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
+
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Sclerophylax spinescens*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/302

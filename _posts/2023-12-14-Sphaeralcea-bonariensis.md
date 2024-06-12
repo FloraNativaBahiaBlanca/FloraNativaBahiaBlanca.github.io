@@ -12,7 +12,7 @@ image: assets/images/Portadas/SphaeralceaB.webp
 
 **Medidas:** Hasta 1,5 metros de altura
 
-**Otros nombres:** Malvavisco, malva de zorro, malva blanca
+**Otros nombres:** Malvavisco, malva de zorro, malva blanca, malvavisco rosado, malvisco, tîpîshatá
 
 ***
 
@@ -37,6 +37,8 @@ Barboza, G. E., J. J. Cantero, C. Núñez, A. Pacciaroni & L. Ariza Espinar. 200
 Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseño de espacios verdes: introducción al paisaje natural: parte 2* (1ᵃ ed.). Orientación Gráfica Editora.
 
 Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Goñi, D. (2021). 𝘝𝘪𝘴𝘪𝘵𝘢𝘯𝘵𝘦𝘴 𝘧𝘭𝘰𝘳𝘢𝘭𝘦𝘴 𝘥𝘦 𝘚𝘱𝘩𝘢𝘦𝘳𝘢𝘭𝘤𝘦𝘢 𝘣𝘰𝘯𝘢𝘳𝘪𝘦𝘯𝘴𝘪𝘴 (𝘊𝘢𝘷.) 𝘎𝘳𝘪𝘴𝘦𝘣. 𝘦𝘯 𝘭𝘢 𝘤𝘪𝘶𝘥𝘢𝘥 𝘥𝘦 𝘉𝘢𝘩𝘪‌𝘢 𝘉𝘭𝘢𝘯𝘤𝘢, 𝘈𝘳𝘨𝘦𝘯𝘵𝘪𝘯𝘢 [Tesis de tecnicatura, Universidad Nacional del Sur]. https://repositoriodigital.uns.edu.ar/handle/123456789/5855
 

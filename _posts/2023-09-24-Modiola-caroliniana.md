@@ -12,11 +12,13 @@ image: assets/images/Portadas/ModiolaC.webp
 
 **Medidas:** Hasta 45 cm. estando postrada
 
-**Otros nombres:** Sánalo todo, mercurio, mercurial
+**Otros nombres:** Sánalo todo, mercurio, mercurial, malva, pila pila, sana todo
 
 ***
 
-📋 **Descripción:** Hierba perenne rastrera. Tanto sus tallos como sus hojas están cubiertos de finos pelos. Tallos tendidos o ascendentes, con raíces en los nudos. Hojas {% glossary alterna, display: alternas %}, {% glossary suborbicular, display: suborbiculares %}, 5 a 7 veces {% glossary palmatipartido, display: palmatipartidas %}, de 1,5 a 4 cm. de longitud y con {% glossary peciolo, display: pecíolos %} de hasta 7 cm. de largo. Flores pequeñas, solitarias, {% glossary axilar, display: axilares %}, color anaranjado. Los frutos son {% glossary mericarpo, display: mericarpos %} oscuros a la madurez, que se dividen en varias partes con una semilla cada una. Las semillas son oscuras, {% glossary reniforme, display: reniformes %}, de 1,5 mm. de longitud, algo {% glossary pubescente, display: pubescentes %}.
+🌱 **Descripción general:** Hierba perenne rastrera. Tanto sus tallos como sus hojas están cubiertos de finos pelos. Tallos tendidos o ascendentes, con raíces en los nudos. Hojas {% glossary alterna, display: alternas %}, {% glossary suborbicular, display: suborbiculares %}, 5 a 7 veces {% glossary palmatipartido, display: palmatipartidas %}, de 1,5 a 4 cm. de longitud y con {% glossary peciolo, display: pecíolos %} de hasta 7 cm. de largo. Flores pequeñas, solitarias, {% glossary axilar, display: axilares %}, color anaranjado. Los frutos son {% glossary mericarpo, display: mericarpos %} oscuros a la madurez, que se dividen en varias partes con una semilla cada una. Las semillas son oscuras, {% glossary reniforme, display: reniformes %}, de 1,5 mm. de longitud, algo {% glossary pubescente, display: pubescentes %}.
+
+📋 **Descripción técnica:** Hierba perenne, rastrera, radicante en los nudos. Tallos de 20-60 cm, rastreros o ascendentes, pubescentes. Pecíolo de 3-5 cm; lámina 1-4 cm, suborbiculares a ovadas, palmatipartida, 5-7 lobuladas, cubierta por pelos estrellados, margen crenado. Estípulas de 3-4 × 1,5-3 mm. Flores solitarias, axilares pedúnculos de 1-3 cm. Calículo de 2-3 brácteas lanceoladas, pestañosas, de 3-5 mm. Cáliz de 4-7 mm, interior lanoso. Corola con 5 pétalos, de 4-8 mm, de color anaranjado con el centro rojo. Mericarpos de 5-6 mm, cara lateral reticulada, cara dorsal setosa, con 2 espinas de 1,5-3 mm.
 
 **Fauna que atrae:** (🦋🐝) Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas y mariposas.
 
@@ -29,6 +31,8 @@ image: assets/images/Portadas/ModiolaC.webp
 ***
 
 **Bibliografía:**
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de 
 [https://shorturl.at/rAS17](https://shorturl.at/rAS17)

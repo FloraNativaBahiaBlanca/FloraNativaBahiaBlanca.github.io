@@ -12,11 +12,13 @@ image: assets/images/Portadas/NicotianaL.webp
 
 **Medidas:** 0,4 metros de diámetro y hasta 1 metro de altura (en floración)
 
-**Otros nombres:** Flor de la tarde, yuyo del sapo, tabaquillo
+**Otros nombres:** Flor de la tarde, yuyo del sapo, tabaquillo, coro, flor de la tarde, flor de sapo, lagaña de perro, lámpara, tabaco del campo, tabaquillo, tardilla, tardilla de la sierra
 
 ***
 
-📋 **Descripción:** Herbácea {% glossary arrosetado, display: arrosetada %} perenne. Su follaje es persistente. Hojas {% glossary ovado, display: ovadas %}, con el borde algo ondulado y {% glossary peciolo, display: pecíolo %} {% glossary alado %}. Flores {% glossary actinomorfa, display: actinomorfas %} y bisexuales, la {% glossary corola %} posee un tubo que mide entre 4 y 12 cm., con {% glossary limbo %} de entre 2 y 2,5 cm. de diámetro. El fruto es una cápsula ovoide de entre 1 y 1,5 cm.
+🌱 **Descripción general:** Herbácea {% glossary arrosetado, display: arrosetada %} perenne. Su follaje es persistente. Hojas {% glossary ovado, display: ovadas %}, con el borde algo ondulado y {% glossary peciolo, display: pecíolo %} {% glossary alado %}. Flores {% glossary actinomorfa, display: actinomorfas %} y bisexuales, la {% glossary corola %} posee un tubo que mide entre 4 y 12 cm., con {% glossary limbo %} de entre 2 y 2,5 cm. de diámetro. El fruto es una cápsula ovoide de entre 1 y 1,5 cm.
+
+📋 **Descripción técnica:** Hierbas arrosetadas, pubescentes. Hojas con pecíolo alado, auriculado en la base; láminas ovadas, de borde algo ondulado. Flores horizontales a erguidas; cáliz con lacinias equilongas, mayores que la mitad del tubo, de igual longitud o superándolo; corola blanca, externamente con tintes verdosos o purpúreos, limbo actinomorfo de lacinias ovadas agudas, tubo uniformemente ventricoso cerca de la boca, ca. 86 (40-120) mm; estambres incluidos, adheridos a tres niveles por arriba de la mitad del tubo, de tres longitudes, el mediano curvo en el ápice; estilo incluso.
 
 **Fauna que atrae:** (🦋) Sus flores atraen principalmente a la especie de polilla titán (*Aellopos titan*) y otras mariposas nocturnas, en especial de la familia *Sphingidae*.
 
@@ -31,6 +33,8 @@ image: assets/images/Portadas/NicotianaL.webp
 **Bibliografía:**
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Nicotiana longiflora*. Recuperado de 
 [https://shorturl.at/cgpJ3](https://shorturl.at/cgpJ3)

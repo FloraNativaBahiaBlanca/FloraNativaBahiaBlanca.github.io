@@ -16,7 +16,9 @@ image: assets/images/Portadas/SisyrinchiumP.webp
 
 ***
 
-📋 **Descripción:** Hierba perenne, con raíces carnosas. Numerosas hojas {% glossary basal, display: basales %}, acintadas, verde-grisáceas, de hasta 25 cm. de largo. Flores de 10 a 20 mm. de diámetro, con seis {% glossary tepalo, display: tépalos %} de color azul-violáceo que nacen desde el interior de {% glossary bractea, display: brácteas %} verdes, dispuestas en la parte superior de los tallos. El fruto es una {% glossary capsula %} con numerosas semillas pequeñas.
+🌱 **Descripción general:** Hierba perenne, con raíces carnosas. Numerosas hojas {% glossary basal, display: basales %}, acintadas, verde-grisáceas, de hasta 25 cm. de largo. Flores de 10 a 20 mm. de diámetro, con seis {% glossary tepalo, display: tépalos %} de color azul-violáceo que nacen desde el interior de {% glossary bractea, display: brácteas %} verdes, dispuestas en la parte superior de los tallos. El fruto es una {% glossary capsula %} con numerosas semillas pequeñas.
+
+📋 **Descripción técnica:** Plantas de 10-50 cm de altura. Rizoma corto con muchas raíces fasciculadas, carnoso-fibrosas con frecuencia de color rojizo. Hojas basales numerosas, lineares, verde-grisáceas, de 7-25 cm × 2-4 mm, de bordes ásperos, ciliados. Tallos florales numerosos en cada mata, alado-ancipitados, de bordes ciliados, con 2-3 hojas gradualmente reducidas hacia el ápice y brácteas. Espatas hasta 7, rara vez más, multifloras, de 12-15 mm de largo; brácteas casi iguales, de bordes algo escarioso-membranosos. Flores violáceas, de 10-20 mm de diámetro. Tépalos inferiormente contiguos, formando una copa, oblanceolados, de 12-17 mm de largo, los exteriores de 3,5-4,5 mm lat., los interiores más angostos, ambas series con apículo. Columna estaminal ventricosa, de 1,9 mm de largo, densamente cubierta por elaióforos hacia la base, más angosta y con pelos glandulares, ralos hacia el ápice. Anteras contiguas, derechas, de 1-1,2 mm de largo Ovario obovoide, piloso-glanduloso, de 1,2 × 0,8-1 mm. Ramas del estilo muy pequeñas, en gran parte soldadas entre sí. Cápsula obovoide o casi globosa, irregular, de 4-5 × 3,5 mm. Semillas diminutas, negras.
 
 **Fauna que atrae:** (🐝🪲🐦) Sus flores son polinizadas por pequeños escarabajos y abejas. Las semillas son consumidas por aves.
 
@@ -31,6 +33,8 @@ image: assets/images/Portadas/SisyrinchiumP.webp
 **Bibliografía:**
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Sisyrinchium platense*. Recuperado de 
 [https://shorturl.at/cjuBO](https://shorturl.at/cjuBO)

@@ -12,7 +12,7 @@ image: assets/images/Portadas/DiscariaA.webp
 
 **Medidas:** Hasta 1 metro de altura
 
-**Otros nombres:** Quina del Brasil, kolü lawen (ranquel), trevu (mapuche)
+**Otros nombres:** Quina del Brasil, kolü lawen (ranquel), trevu (mapuche), brusca, coronilla, coronillo, coronillo del campo, charkao, quina del campo, quina quina, tala
 
 ***
 
@@ -32,6 +32,8 @@ image: assets/images/Portadas/DiscariaA.webp
 ***
 
 **Bibliografía:**
+
+De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de https://revistapsicologia.uchile.cl/index.php/BDF/article/view/49849
 
