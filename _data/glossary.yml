@@ -22,6 +22,8 @@
   definition: "referido a las hojas, cuando éstas se insertan en el tallo a distintos niveles, una en cada nudo."
 - term: amplexicaule
   definition: "referido a las hojas, cuando éstas abrazan por su base al tallo."
+- term: ancipitado
+  definition: "órgano comprimido y aguzado a lo largo, formando dos filos."
 - term: androceo
   definition: "conjunto de órganos masculinos de una flor; estambres."
 - term: androginoforo
@@ -40,6 +42,8 @@
   definition: "extremo de un órgano situado en el punto opuesto de donde se origina."
 - term: apiculado
   definition: "hoja que se estrecha bruscamente en el ápice."
+- term: apiculo
+  definition: "punta corta, más o menos aguda y bien diferenciada que termina abruptamente."
 - term: aquenio
   definition: "fruto seco, monospermo e indehiscente, como los de la familia Compositae, también denominado cipsela."
 - term: araenosa
@@ -110,6 +114,8 @@
   definition: "inflorescencia que consta de 5 brácteas y 4-5 nectarios entorno a 5 flores masculinas reducidas a 1 estambre y una flor femenina central con gineceo tricarpelar. Es característico de las Euphorbiaceae."
 - term: cigomorfa
   definition: "que presenta un solo plano de simetría, como la flor de las violetas o los pensamientos."
+- term: ciliado
+  definition: "que posee pelos rígidos y finos al margen de las hojas."
 - term: cilio
   definition: "pelos rígidos y finos del margen de las hojas."
 - term: cima
@@ -178,6 +184,8 @@
   definition: "se aplica a cualquier órgano dispuesto en dos filas, como las hojas de las gramíneas."
 - term: drupa
   definition: "fruto carnoso indehiscente que envuelve al hueso (endocarpio) donde se contiene la semilla."
+- term: elaioforo
+  definition: "glándula secretora de aceite que se halla en algunas flores."
 - term: eliptico
   definition: "con el contorno con forma de elipse."
 - term: emarginado
@@ -206,6 +214,8 @@
   definition: "con una hendidura en el ápice; sinónimo de emarginado."
 - term: espadice
   definition: "espiga, generalmente con flores unisexuales, con el eje engrosado y carnoso."
+- term: espata
+  definition: "bráctea que cubre algunas inflorescencias."
 - term: espatulado
   definition: "con forma de espátula."
 - term: espicastro
@@ -258,6 +268,8 @@
   definition: "capa externa del fruto; en el melocotón, un fruto tipo drupa, es la piel."
 - term: farinosa
   definition: "con una cubierta que parece de harina."
+- term: fasciculado
+  definition: "dispuesto o agrupado formando manojos"
 - term: filamento
   definition: "parte basal estéril de un estambre."
 - term: filario
@@ -404,6 +416,8 @@
   definition: "en el tallo puntos donde se insertan las hojas o las ramas."
 - term: nuez
   definition: "fruto seco, monospermo e indehiscente, normalmente con el pericarpio endurecido."
+- term: oblanceolado
+  definition: "lanceolado pero con la parte más ancha en el tercio superior."
 - term: oblongo
   definition: "hojas alargadas, más largas que anchas."
 - term: obovado
@@ -587,7 +601,7 @@
 - term: surcado
   definition: "que presenta surcos."
 - term: tepalo
-  definition: "piezas del periantio en flores en las que no se distinguen cáliz y corola, al presentar las piezas de ambos verticilos una consistencia, color y forma semejante; esto sucede en algunas liliáceas, como los ajos (Allium)."
+  definition: "piezas de un perianto no diferenciado en cáliz y corola."
 - term: terminal
   definition: "situada en un extremo de la planta o del órgano del que se trate."
 - term: terofito
@@ -630,6 +644,8 @@
   definition: "corola con los pétalos soldados casi en toda su longitud y ensanchada en su parte media de modo que asemeja la tulipa de un quinqué."
 - term: vaina
   definition: "ensanchamiento en la base del peciolo; en algunas monocotiledóneas, como las gramíneas, parte basal de las hojas, que envuelve al tallo."
+- term: ventricoso
+  definition: "hinchado a modo de vientre."
 - term: verticilastro
   definition: "conjunto de flores muy próximas, como sucede en las labiadas, que parecen agruparse en verticilos."
 - term: verticilo
