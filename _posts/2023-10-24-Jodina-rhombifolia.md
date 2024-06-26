@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jodina rhombifolia (Sombra de Toro)"
-tags: [Arbol, Color verde]
+tags: [Arboles, Color verde]
 categories: [Flora, Santalaceae]
 image: assets/images/Portadas/JodinaR.webp
 ---

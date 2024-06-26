@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discaria americana (Brusquilla)"
-tags: [Arbusto, Endemismo, Color blanco]
+tags: [Arbustos, Endemismo, Color blanco]
 categories: [Flora, Rhamnaceae]
 image: assets/images/Portadas/DiscariaA.webp
 ---
