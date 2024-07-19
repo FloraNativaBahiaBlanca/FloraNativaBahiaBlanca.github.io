@@ -37,7 +37,7 @@ image: assets/images/Portadas/RhynchosidaP.webp
 
 Fryxell, P. A. (1978). *Neotropical Segregates from Sida L. (Malvaceae). Brittonia, 30(4), 447.* doi:10.2307/2806349
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Rhynchosida physocalyx*. Recuperado de https://shorturl.at/kr2gX
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Rhynchosida physocalyx*. Recuperado de [https://shorturl.at/kr2gX](https://shorturl.at/kr2gX)
 
 Krapovickas, A., Tolaba, J. A. & Novara, L. (ed.). (2008). *Malvaceae.* Aportes Botanicos de Salta - Serie Flora, 8 (12). pp. 1-136. ISSN 0327- 506X
 
