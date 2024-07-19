@@ -34,7 +34,8 @@ image: assets/images/Portadas/JodinaR.webp
 
 **Bibliografía:**
 
-Arana, M. & Luna, M. L. (2019). *A new subspecies of Jodina rhombifolia (Santalales: Cervantesiaceae), with taxonomical considerations*. *Phytotaxa*, *425*(4). https://doi.org/10.11646/phytotaxa.425.4.2
+Arana, M. & Luna, M. L. (2019). *A new subspecies of Jodina rhombifolia (Santalales: Cervantesiaceae), with taxonomical considerations*. *Phytotaxa*, *425*(4).
+https://doi.org/10.11646/phytotaxa.425.4.2
 
 Burgueño, G. & Nardini, C. (2019). *Plantas nativas rioplatenses para el diseño de espacios verdes: introducción al paisaje natural: parte 2* (1ᵃ ed.). Orientación Gráfica Editora.
 
@@ -44,12 +45,14 @@ De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de l
 
 Eynard, C., Calviño, A. & Ashworth, L. (2020). *Cultivo de plantas nativas: propagación y viverismo de especies de Argentina Central* (2ᵃ ed.). Ecoval Ediciones.
 
-Instituto de Botánica Darwinion. (2019). *Flora Argentina. Jodina rhombifolia*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/24888
+Instituto de Botánica Darwinion. (2019). *Flora Argentina. Jodina rhombifolia*. Recuperado de https://shorturl.at/pMIub
 
-Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. https://www.ambiente.gba.gob.ar/imagenes/Nativas/Catalogo_Nativas_2023_web.pdf
+Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. https://shorturl.at/xm9Mr
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 
-Teves, M. R. (2016). *Actividad de los extractos acuosos liofilizados de hojas y corteza de Jodina rhombifolia (Hook. & Arn.) Reissek (Santalaceae) sobre el tránsito intestinal en ratones*. Spei Domus, 12(25):1-8. https://doi.org/10.16925/2382-4247.2016.02.01
+Teves, M. R. (2016). *Actividad de los extractos acuosos liofilizados de hojas y corteza de Jodina rhombifolia (Hook. & Arn.) Reissek (Santalaceae) sobre el tránsito intestinal en ratones*. Spei Domus, 12(25):1-8.
+https://doi.org/10.16925/2382-4247.2016.02.01
 
-Teves, M., Pacheco, P. H., Bazan, C. R., Wendell, G. (2018). *Diuretic activity of methanolic extracts from Jodina rhombifolia aerial parts on Wistar rats*. Asociación Académica de Ciencias Farmacéuticas de Antofagasta; Journal of Pharmacy & Pharmacognosy Research; 6; 5, (402-411). https://doi.org/10.2147/IJWR.S112029
+Teves, M., Pacheco, P. H., Bazan, C. R., Wendell, G. (2018). *Diuretic activity of methanolic extracts from Jodina rhombifolia aerial parts on Wistar rats*. Asociación Académica de Ciencias Farmacéuticas de Antofagasta; Journal of Pharmacy & Pharmacognosy Research; 6; 5, (402-411). 
+https://doi.org/10.2147/IJWR.S112029

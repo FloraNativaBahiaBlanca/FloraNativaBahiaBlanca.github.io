@@ -33,10 +33,10 @@ image: assets/images/Portadas/FrankeniaJ.webp
 
 **Bibliografía:**
 
-Correa, M. N. (1966). *Las Frankeniaceae argentinas*. Darwiniana, *14*(1), 68–94. http://www.jstor.org/stable/23212953
+Correa, M. N. (1966). *Las Frankeniaceae argentinas*. Darwiniana, *14*(1), 68–94. https://shorturl.at/NIlK6
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Frankenia juniperoides*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/24895
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Frankenia juniperoides*. Recuperado de https://shorturl.at/dxqZ2
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 
-Verettoni, H. N. (1952). *Las asociaciones halófilas del partido de Bahía Blanca*. Estudios económicos, *4*(11), 41–65. https://doi.org/10.52292/j.estudecon.1952.1291
+Verettoni, H. N. (1952). *Las asociaciones halófilas del partido de Bahía Blanca*. Estudios económicos, *4*(11), 41–65. https://shorturl.at/Czpj1

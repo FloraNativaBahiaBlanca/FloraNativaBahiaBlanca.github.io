@@ -40,6 +40,6 @@ Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Goñi, D. (2021). 𝘝𝘪𝘴𝘪𝘵𝘢𝘯𝘵𝘦𝘴 𝘧𝘭𝘰𝘳𝘢𝘭𝘦𝘴 𝘥𝘦 𝘚𝘱𝘩𝘢𝘦𝘳𝘢𝘭𝘤𝘦𝘢 𝘣𝘰𝘯𝘢𝘳𝘪𝘦𝘯𝘴𝘪𝘴 (𝘊𝘢𝘷.) 𝘎𝘳𝘪𝘴𝘦𝘣. 𝘦𝘯 𝘭𝘢 𝘤𝘪𝘶𝘥𝘢𝘥 𝘥𝘦 𝘉𝘢𝘩𝘪‌𝘢 𝘉𝘭𝘢𝘯𝘤𝘢, 𝘈𝘳𝘨𝘦𝘯𝘵𝘪𝘯𝘢 [Tesis de tecnicatura, Universidad Nacional del Sur]. https://repositoriodigital.uns.edu.ar/handle/123456789/5855
+Goñi, D. (2021). 𝘝𝘪𝘴𝘪𝘵𝘢𝘯𝘵𝘦𝘴 𝘧𝘭𝘰𝘳𝘢𝘭𝘦𝘴 𝘥𝘦 𝘚𝘱𝘩𝘢𝘦𝘳𝘢𝘭𝘤𝘦𝘢 𝘣𝘰𝘯𝘢𝘳𝘪𝘦𝘯𝘴𝘪𝘴 (𝘊𝘢𝘷.) 𝘎𝘳𝘪𝘴𝘦𝘣. 𝘦𝘯 𝘭𝘢 𝘤𝘪𝘶𝘥𝘢𝘥 𝘥𝘦 𝘉𝘢𝘩𝘪‌𝘢 𝘉𝘭𝘢𝘯𝘤𝘢, 𝘈𝘳𝘨𝘦𝘯𝘵𝘪𝘯𝘢 [Tesis de tecnicatura, Universidad Nacional del Sur]. https://shorturl.at/IEFYe
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Sphaeralcea bonariensis*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/15773
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Sphaeralcea bonariensis*. Recuperado de https://shorturl.at/e211U

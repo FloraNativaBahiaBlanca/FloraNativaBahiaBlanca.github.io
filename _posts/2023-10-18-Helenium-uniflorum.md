@@ -30,6 +30,6 @@ image: assets/images/Portadas/HeleniumU.webp
 
 **Bibliografía:**
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Helenium uniflorum*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/199368
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Helenium uniflorum*. Recuperado de https://shorturl.at/9NPD2
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
