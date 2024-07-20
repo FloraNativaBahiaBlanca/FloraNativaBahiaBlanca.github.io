@@ -18,6 +18,8 @@
   definition: "protuberancias rígidas y punzantes en la epidermis de un órgano (tallo, hoja, etc.)."
 - term: alado
   definition: "con alguna estructura laminar a modo de ala, como algunos frutos o tallos."
+- term: albumen
+  definition: "tejido nutricio que acompaña al embrión en la semilla"
 - term: alterna
   definition: "referido a las hojas, cuando éstas se insertan en el tallo a distintos niveles, una en cada nudo."
 - term: amplexicaule
@@ -154,6 +156,8 @@
   definition: "en el fruto de las crucíferas parte que alberga las semillas."
 - term: cuneada
   definition: "hoja que en su base se estrecha paulatinamente."
+- term: cuneiforme
+  definition: "con forma de cuña o semejante a ella"
 - term: deciduo
   definition: "caedizo, caduco, como las hojas de los árboles que las pierden en otoño."
 - term: decumbente
@@ -170,6 +174,8 @@
   definition: "hoja con el margen dentado con pequeños dientes."
 - term: diadelfos
   definition: "estambres que están soldados por sus filamentos formando dos grupos."
+- term: diclino
+  definition: "sinónimo de unisexual, flores o espiguillas masculinas o femeninas"
 - term: didimo
   definition: "que está formado por una pareja, en el caso de los frutos, de mericarpos."
 - term: digitada
@@ -266,6 +272,8 @@
   definition: "que sale al exterior de la estructura en la que se desarrolla, como sucede con los estabres de las gramíneas."
 - term: exocarpio
   definition: "capa externa del fruto; en el melocotón, un fruto tipo drupa, es la piel."
+- term: farinaceo
+  definition: "con aspecto de harina"
 - term: farinosa
   definition: "con una cubierta que parece de harina."
 - term: fasciculado
@@ -291,7 +299,9 @@
 - term: foveado
   definition: "con fosas o concavidades."
 - term: fruto
-  definition: "órgano especializado en la dispersión de las semillas formado a partir de las paredes del gineceo y en el que también puede participar el receptáculo u otras estructuras florales; más ráramente procede de una inflorescencias, constituyendo entonces una infrute.ia."
+  definition: "órgano especializado en la dispersión de las semillas formado a partir de las paredes del gineceo y en el que también puede participar el receptáculo u otras estructuras florales; más ráramente procede de una inflorescencias, constituyendo entonces una infrutecencia."
+- term: funiculo
+  definition: "pedicelo que une el ovulo a la placenta"
 - term: geniculada
   definition: "se refiere a las aristas que presentan un ángulo marcado."
 - term: geofito
@@ -600,6 +610,8 @@
   definition: "gineceo cuyo punto de inserción está por encima del resto de los verticilos florales; cáliz, corola y androceo; la flor es entonces hipogina."
 - term: surcado
   definition: "que presenta surcos."
+- term: teca
+  definition: "cada una de las dos mitades de una antera"
 - term: tepalo
   definition: "piezas de un perianto no diferenciado en cáliz y corola."
 - term: terminal
@@ -610,6 +622,8 @@
   definition: "cubierta de la semilla."
 - term: tomento
   definition: "conjunto de pelos de algunas plantas que se doblan y son enmarañados, formando capas de lana."
+- term: tomentoso
+  definition: "con tomento o pelos"
 - term: tetranucula
   definition: "grupo de cuatro núculas."
 - term: trepador
@@ -618,6 +632,8 @@
   definition: "gineceo formado por tres carpelos."
 - term: tricoma
   definition: "apéndices epidérmicos con diversa forma, estructura y función."
+- term: trifido
+  definition: "que está dividido en tres secciones"
 - term: trigono
   definition: "con tres caras, como algunos tallos o frutos."
 - term: truncada
