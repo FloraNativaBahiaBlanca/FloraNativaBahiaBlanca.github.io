@@ -66,6 +66,8 @@
   definition: "con surcos a lo largo de las ramas o el tallo."
 - term: auricula
   definition: "expansión lateral en la base de las hojas; son características las de las gramíneas y que junto a la lígula resultan útiles para su identificación en estado vegetativo."
+- term: auriculado
+  definition: "que posee aurícula; expansión lateral en la base de las hojas"
 - term: axilar
   definition: "situado junto al punto de inserción de una hoja, bráctea o rama en el tallo."
 - term: basal
@@ -344,6 +346,8 @@
   definition: "órgano laminar especializado en realizar la fotosíntesis, que normalmente consta de limbo o lámina y peciolo; el peciolo puede ensancharse en su base, formando una vaina, y presentar estípulas."
 - term: imparipinnada
   definition: "hoja compuesta y pinnada cuyo raquis termina en un foliolo."
+- term: incluso
+  definition: "que no sobresale"
 - term: indehiscente
   definition: "fruto que una vez maduro no se abre espontáneamente para dispersar las semillas; en este caso se dispersan conjuntamente fruto y semillas."
 - term: indumento
@@ -358,6 +362,8 @@
   definition: "planta introducida en el territorio por el hombre y que se asilvestra."
 - term: involucro
   definition: "conjunto de brácteas que rodean a las flores en una inflorescencia."
+- term: lacinia
+  definition: "incisión estrecha y profunda"
 - term: laciniada
   definition: "hoja, pétalo u otro órgano laminar dividido en segmentos muy finos."
 - term: lanceolado
@@ -432,6 +438,8 @@
   definition: "hojas alargadas, más largas que anchas."
 - term: obovado
   definition: "con el contorno ovado, con forma de huevo, pero con la parte más ancha en la zona apical."
+- term: obtuso
+  definition: "hoja cuyos bordes forman en el ápice un ángulo obtuso"
 - term: ocrea
   definition: "estructura membranosa que rodea el tallo procedente de la soldadura de las estípulas, característica de las poligonáceas."
 - term: operculo
@@ -464,6 +472,8 @@
   definition: "parte de la hoja que une el limbo al tallo."
 - term: pedicelo
   definition: "el rabillo que une cada flor al eje de la inflorescencia (pedúnculo)."
+- term: pedunculado
+  definition: "que posee pedúnculo; eje principal de una inflorescencia"
 - term: pedunculo
   definition: "eje principal de una inflorescencia."
 - term: pendula
@@ -538,6 +548,8 @@
   definition: "inflorescencia formada por un eje de crecimiento indefinido sobre el cual van brotando de la base al ápice flores pediceladas."
 - term: radiado
   definition: "el capítulo de las Compuestas cuando poseen flores marginales liguladas a modo de radios."
+- term: radicante
+  definition: "que produce raíces o es capaz de producirlas"
 - term: raquis
   definition: "en las hojas compuestas eje en el que se insertan los foliolos; eje principal de la inflorescencia de las gramíneas (Gramineae)."
 - term: rastrero
@@ -582,6 +594,8 @@
   definition: "sentada, carente de peciolo en el caso de las hojas o de pedúnculo o pedicelo en las flores."
 - term: seta
   definition: "pelo rígido no muy corto."
+- term: setoso
+  definition: "que posee setas; pelos rígidos no muy cortos"
 - term: silícua
   definition: "fruto seco, dehiscente y polispermo consistente en 2 valvas separadas por un tabique denominado replo, de origen placentario; es 3(4) veces más largo que ancho y es característico de la familia Cruciferae."
 - term: silicula
