@@ -34,6 +34,8 @@
   definition: "se dice de la silícula (fruto de las crucíferas), cuando el tabique que separa las dos valvas es perpendicular a su parte más ancha, como en Capsella bursa-pastoris."
 - term: antera
   definition: "parte apical del estambre, donde se encuentra el polen, dentro de los sacos polínicos."
+- term: antesis
+  definition: "floración"
 - term: antrorso
   definition: "dirigido hacia la parte apical del órgano al que se refiere."
 - term: anual
@@ -84,6 +86,8 @@
   definition: "estructura laminar situada en la base de la inflorescencia; normalmente menores y más sencillas que las normales."
 - term: bracteola
   definition: "brácteas de las inflorescencias terminales en las inflorescencias compuestas."
+- term: braquiblasto
+  definition: "tallo corto de crecimiento definido"
 - term: bulbo
   definition: "tallo subterráneo de reserva, carnoso; normalmente está formado por la base engrosada de hojas o escamas. En su parte interna se encuentra la yema apical y en su base desarrolla raíces adventicias."
 - term: caliculo
@@ -114,6 +118,8 @@
   definition: "fruto que presenta alguna parte del pericarpio carnosa."
 - term: carpelo
   definition: "hojas transformadas que componen el gineceo de las flores; cuando son varios pueden formar un sólo pistilo, con una o varias cavidades, o varios pistilos independientes."
+- term: cartacea
+  definition: "de la consistencia del papel o el pergamino"
 - term: ciatio
   definition: "inflorescencia que consta de 5 brácteas y 4-5 nectarios entorno a 5 flores masculinas reducidas a 1 estambre y una flor femenina central con gineceo tricarpelar. Es característico de las Euphorbiaceae."
 - term: cigomorfa
@@ -170,6 +176,8 @@
   definition: "disposición en que un par de hojas opuestas crece en sentido perpendicular al par anterior, formando cruces al mirarlos desde arriba."
 - term: dehiscente
   definition: "fruto que se abre espontáneamente una vez maduro para dispersar sus semillas."
+- term: deltoide
+  definition: "de contorno triangular, como la letra griega delta."
 - term: dentada
   definition: "hoja con prominencias en el margen a modo de dientes de sierra, pero menos afilados."
 - term: denticulado
@@ -266,6 +274,8 @@
   definition: "referido a los pelos del indumento, cuando éstos presentan 3 o más ramas."
 - term: estrias
   definition: "surcos o rayas que pueden presentar algunos órganos."
+- term: estrigoso
+  definition: "órgano cubierto por pelos duros y ásperos al tacto."
 - term: estrobilo
   definition: "inflorescencia con un eje rígido entorno al cual se disponen brácteas en helicoidal o cíclicamente y entre ellas esporangios (en algunos helechos) o escamas seminíferas (en las coníferas)."
 - term: eurosiberiana
@@ -280,6 +290,8 @@
   definition: "con una cubierta que parece de harina."
 - term: fasciculado
   definition: "dispuesto o agrupado formando manojos"
+- term: fasciculo
+  definition: "haz o manojo"
 - term: filamento
   definition: "parte basal estéril de un estambre."
 - term: filario
@@ -288,6 +300,8 @@
   definition: "semejante a un hilo, muy delgado y flexible."
 - term: fistuloso
   definition: "tallo hueco en su interior."
+- term: flexuoso
+  definition: "en zigzag"
 - term: flor
   definition: "órgano especializado en la reproducción, y en la que se pueden reconocer cuatro verticilos: cáliz, corola, androceo y gineceo, que se insertan en el receptáculo floral y se unen al tallo por medio del pedicelo. Presenta una gran variedad morfológica y uno o varios de los verticilos pueden estar ausentes."
 - term: flosculo
@@ -412,6 +426,8 @@
   definition: "capa media del fruto; en el melocotón, un fruto tipo drupa, es la pulpa del fruto."
 - term: micropilo
   definition: "en la semilla, orificio de la testa; es el lugar por donde penetra el tubo polínico para fertilizar el óvulo."
+- term: microvelutinoso
+  definition: "con indumento muy denso y corto, casi imperceptibles al tacto."
 - term: monadelfos
   definition: "estambres que están soldados por sus filamentos formando un solo grupo."
 - term: monoica
@@ -422,6 +438,8 @@
   definition: "fruto con una sola semilla."
 - term: mucron
   definition: "prolongación linear en el ápice de la hoja."
+- term: mucronado
+  definition: "acabado en mucrón; prolongación linear en el ápice de la hoja."
 - term: napiforme
   definition: "con forma de nabo, es decir, engrosada y con un eje principal."
 - term: nectario
@@ -448,6 +466,8 @@
   definition: "referido a las hojas, cuando éstas se insertan a lo largo del tallo una enfrente de otra, es decir, dos en cada nudo; si giran 90° con respecto a las del nudo adyacente, se denominan decusadas."
 - term: ovado
   definition: "con el contorno en forma de huevo, con la parte más ancha en la zona basal."
+- term: ovobado
+  definition: "con el contorno en forma de huevo, con la parte más ancha en la zona distal."
 - term: palea
   definition: "bráctea superior, membranosa, de las dos que se encuentran en la flor de las gramíneas; también se denomina glumela superior."
 - term: palmada
@@ -566,6 +586,8 @@
   definition: "distribución en forma de red de las nervaduras de una hoja."
 - term: retrorso
   definition: "dirigido hacia la parte basal del órgano al que se refiere."
+- term: retuso
+  definition: "con ápice truncado y ligeramente escotado."
 - term: revoluto
   definition: "que se vuelve sobre sí mismo, como las hojas en sus márgenes o algunas brácteas en su extremo."
 - term: rizoma
@@ -602,6 +624,8 @@
   definition: "fruto seco, dehiscente y polispermo consistente en 2 valvas separadas por un tabique denominado replo, de origen placentario; su longitud es menor que 3(4) veces su anchura y es característico de la familia Cruciferae; en función de la posición del tabique respecto a la máxima anchura, pueden ser latiseptas o angustiseptas."
 - term: simple
   definition: "referido a las hojas, aquellas que no presentan el limbo dividido en varios foliolos; referido a los pelos, aquéllos no ramificados."
+- term: subcartacea
+  definition: "de consistencia similar al papel o el pergamino"
 - term: subcordado
   definition: "hoja con la base algo cordada."
 - term: subcoriacea
@@ -674,6 +698,8 @@
   definition: "corola con los pétalos soldados casi en toda su longitud y ensanchada en su parte media de modo que asemeja la tulipa de un quinqué."
 - term: vaina
   definition: "ensanchamiento en la base del peciolo; en algunas monocotiledóneas, como las gramíneas, parte basal de las hojas, que envuelve al tallo."
+- term: velutinoso
+  definition: "con indumento denso y corto."
 - term: ventricoso
   definition: "hinchado a modo de vientre."
 - term: verticilastro
