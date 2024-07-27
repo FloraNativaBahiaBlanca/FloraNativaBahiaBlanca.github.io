@@ -1,5 +1,7 @@
 - term: abrazadora
   definition: "referido a las hojas, cuando éstas rodean por su base al tallo; sinónimo de amplexicaule."
+- term: acicular
+  definition: "con forma de aguja."
 - term: acodada
   definition: "doblada en ángulo."
 - term: acrescente
@@ -145,7 +147,7 @@
 - term: coriacea
   definition: "con una consistencia similar al cuero."
 - term: corimbiforme
-  definition: "con aspecto de corimbo."
+  definition: "con aspecto de corimbo; inflorescencia racemosa con pedicelos de distinto largo donde todas las flores alcanzan la misma altura."
 - term: corimbo
   definition: "inflorescencia racemosa en la que las flores se disponen a distinta altura a lo largo del eje; los pedicelos tienen una longitud tal que el conjunto de las flores forma una superficie plana, cóncava o convexa."
 - term: corola
@@ -220,6 +222,8 @@
   definition: "conjunto de apéndices situados en la base del cáliz semejantes a un segundo cáliz."
 - term: escabrida
   definition: "que tiene la superficie áspera."
+- term: escabrosa
+  definition: "áspero al tacto, cubierto de asperezas."
 - term: escapo
   definition: "tallo sin hojas que porta en su extremo una flor o inflorescencia."
 - term: escarioso
@@ -342,6 +346,8 @@
   definition: "órgano desarrollado por una planta parásita para obtener nutrientes del huésped que parasita."
 - term: hemicriptofito
   definition: "planta con las yemas de recambio situadas en la superficie del suelo durante la estación desfavorable; es una de las formas biológicas de Raunkiaer."
+- term: hemisferico
+  definition: "que tiene forma de media esfera."
 - term: herbacea
   definition: "que no desarrolla tejidos leñosos."
 - term: hermafrodita
@@ -488,6 +494,8 @@
   definition: "hoja pinnaticompuesta con dos foliolos en su extremo; entre ambos puede encontrarse un zarcillo."
 - term: patente
   definition: "estructura que se inserta en otra con un ángulo muy abierto, como puede suceder en una rama respecto un tallo."
+- term: paucicefala
+  definition: "plantas con reducido número de inflorescencias."
 - term: peciolo
   definition: "parte de la hoja que une el limbo al tallo."
 - term: pedicelo
@@ -610,6 +618,8 @@
   definition: "con aspecto de sépalo."
 - term: sepalos
   definition: "piezas de la flor que en conjunto forman el cáliz; suelen ser verdosos y tienen una función protectora; junto a los pétalos de la corola forman el perianto."
+- term: seriado
+  definition: "dícese de las series o filas en las que se disponen ciertos órganos en las plantas."
 - term: sericeo
   definition: "con pelos finos, cortos y aplicados a la superficie del órgano, con cierto brillo como la seda."
 - term: sesil
@@ -638,6 +648,8 @@
   definition: "con forma de medio círculo."
 - term: subsesil
   definition: "casi sésil, es decir, con el peciolo casi inapreciable."
+- term: subulado
+  definition: "estrechado hacia el ápice y terminado en punta fina."
 - term: suculenta
   definition: "carnosa."
 - term: sufrutice
