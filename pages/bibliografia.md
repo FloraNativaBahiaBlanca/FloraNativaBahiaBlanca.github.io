@@ -4,11 +4,12 @@ title: Bibliografía
 permalink: /bibliografia/
 ---
 
-#### En esta sección hemos reunido libros y artículos sobre la flora autóctona de Bahía Blanca y la región que consideramos pueden ser de interés. Nuestro objetivo es recopilar toda la información existente sobre el tema en un solo lugar. Si deseas agregar contenido a esta lista, puedes ponerte en contacto con nosotros a través de nuestro correo electrónico floranativabb@gmail.com, o bien en la sección 'Contacto' que se encuentra en esta plataforma.
+En esta sección hemos reunido libros y artículos sobre la flora autóctona de Bahía Blanca y la región que consideramos pueden ser de interés. Nuestro objetivo es recopilar toda la información existente sobre el tema en un solo lugar. Si deseas agregar contenido a esta lista, puedes ponerte en contacto con nosotros a través de nuestro correo electrónico floranativabb@gmail.com, o bien en la sección 'Contacto' que se encuentra en esta plataforma.
 
 ## Libros
 
 - Sanhueza, C., Germain, P., Zapperi, G., Cuevas, Y., Damiani, M., Piovan, M. J., Tizón, R. & Loydi, A. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS. https://tellusorg.wordpress.com/wp-content/uploads/2019/09/plantas-nativas-de-bb-y-la-regic3b3n-2016.pdf
+
 
 ## Artículos, tesis y tesinas
 
