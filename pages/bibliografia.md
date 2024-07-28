@@ -4,10 +4,15 @@ title: Bibliografía
 permalink: /bibliografia/
 ---
 
-Bienvenidos a Flora Nativa Bahía Blanca, un proyecto de divulgación y concientización sobre las plantas nativas de la región. En este sitio web podrás conocer más sobre las especies de plantas que habitan en la región de Bahía Blanca y sus alrededores, descubrir su importancia para el ecosistema local y aprender cómo cuidarlas y preservarlas.
+#### En esta sección hemos reunido libros y artículos sobre la flora autóctona de Bahía Blanca y la región que consideramos pueden ser de interés. Nuestro objetivo es recopilar toda la información existente sobre el tema en un solo lugar. Si deseas agregar contenido a esta lista, puedes ponerte en contacto con nosotros a través de nuestro correo electrónico floranativabb@gmail.com, o bien en la sección 'Contacto' que se encuentra en esta plataforma.
 
-Nuestra misión es promover el conocimiento y la valoración de la flora autóctona de Bahía Blanca, fomentar su conservación y concientizar sobre la importancia de su preservación para el equilibrio ecológico de la región. Queremos difundir la belleza y la diversidad de las plantas nativas, así como también su papel fundamental en la vida de los ecosistemas y las comunidades locales.
+## Libros
 
-En Flora Nativa Bahía Blanca encontrarás información detallada sobre las distintas especies de plantas autóctonas de la región, sus características, usos, propiedades y curiosidades. También te ofrecemos herramientas para que puedas identificarlas y conocer mejor sus hábitats y requerimientos.
+- Sanhueza, C., Germain, P., Zapperi, G., Cuevas, Y., Damiani, M., Piovan, M. J., Tizón, R. & Loydi, A. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS. https://tellusorg.wordpress.com/wp-content/uploads/2019/09/plantas-nativas-de-bb-y-la-regic3b3n-2016.pdf
 
-Te invitamos a explorar nuestro sitio web, descubrir la riqueza natural de Bahía Blanca y sumarte a nuestro compromiso por la conservación y el cuidado de la flora nativa. ¡Unite a nuestra comunidad y contribuye a proteger la biodiversidad de nuestra región!
+## Artículos, tesis y tesinas
+
+- Dascanio, L. M. (2022). *Caracterización morfológica de cuatro especies nativas del género Sphaeralcea con potencial ornamental y lineamientos para su aplicación paisajista.* (Tesina de grado). Universidad Nacional del Sur. https://repositoriodigital.uns.edu.ar/handle/123456789/5950
+- Goñi, D. M. (2021). *Visitantes florales de Sphaeralcea bonariensis (Cav.) Griseb. en la ciudad de Bahía Blanca, Argentina.* (Tesina de grado). Universidad Nacional del Sur. https://repositoriodigital.uns.edu.ar/handle/123456789/5855
+- Heiland, P. (2021). *Utilización de plantas nativas y sus beneficios en el diseño de parques y jardines en la ciudad de Bahía Blanca.* (Tesina de grado). Universidad Nacional del Sur. https://repositoriodigital.uns.edu.ar/handle/123456789/5819
+- Miguel, G. N. (2024). *Especies vegetales nativas con atributos ornamentales en la región de Bahía Blanca.* (Tesina de grado). Universidad Nacional del Sur. https://repositoriodigital.uns.edu.ar/handle/123456789/6859
