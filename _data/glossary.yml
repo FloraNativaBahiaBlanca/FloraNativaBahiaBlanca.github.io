@@ -34,6 +34,8 @@
   definition: "eje o pie alargado que soporta al androceo y gineceo."
 - term: angustisepta
   definition: "se dice de la silícula (fruto de las crucíferas), cuando el tabique que separa las dos valvas es perpendicular a su parte más ancha, como en Capsella bursa-pastoris."
+- term: antecio
+  definition: "en las gramíneas, casilla formada por las glumelas (lemma y pálea) que incluye la flor."
 - term: antera
   definition: "parte apical del estambre, donde se encuentra el polen, dentro de los sacos polínicos."
 - term: antesis
@@ -58,6 +60,8 @@
   definition: "envoltura, casi siempre carnosa y de colores vivos, que tienen algunas semillas."
 - term: arista
   definition: "estructura linear, rígida que se inserta en diversas posiciones en las glumas y glumelas de las gramíneas."
+- term: aristiforme
+  definition: "en forma de arista."
 - term: arrosetado
   definition: "se aplica a las hojas dispuestas en roseta, o sea sobre un tallo muy breve con entrenudos muy próximos entre sí."
 - term: articulado
@@ -96,6 +100,8 @@
   definition: "verticilo aparente de la flor, formado por brácteas que abrazan la base del cáliz."
 - term: caliz
   definition: "verticilo floral formado por los sépalos."
+- term: callo
+  definition: "porción engrosada en la base del antecio."
 - term: camefito
   definition: "planta con las yemas de recambio situadas hasta una altura 0,25 m; suelen ser pequeñas matas o herbáceas perennes."
 - term: campanulado
@@ -194,6 +200,8 @@
   definition: "que está formado por una pareja, en el caso de los frutos, de mericarpos."
 - term: digitada
   definition: "hoja compuesta con 4 o más foliolos todos ellos insertos en el extremo del peciolo."
+- term: dioecia
+  definition: "que poseen órganos de reproducción unisexuales separados en plantas diferentes."
 - term: dioica
   definition: "plantas en las que las flores unisexuales se encuentran en pies másculinos y femeninos independientes."
 - term: discoide
@@ -222,6 +230,8 @@
   definition: "margen de la hoja, pétalo o sépalo liso, carente de dientes, festones u otro tipo de división."
 - term: entomogama
   definition: "planta que para la fertilización de los óvulos necesita la participación de los insectos."
+- term: entrenudo
+  definition: "parte del tallo comprendida entre dos nudos."
 - term: epicaliz
   definition: "conjunto de apéndices situados en la base del cáliz semejantes a un segundo cáliz."
 - term: escabrida
@@ -332,6 +342,8 @@
   definition: "planta con las yemas enterradas dunante la estación desfavorable, en forma de bulbo, rizoma, etc.."
 - term: gineceo
   definition: "conjunto de órganos femeninos de una flor; está formado por uno o más carpelos que pueden formar uno o varios pistilos independientes."
+- term: ginodioica
+  definition: "especies que comprenden individuos con flores femeninas y otros con flores hermafroditas."
 - term: glabrescente
   definition: "casi sin pelos."
 - term: glabro
@@ -399,10 +411,12 @@
 - term: latex
   definition: "líquido espeso y viscoso que presentan algunas plantas y que se observa al partir alguno de sus órganos."
 - term: latisepta
-  definition: "se dice de la silícula (fruto de las crucíferas), cuando el tabique que separa las dos valvas es paralelo a su parte más ancha, como en Erophila verna."
+  definition: "se dice de la silícula (fruto de las crucíferas), cuando el tabique que separa las dos valvas es paralelo a su parte más ancha."
+- term: laxo
+  definition: "poco denso, flojo."
 - term: legumbre
   definition: "fruto seco dehiscente, típico de las leguminosas, que en la madurez se abre a lo largo de la sutura lateral."
-- term: lema
+- term: lemma
   definition: "bráctea inferior, membranosa, de las dos que se encuentran en la flor de las gramíneas; también se denomina glumela inferior."
 - term: lenticular
   definition: "con forma de lenteja."
@@ -422,6 +436,8 @@
   definition: "porción redondeada y saliente de un órgano cualquiera cuando es de pequeño tamaño (de una hoja u otro órgano lobulado)."
 - term: loculo
   definition: "en los frutos, las cavidades donde se encuentran las semillas."
+- term: lodicula
+  definition: "en la flor de las gramíneas, son dos o tres expansiones escamosas ubicadas en la base del ovario, consideradas como el perianto. Por turgencia provocan la antesis de la flor."
 - term: lomento
   definition: "fruto seco, polispermo, con estrechamientos en las zonas donde no hay semillas y que se fragmentan transversalmente."
 - term: mediterranea
