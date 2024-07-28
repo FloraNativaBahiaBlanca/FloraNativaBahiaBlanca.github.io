@@ -122,6 +122,8 @@
   definition: "hojas transformadas que componen el gineceo de las flores; cuando son varios pueden formar un sólo pistilo, con una o varias cavidades, o varios pistilos independientes."
 - term: cartacea
   definition: "de la consistencia del papel o el pergamino"
+- term: caulinar
+  definition: "perteneciente o relativo al tallo."
 - term: ciatio
   definition: "inflorescencia que consta de 5 brácteas y 4-5 nectarios entorno a 5 flores masculinas reducidas a 1 estambre y una flor femenina central con gineceo tricarpelar. Es característico de las Euphorbiaceae."
 - term: cigomorfa
@@ -198,6 +200,8 @@
   definition: "con forma de disco."
 - term: discolor
   definition: "alude a la diferencia tonal entre el haz y el envés de las hojas"
+- term: distal
+  definition: "porción alejada u opuesta al punto de origen o inserción."
 - term: distica
   definition: "se aplica a cualquier órgano dispuesto en dos filas, como las hojas de las gramíneas."
 - term: drupa
@@ -484,6 +488,8 @@
   definition: "dicho de una hoja palmeada, que está dividido en porciones que alcanzan más de la mitad de la lámina, pero sin llegar a la base."
 - term: panicula
   definition: "inflorescencia muy ramificada consistente en un racimo de racimos."
+- term: paniculiforme
+  definition: "con forma de panícula; inflorescencia muy ramificada consistente en un racimo de racimos."
 - term: panoja
   definition: "conjunto de flores arracimadas, cónico o piramidal, por ser los pedúnculos inferiores más largos que los superiores."
 - term: papiloso
