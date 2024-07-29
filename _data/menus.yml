@@ -14,6 +14,9 @@ topmenu:
 #  url: https://floranativabb.mitiendanube.com
 #  external: true
 
+- title: Bibliografia
+  url: "bibliografia/"
+
 - title: ¡Apóyanos!
   url: https://cafecito.app/floranativabb
   class: "ml-2 btn btn-dark text-white px-3"
