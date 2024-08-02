@@ -1,3 +1,5 @@
+- term: abaxial
+  definition: "superficie de un órgano situada del lado contrario al eje que la soporta. Cara inferior de la hoja."
 - term: abrazadora
   definition: "referido a las hojas, cuando éstas rodean por su base al tallo; sinónimo de amplexicaule."
 - term: acicular
@@ -12,6 +14,8 @@
   definition: "protuberancia rígida y punzante, de origen epidérmico; sinónimo de aguijón."
 - term: acuminada
   definition: "hoja que se estrecha paulatinamente en un ápice alargado."
+- term: adaxial
+  definition: "parte del órgano situada hacia el eje portador. Cara superior de la hoja."
 - term: adpreso
   definition: "situado muy próximo, en paralelo, sin llegar a unirse."
 - term: afilo
@@ -110,6 +114,8 @@
   definition: "que tiene forma de campana."
 - term: canaliculado
   definition: "que forma una canaladura, como en la base de algunas hojas."
+- term: canescente
+  definition: "cubierto por pelos grisáceos o blanquecinos."
 - term: capitado
   definition: "más engrosado hacia la extremidad con la forma de una cabeza."
 - term: capitulo
@@ -168,6 +174,8 @@
   definition: "especie distribuida por todo el mundo, sin estar restringida a un territorio concreto."
 - term: costado
   definition: "órgano en cuya superficie aparecen una o varias costillas."
+- term: costilla
+  definition: "filete que forma un resalto más o menos pronunciado en la superficie de los órganos."
 - term: cotiledon
   definition: "hoja embrionaria presente en la semilla; en las de las dicotiledóneas son dos y en los de las monocotiledóneas uno; en las plántulas de las dicotiledóneas son las hojas que inicialmente realizan la fotosíntesis y resultan útiles para su identificación."
 - term: crenado
@@ -482,6 +490,8 @@
   definition: "prolongación linear en el ápice de la hoja."
 - term: mucronado
   definition: "acabado en mucrón; prolongación linear en el ápice de la hoja."
+- term: mutico
+  definition: "se aplica a los órganos desprovistos de mucrón o arista."
 - term: napiforme
   definition: "con forma de nabo, es decir, engrosada y con un eje principal."
 - term: nectario
@@ -536,6 +546,8 @@
   definition: "estructura que se inserta en otra con un ángulo muy abierto, como puede suceder en una rama respecto un tallo."
 - term: paucicefala
   definition: "plantas con reducido número de inflorescencias."
+- term: paucilobado
+  definition: "con pocos lóbulos."
 - term: peciolo
   definition: "parte de la hoja que une el limbo al tallo."
 - term: pedicelo
@@ -582,6 +594,8 @@
   definition: "con pistilos y sin estambres funcionales; femenino."
 - term: pistilo
   definition: "órgano con frecuencia con forma de botella, compuesto por un carpelo o por varios carpelos soldados, en el que suele distinguirse el ovario, donde se encuentran los óvulos que darán lugar a las semillas, el estilo, y el estigma."
+- term: pivotante
+  definition: "raíz en la que el eje principal se halla mucho más desarrollado que sus ramificaciones."
 - term: pixidio
   definition: "fruto seco y polispermo con dehiscencia transversal."
 - term: plegada
@@ -646,6 +660,8 @@
   definition: "tallos subterráneos alargados, más o menos engrosados, que dan lugar a tallos aéreos y raíces; suelen presentar escamas (catáfilos)."
 - term: roseta
   definition: "conjunto de hojas que aparecen muy próximas al no crecer los entrenudos."
+- term: rostrado
+  definition: "provisto de una punta a modo de pico."
 - term: rotacea
   definition: "corola con los pétalos córtamente soldados en su base y extendidos en un plano, como en el género Solanum."
 - term: sagitada
@@ -678,6 +694,8 @@
   definition: "fruto seco, dehiscente y polispermo consistente en 2 valvas separadas por un tabique denominado replo, de origen placentario; su longitud es menor que 3(4) veces su anchura y es característico de la familia Cruciferae; en función de la posición del tabique respecto a la máxima anchura, pueden ser latiseptas o angustiseptas."
 - term: simple
   definition: "referido a las hojas, aquellas que no presentan el limbo dividido en varios foliolos; referido a los pelos, aquéllos no ramificados."
+- term: sinflorescencia
+  definition: "aglomeración de capítulos individuales en un receptáculo secundario y rodeado por un involucro secundario."
 - term: subcartacea
   definition: "de consistencia similar al papel o el pergamino"
 - term: subcordado
@@ -688,10 +706,14 @@
   definition: "especie distribuida por casi todas las regiones del mundo."
 - term: subentera
   definition: "hoja con el margen casi entero."
+- term: subfalcado
+  definition: "ligeramente en forma de hoz, aplanado y más o menos curvo."
 - term: suborbicular
   definition: "con forma de medio círculo."
 - term: subsesil
   definition: "casi sésil, es decir, con el peciolo casi inapreciable."
+- term: subtetragono
+  definition: "ligeramente tetrágono; con cuatro ángulos."
 - term: subulado
   definition: "estrechado hacia el ápice y terminado en punta fina."
 - term: suculenta
@@ -718,6 +740,8 @@
   definition: "conjunto de pelos de algunas plantas que se doblan y son enmarañados, formando capas de lana."
 - term: tomentoso
   definition: "con tomento o pelos"
+- term: tetragono
+  definition: "con cuatro ángulos."
 - term: tetranucula
   definition: "grupo de cuatro núculas."
 - term: trepador
