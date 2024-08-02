@@ -84,6 +84,8 @@
   definition: "fruto carnoso, indehiscente y polispermo; presenta el epicarpio delgado, y el mesocarpio y endocarpio carnosos."
 - term: bienal
   definition: "planta que necesita dos años para completar su ciclo; en el primero desarrollan un tallo con hojas y la raíz, y en el segundo el tallo con flores que producirán las semillas."
+- term: bifido
+  definition: "el órgano profundamente dividido en dos partes en el ápice."
 - term: bilabiada
   definition: "corola o cáliz que presenta dispuestos los pétalos y sépalos en dos grupos, como los labios."
 - term: bipinnada
@@ -236,6 +238,10 @@
   definition: "parte del tallo comprendida entre dos nudos."
 - term: epicaliz
   definition: "conjunto de apéndices situados en la base del cáliz semejantes a un segundo cáliz."
+- term: epipetalo
+  definition: "órgano soldado a un pétalo."
+- term: episepalo
+  definition: "órgano soldado a un sépalo."
 - term: escabrida
   definition: "que tiene la superficie áspera."
 - term: escabrosa
@@ -312,6 +318,8 @@
   definition: "dispuesto o agrupado formando manojos"
 - term: fasciculo
   definition: "haz o manojo"
+- term: fenestrado
+  definition: "que presenta una superficie porosa o perforada."
 - term: filamento
   definition: "parte basal estéril de un estambre."
 - term: filario
@@ -338,6 +346,8 @@
   definition: "órgano especializado en la dispersión de las semillas formado a partir de las paredes del gineceo y en el que también puede participar el receptáculo u otras estructuras florales; más ráramente procede de una inflorescencias, constituyendo entonces una infrutecencia."
 - term: funiculo
   definition: "pedicelo que une el ovulo a la placenta"
+- term: geminado
+  definition: "dícese de los órganos o sus partes que están dispuestos en parejas, acoplados."
 - term: geniculada
   definition: "se refiere a las aristas que presentan un ángulo marcado."
 - term: geofito
@@ -354,6 +364,8 @@
   definition: "órgano especializado en la dispersión de las semillas formado a partir de las paredes del gineceo y en el que también puede participar el receptáculo u otras estructuras florales; más ráramente procede de una inflorescencias, constituyendo entonces una infrutescencia."
 - term: glauca
   definition: "de color verde azulado."
+- term: globoso
+  definition: "formando casi una verdadera esfera."
 - term: glomerulo
   definition: "inflorescencia globosa y muy contraída."
 - term: glumas
@@ -514,6 +526,8 @@
   definition: "conjunto de flores arracimadas, cónico o piramidal, por ser los pedúnculos inferiores más largos que los superiores."
 - term: papiloso
   definition: "cubierto de papilas, diminutas excrecencias cortas y obtusas que se forman en las células epidérmicas."
+- term: papiraceo
+  definition: "de consistencia y delgadez similar al papel."
 - term: parasita
   definition: "planta que obtiene sus nutrientes de otra especie, el huésped."
 - term: paripinnada
@@ -592,6 +606,10 @@
   definition: "modo en el que se disponen unas hojas respecto a las otras en la yema; este carácter es útil para identificar gramíneas en estado vegetativo."
 - term: procumbente
   definition: "planta postrada con tallos rastreros de ápices ascendentes y casi erectos pero que no arraigan en el suelo."
+- term: pruina
+  definition: "revestimiento céreo de la cutícula de hojas, tallos, frutos, etc. que le da aspecto glauco o grisáceo."
+- term: pruinoso
+  definition: "cubierto por un polvillo de aspecto ceroso."
 - term: puberulo
   definition: "estructura u órgano vegetal ligeramente pubescente o cubierto por pelos simples."
 - term: pubescente
@@ -706,6 +724,8 @@
   definition: "tallo que crece apoyándose en diversos soportes como otras plantas, muros, etc.."
 - term: tricarpelar
   definition: "gineceo formado por tres carpelos."
+- term: tricoca
+  definition: "que se divide en tres partes o segmentos."
 - term: tricoma
   definition: "apéndices epidérmicos con diversa forma, estructura y función."
 - term: trifido
