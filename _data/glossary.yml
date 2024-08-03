@@ -180,6 +180,10 @@
   definition: "hoja embrionaria presente en la semilla; en las de las dicotiledóneas son dos y en los de las monocotiledóneas uno; en las plántulas de las dicotiledóneas son las hojas que inicialmente realizan la fotosíntesis y resultan útiles para su identificación."
 - term: crenado
   definition: "margen de la hoja con protuberancias redondeadas."
+- term: cresta
+  definition: "prominencia más o menos marcada, con borde dentado."
+- term: crestado
+  definition: "provisto de crestas; prominencia más o menos marcada, con borde dentado."
 - term: cuculado
   definition: "que tiene forma de capucha."
 - term: cuerpo
@@ -354,6 +358,8 @@
   definition: "órgano especializado en la dispersión de las semillas formado a partir de las paredes del gineceo y en el que también puede participar el receptáculo u otras estructuras florales; más ráramente procede de una inflorescencias, constituyendo entonces una infrutecencia."
 - term: funiculo
   definition: "pedicelo que une el ovulo a la placenta"
+- term: gemifero
+  definition: "que produce yemas, generalmente referido a ciertas raíces."
 - term: geminado
   definition: "dícese de los órganos o sus partes que están dispuestos en parejas, acoplados."
 - term: geniculada
@@ -390,6 +396,8 @@
   definition: "que no desarrolla tejidos leñosos."
 - term: hermafrodita
   definition: "flor con androceo y gineceo fértiles."
+- term: heterostilia
+  definition: "flores presentes en la misma especie con diferentes longitudes de estambre y estilo."
 - term: hialino
   definition: "fino y traslúcido, como el ápice de algunas hojas."
 - term: hidrofito
@@ -464,6 +472,8 @@
   definition: "en la flor de las gramíneas, son dos o tres expansiones escamosas ubicadas en la base del ovario, consideradas como el perianto. Por turgencia provocan la antesis de la flor."
 - term: lomento
   definition: "fruto seco, polispermo, con estrechamientos en las zonas donde no hay semillas y que se fragmentan transversalmente."
+- term: macula
+  definition: "mancha."
 - term: mediterranea
   definition: "que se distribuye por los territorios con clima mediteráneo que se sitúan alrededor del mar Mediterráneo."
 - term: membranaceo
@@ -784,6 +794,8 @@
   definition: "con indumento denso y corto."
 - term: ventricoso
   definition: "hinchado a modo de vientre."
+- term: verrucoso
+  definition: "cubierto de verrugas."
 - term: verticilastro
   definition: "conjunto de flores muy próximas, como sucede en las labiadas, que parecen agruparse en verticilos."
 - term: verticilo
