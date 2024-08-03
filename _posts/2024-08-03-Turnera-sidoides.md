@@ -76,9 +76,9 @@ De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de l
 
 Instituto de Botánica Darwinion. (2018). *Flora Argentina. Turnera sidoides subsp. pinnatifida*. Recuperado de [https://shorturl.at/Hdtjy](https://shorturl.at/Hdtjy)
 
-Kovalsky, I. E., Elías, G., Fernández, S. A., Moreno, E. M. S., Silva, G. C., Roggero Luque, J. M., Almirón, N. E. A., Solís, C., Dabrio, A., Via Do Pico, G. M., Seijo, J. G. & Solís Neffa, V. G. (2022). Evolutionary dynamics of autopolyploids in natural populations: the case of Turnera sidoides complex. BAG. Journal of basic and applied genetics, *33*(1), 71-81. [https://dx.doi.org/10.35407/bag.2022.33.01.06](https://dx.doi.org/10.35407/bag.2022.33.01.06)
+Kovalsky, I. E., Elías, G., Fernández, S. A., Moreno, E. M. S., Silva, G. C., Roggero Luque, J. M., Almirón, N. E. A., Solís, C., Dabrio, A., Via Do Pico, G. M., Seijo, J. G. & Solís Neffa, V. G. (2022). Evolutionary dynamics of autopolyploids in natural populations: the case of Turnera sidoides complex. BAG. Journal of basic and applied genetics, *33*(1), 71-81. [Link al repositorio](https://dx.doi.org/10.35407/bag.2022.33.01.06)
 
-Moreno, E. M. S. (2014). *Estudios filogeográficos en el complejo Turnera sidoides L. (Passifloraceae)* (Tesis doctoral). Instituto de Botánica del Nordeste (UNNE-CONICET). [http://repositorio.unne.edu.ar/handle/123456789/27496](http://repositorio.unne.edu.ar/handle/123456789/27496)
+Moreno, E. M. S. (2014). *Estudios filogeográficos en el complejo Turnera sidoides L. (Passifloraceae)* (Tesis doctoral). Instituto de Botánica del Nordeste (UNNE-CONICET). [Link al repositorio](https://shorturl.at/RYphQ)
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 
