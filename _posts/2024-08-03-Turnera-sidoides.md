@@ -23,7 +23,7 @@ image: assets/images/Portadas/TurneraS.webp
 
 **Fauna que atrae:** (🦋🐝🪲) Es visitada por mariposas, escarabajos, pequeñas avispas y abejas, mientras que sus semillas a menudo son dispersadas por hormigas (Kovalsky et al., 2022 & Sabatino et al., 2017).
 
-🔍 **Otros datos:** Se le atribuyen propiedades medicinales contra el prolapso y lumbalgias (Barboza et al., 2009). En nuestra región crece en sitios pedregosos y puede tolerar suelos modificados. Puede reproducirse por semillas o a partir de sus raíces gemíferas.
+🔍 **Otros datos:** Su parecido con especies de malváceas del género Sphaeralcea se debe a un posible mimetismo floral (Benitez Vieyra, 2003). Se le atribuyen propiedades medicinales contra el prolapso y lumbalgias (Barboza et al., 2009). En nuestra región crece en sitios pedregosos y puede tolerar suelos modificados. Tiene un gran potencial ornamental y puede reproducirse por semillas o a partir de sus raíces gemíferas.
 
 **¡Una curiosidad!** 👀 Esta especie posee una gran variabilidad morfológica y se reconocen cinco subespecies y siete morfotipos. **En la región de Bahía Blanca podemos encontrar *T. sidoides subsp. pinnatifida morfotipo serrano*.** No obstante a continuación detallamos brevemente todas las subespecies (tomado de Moreno, 2014):
 
@@ -71,6 +71,8 @@ Andrada, A., Gil, M. E., Pellegrini, C. & Teysseire, C. (2017). *Pastizales del 
 Arbo, M. M. (1985). *Estudios taxonómicos in Turneraceae Sudamericanas*. Candollea 40: 175-191.
 
 Barboza, G. E., J. J. Cantero, C. Núñez, A. Pacciaroni & L. Ariza Espinar. 2009. *Medicinal Plants: A general review and a phytochemical and ethnopharmacological screening of the native Argentine Flora*. Kurtziana 34 (1-2): 7-365.
+
+Benitez Vieyra, S. M. (2003). *Mimetismo floral entre Sphaeralcea cordobensis Krap. y Turnera sidoides L. var. pinnatifida (Poiret) Arbo* (Tesis de grado). Universidad Nacional de Córdoba.
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
