@@ -1,11 +1,11 @@
 title: "Flora Nativa Bahia Blanca"
-description: "Proyecto de divulgación de las plantas autóctonas de Bahía Blanca y el sudoeste bonaerense"
+description: "Proyecto de divulgación de las plantas autóctonas de Bahía Blanca y el sudoeste bonaerense, ¡visitanos y unite a la comunidad!"
 url: "https://floranativabb.com.ar"
 email: floranativabb@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.webp'
+logo: '/assets/images/logo.webp'
 favicon: 'assets/images/favicon.ico'
 author: FNBB
 paginate: 10
