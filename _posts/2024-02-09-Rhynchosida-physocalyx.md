@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rhynchosida physocalyx (Malva Amarilla)"
-tags: [Herbáceas, Color amarillo]
+tags: [Herbaceas, Color amarillo]
 categories: [Flora, Malvaceae]
 image: assets/images/Portadas/RhynchosidaP.webp
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Turnera sidoides (Amapolita)"
-tags: [Herbáceas, Color naranja]
+tags: [Herbaceas, Color naranja]
 categories: [Flora, Passifloraceae]
 image: assets/images/Portadas/TurneraS.webp
 ---

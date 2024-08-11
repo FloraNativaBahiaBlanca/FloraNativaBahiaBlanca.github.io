@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hysterionica jasionoides (Botón de oro)"
-tags: [Herbáceas, Color amarillo]
+tags: [Herbaceas, Color amarillo]
 categories: [Flora, Asteraceae]
 image: assets/images/Portadas/HysterionicaJ.webp
 ---

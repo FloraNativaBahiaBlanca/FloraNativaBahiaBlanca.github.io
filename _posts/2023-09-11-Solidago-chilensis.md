@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solidago chilensis (Vara dorada)"
-tags: [Herbáceas, Color amarillo]
+tags: [Herbaceas, Color amarillo]
 categories: [Flora, Asteraceae]
 image: assets/images/Portadas/SolidagoC.webp
 ---

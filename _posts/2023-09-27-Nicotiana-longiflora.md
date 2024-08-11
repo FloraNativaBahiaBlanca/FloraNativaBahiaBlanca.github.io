@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nicotiana longiflora (Flor de sapo)"
-tags: [Herbáceas, Color blanco]
+tags: [Herbaceas, Color blanco]
 categories: [Flora, Solanaceae]
 image: assets/images/Portadas/NicotianaL.webp
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ipheion uniflorum (Estrellita)"
-tags: [Herbáceas, Endemismo, Color blanco]
+tags: [Herbaceas, Endemismo, Color blanco]
 categories: [Flora, Amaryllidaceae]
 image: assets/images/Portadas/IpheionU.webp
 ---

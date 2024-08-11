@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Modiola caroliniana (Escobillo)"
-tags: [Herbáceas, Cubresuelos, Color naranja]
+tags: [Herbaceas, Cubresuelos, Color naranja]
 categories: [Flora, Malvaceae]
 image: assets/images/Portadas/ModiolaC.webp
 ---

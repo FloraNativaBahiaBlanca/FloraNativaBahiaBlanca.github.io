@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cortaderia selloana (Cortadera)"
-tags: [Gramíneas, Color blanco]
+tags: [Gramineas, Color blanco]
 categories: [Flora, Poaceae]
 image: assets/images/Portadas/CortaderiaS.webp
 ---
