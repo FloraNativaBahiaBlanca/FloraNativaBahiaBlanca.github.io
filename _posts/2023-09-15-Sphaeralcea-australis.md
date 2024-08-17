@@ -30,12 +30,10 @@ image: assets/images/Portadas/SphaeralceaA.webp
 
 **Bibliografía:**
 
-Dascanio, L. M. (2022). *Caracterización morfológica de cuatro especies nativas del género Sphaeralcea con potencial ornamental y lineamientos para su aplicación paisajista* [Tesis de grado, Universidad Nacional del Sur]. Reposito digital de la UNS 
-[https://shorturl.at/vyWX6](https://shorturl.at/vyWX6)
+Dascanio, L. M. (2022). *Caracterización morfológica de cuatro especies nativas del género Sphaeralcea con potencial ornamental y lineamientos para su aplicación paisajista* [Tesis de grado, Universidad Nacional del Sur]. [Link al repositorio.](https://repositoriodigital.uns.edu.ar/handle/123456789/5950)
 
 Gutierrez, A., Villamil, C., Dascanio, L. y Marinangeli, P. (2021). *Estudios en el género Sphaeralcea (Malvaceae), un importante recurso genético de la Argentina con potencial ornamental* en Facciuto, G. y Pérez de la Torre, M. (Ed.), *Plantas nativas ornamentales de Latinoamérica. Experiencias hacia la puesta en valor* (pp. 54 - 72). INTA Ediciones
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Sphaeralcea australis*. Recuperado de 
-[https://shorturl.at/noEH0](https://shorturl.at/noEH0)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Sphaeralcea australis*. [Link.](https://buscador.floraargentina.edu.ar/species/details/15770)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.

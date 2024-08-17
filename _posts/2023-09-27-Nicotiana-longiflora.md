@@ -36,5 +36,4 @@ Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Nicotiana longiflora*. Recuperado de 
-[https://shorturl.at/cgpJ3](https://shorturl.at/cgpJ3)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Nicotiana longiflora*. [Link.](https://buscador.floraargentina.edu.ar/species/details/6302)

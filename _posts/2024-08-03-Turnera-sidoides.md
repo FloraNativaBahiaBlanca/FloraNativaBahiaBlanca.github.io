@@ -76,7 +76,7 @@ Benitez Vieyra, S. M. (2003). *Mimetismo floral entre Sphaeralcea cordobensis Kr
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Turnera sidoides subsp. pinnatifida*. Recuperado de [Link.](https://buscador.floraargentina.edu.ar/species/details/10149)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Turnera sidoides subsp. pinnatifida*. [Link.](https://buscador.floraargentina.edu.ar/species/details/10149)
 
 Kovalsky, I. E., Elías, G., Fernández, S. A., Moreno, E. M. S., Silva, G. C., Roggero Luque, J. M., Almirón, N. E. A., Solís, C., Dabrio, A., Via Do Pico, G. M., Seijo, J. G. & Solís Neffa, V. G. (2022). Evolutionary dynamics of autopolyploids in natural populations: the case of Turnera sidoides complex. BAG. Journal of basic and applied genetics, *33*(1), 71-81. 
 [Link al repositorio.](https://sag.org.ar/jbag/project/vol-xxxiii-issue-1/)

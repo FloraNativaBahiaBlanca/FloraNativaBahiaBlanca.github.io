@@ -39,12 +39,10 @@ Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Cortaderia selloana*. Recuperado de 
-[https://shorturl.at/wRVW4](https://shorturl.at/wRVW4)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Cortaderia selloana*. [Link.](https://buscador.floraargentina.edu.ar/species/details/21656)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 
 Steibel, P. E. (1997). *Nombres y usos de las plantas aplicados por los Indios Ranqueles de La Pampa (Argentina)*. Rev. Fac. Agronomía, UNLPam, Vol. 9 N°2
 
-Testoni, D. & Villamil, C. B. (2014). *Estudios en el género Cortaderia (Poaceae). I. Sistemática y nomenclatura de la sect. Cortaderia*. *Darwiniana, Nueva Serie*, *2*(2), 260–276. 
-[https://shorturl.at/uxDH2](https://shorturl.at/uxDH2)
+Testoni, D. & Villamil, C. B. (2014). *Estudios en el género Cortaderia (Poaceae). I. Sistemática y nomenclatura de la sect. Cortaderia*. *Darwiniana, Nueva Serie*, *2*(2), 260–276. [Link al repositorio.](https://www.ojs.darwin.edu.ar/index.php/darwiniana/article/view/591)

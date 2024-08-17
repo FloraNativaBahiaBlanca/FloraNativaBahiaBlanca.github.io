@@ -35,13 +35,10 @@ Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Glandularia tenera*. Recuperado de 
-[https://shorturl.at/iqsBD](https://shorturl.at/iqsBD)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Glandularia tenera*. [Link.](https://buscador.floraargentina.edu.ar/species/details/25203)
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Glandularia dissecta*. Recuperado de 
-[https://shorturl.at/kmyNU](https://shorturl.at/kmyNU)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Glandularia dissecta*. [Link.](https://buscador.floraargentina.edu.ar/species/details/25172)
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Junellia hookeriana var. hookeriana*. Recuperado de 
-[https://shorturl.at/aguyT](https://shorturl.at/aguyT)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Junellia hookeriana var. hookeriana*. [Link.](https://buscador.floraargentina.edu.ar/species/details/25176)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.

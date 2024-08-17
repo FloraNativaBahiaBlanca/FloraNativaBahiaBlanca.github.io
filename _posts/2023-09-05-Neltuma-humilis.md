@@ -33,5 +33,4 @@ image: assets/images/Portadas/NeltumaH.webp
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2022). *Flora Argentina. Neltuma humilis*. Recuperado de 
-[https://shorturl.at/wIP28](https://shorturl.at/wIP28)
+Instituto de Botánica Darwinion. (2022). *Flora Argentina. Neltuma humilis*. [Link.](https://buscador.floraargentina.edu.ar/species/details/200699)

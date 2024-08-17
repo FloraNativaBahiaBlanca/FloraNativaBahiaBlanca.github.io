@@ -34,11 +34,10 @@ image: assets/images/Portadas/CondaliaM.webp
 
 Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Condalia microphylla*. Recuperado de 
-[https://shorturl.at/fHPQX](https://shorturl.at/fHPQX)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Condalia microphylla*. [Link.](https://buscador.floraargentina.edu.ar/species/details/3609)
 
 Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. 
-[https://shorturl.at/bdfl9](https://shorturl.at/bdfl9)
+[Link.](https://www.ambiente.gba.gob.ar/pdfs/002_Catalogo_Nativas_ABRIL2024.pdf)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 

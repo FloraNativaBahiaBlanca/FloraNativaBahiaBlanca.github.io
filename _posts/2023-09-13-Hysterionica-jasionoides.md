@@ -34,8 +34,7 @@ image: assets/images/Portadas/HysterionicaJ.webp
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Hysterionica jasionoides*. Recuperado de 
-[https://shorturl.at/bhy01](https://shorturl.at/bhy01)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Hysterionica jasionoides*. [Link.](https://buscador.floraargentina.edu.ar/species/details/17066)
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 

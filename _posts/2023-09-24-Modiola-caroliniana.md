@@ -34,8 +34,6 @@ image: assets/images/Portadas/ModiolaC.webp
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de 
-[https://shorturl.at/rAS17](https://shorturl.at/rAS17)
+Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. [Link.](https://revistapsicologia.uchile.cl/index.php/BDF/article/view/49849)
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Modiola caroliniana*. Recuperado de 
-[https://shorturl.at/BMVWX](https://shorturl.at/BMVWX)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Modiola caroliniana*. [Link.](https://buscador.floraargentina.edu.ar/species/details/15410)

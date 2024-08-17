@@ -37,8 +37,7 @@ Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Verbesina encelioides*. Recuperado de 
-[https://shorturl.at/aisuV](https://shorturl.at/aisuV)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Verbesina encelioides*. [Link.](https://buscador.floraargentina.edu.ar/species/details/592)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 
