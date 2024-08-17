@@ -184,6 +184,8 @@
   definition: "prominencia más o menos marcada, con borde dentado."
 - term: crestado
   definition: "provisto de crestas; prominencia más o menos marcada, con borde dentado."
+- term: cruciforme
+  definition: "dispuesto en forma de cruz."
 - term: cuculado
   definition: "que tiene forma de capucha."
 - term: cuerpo
@@ -270,6 +272,8 @@
   definition: "espiga, generalmente con flores unisexuales, con el eje engrosado y carnoso."
 - term: espata
   definition: "bráctea que cubre algunas inflorescencias."
+- term: espatiforme
+  definition: "con forma de espata."
 - term: espatulado
   definition: "con forma de espátula."
 - term: espicastro
@@ -466,6 +470,8 @@
   definition: "provisto de lóbulos o segmentos cortos y redondeados, distribuidos de forma regular"
 - term: lobulo
   definition: "porción redondeada y saliente de un órgano cualquiera cuando es de pequeño tamaño (de una hoja u otro órgano lobulado)."
+- term: loculicida
+  definition: "dehiscencia mediante la cual cada carpelo se abre por su nervio medio."
 - term: loculo
   definition: "en los frutos, las cavidades donde se encuentran las semillas."
 - term: lodicula
@@ -556,6 +562,8 @@
   definition: "estructura que se inserta en otra con un ángulo muy abierto, como puede suceder en una rama respecto un tallo."
 - term: paucicefala
   definition: "plantas con reducido número de inflorescencias."
+- term: pauciflora
+  definition: "con pocas flores."
 - term: paucilobado
   definition: "con pocos lóbulos."
 - term: peciolo
@@ -812,3 +820,5 @@
   definition: "fase inicial de nuevos órganos de una planta, como ramas, hojas y flores."
 - term: zarcillo
   definition: "estructura filiforme que permite el soporte de la planta al enrollarse sobre diversos objetos, como otras plantas próximas; pueden formarse en las hojas, ramas, etc."
+- term: zigomorfo
+  definition: "corola o flor con un solo plano de simetría, o sea, con simetría bilateral."
