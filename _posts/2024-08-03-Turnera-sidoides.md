@@ -76,13 +76,13 @@ Benitez Vieyra, S. M. (2003). *Mimetismo floral entre Sphaeralcea cordobensis Kr
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Turnera sidoides subsp. pinnatifida*. Recuperado de [https://shorturl.at/Hdtjy](https://shorturl.at/Hdtjy)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Turnera sidoides subsp. pinnatifida*. Recuperado de [Link.](https://buscador.floraargentina.edu.ar/species/details/10149)
 
 Kovalsky, I. E., Elías, G., Fernández, S. A., Moreno, E. M. S., Silva, G. C., Roggero Luque, J. M., Almirón, N. E. A., Solís, C., Dabrio, A., Via Do Pico, G. M., Seijo, J. G. & Solís Neffa, V. G. (2022). Evolutionary dynamics of autopolyploids in natural populations: the case of Turnera sidoides complex. BAG. Journal of basic and applied genetics, *33*(1), 71-81. 
-[https://shorturl.at/MOEsT](https://shorturl.at/MOEsT)
+[Link al repositorio.](https://sag.org.ar/jbag/project/vol-xxxiii-issue-1/)
 
 Moreno, E. M. S. (2014). *Estudios filogeográficos en el complejo Turnera sidoides L. (Passifloraceae)* (Tesis doctoral). Instituto de Botánica del Nordeste (UNNE-CONICET).
-[https://shorturl.at/RYphQ](https://shorturl.at/RYphQ)
+[Link al repositorio.](https://repositorio.unne.edu.ar/handle/123456789/27496)
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 
