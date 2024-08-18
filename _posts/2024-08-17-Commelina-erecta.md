@@ -22,7 +22,7 @@ image: assets/images/Portadas/CommelinaE.webp
 
 **Fauna que atrae:** (🐝🪲🐦)  Sus flores son polinizadas por abejas nativas sin aguijón (como halíctidos) y también son visitadas por otros insectos como mariposas, moscas y escarabajos (ej. crisomélidos). La presencia de insectos atrae aves que los depredan.
 
-🔍 **Otros datos:** Se le citan propiedades medicinales para infecciones oculares y trastornos hepáticos. Gran valor ornamental y como cubresuelos por el color de sus flores y su rusticidad. Debe cultivarse en sombra o media sombra. Se propaga por semillas o esquejes (rizomas).
+🔍 **Otros datos:** Se le citan propiedades medicinales para infecciones oculares y trastornos hepáticos. Gran valor ornamental y como cubresuelos por el color de sus flores y su rusticidad. Debe cultivarse en sombra o media sombra. Se propaga por semillas o esquejes (rizomas). Tiene una amplia distribución, abarcando tanto Norteamérica como Sudamérica, donde la encontramos en el sur de Brasil, en Paraguay, Uruguay, y norte y centro de Argentina. En Bahía Blanca es posible encontrarla creciendo como espontánea en veredas y jardines (suele preferir ambientes algo húmedos y sombreados).
 
 **¡Una curiosidad!** 👀 En el último tiempo esta especie ha comenzado a ser un problema para la agroindustria, principalmente en el cultivo de soja, dada su tolerancia al glifosato, con lo cual se han tenido que buscar otras alternativas para su manejo y control.
 
