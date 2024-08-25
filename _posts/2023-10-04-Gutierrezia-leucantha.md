@@ -1,8 +1,5 @@
 ---
 layout: post
-cientific: "Gutierrezia leucantha"
-common: "Canchalagua"
-description: "Arbusto perenne de entre 30 y 100 cm. de altura, ramificados desde la base. Tallos erectos, costados, glandulares, foliosos. Hojas subcoriáceas, sésiles, irregularmente dentadas en la margen, hojas linear–elípticas de 30–50 x 3–5 mm, agudas. Flores dispuestas en capítulos radiados, sésiles y solitarios, de 10 a 16 mm. de diámetro. Inflorescencia color blanco con el centro amarillento. Los frutos son aquenios color gris claro con finos pelos en su superficie."
 title: "Gutierrezia leucantha (Canchalagua)"
 tags: [Arbustos, Endemismo, Color blanco]
 categories: [Flora, Asteraceae]

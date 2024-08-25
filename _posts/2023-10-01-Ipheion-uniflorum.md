@@ -1,8 +1,5 @@
 ---
 layout: post
-cientific: "Ipheion uniflorum"
-common: "Estrellita"
-description: "Herbácea perenne bulbosa y hojas acintadas, brillantes, verdes, sin pelo, de hasta 30 cm de largo. El follaje despide un olor a cebolla cuando se frota. El tallo crece hasta 20 cm de altura y produce una vistosa flor solitaria en primavera (de ahí el epíteto *uniflorum* - "flor única"). Cada flor en forma de estrella tiene seis lóbulos puntiagudos de hasta 3 centímetros de largo en tonos que van desde un azul violáceo muy pálido hasta un azul violáceo intenso, con una línea oscura en el centro de cada uno de los tepalos. El fruto es una capsula que contiene numerosas semillas."
 title: "Ipheion uniflorum (Estrellita)"
 tags: [Herbaceas, Endemismo, Color blanco]
 categories: [Flora, Amaryllidaceae]
