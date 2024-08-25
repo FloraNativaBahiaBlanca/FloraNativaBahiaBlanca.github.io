@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Verbesina encelioides"
+common: "Girasolillo"
+description: "Hierba anual de crecimiento erguido. Posee tallos estriados, muy ramificados y con pocas hojas dispuestas de forma alterna sobre el tallo, desde la base hasta el extremo. Las hojas tienen forma triangular, miden 5 a 6 cm. de largo y poseen borde irregular o dentado. Las flores son de color amarillo y se reúnen en capitulos. Los frutos son aquenios comprimidos, alados, con algunos pelos."
 title: "Verbesina encelioides (Girasolillo)"
 tags: [Herbaceas, Color amarillo]
 categories: [Flora, Asteraceae]
