@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Clematis montevidensis"
+common: "Barba de Viejo"
+description: "Liana leñosa de tallos delgados y crecimiento apoyante. Follaje persistente, hojas compuestas de 3-5 foliolos de entre 1 y 5 cm de longitud. Flores blancas masculinas y femeninas, perfumadas y agrupadas en cimas terminales o axilares. Las flores masculinas presentan muchos estambres, mientras que las femeninas numerosos estilos plumosos. Los frutos son aquenios plumosos de hasta 10 cm de largo."
 title: "Clematis montevidensis (Barba de Viejo)"
 tags: [Trepadoras, Color blanco]
 categories: [Flora, Ranunculaceae]

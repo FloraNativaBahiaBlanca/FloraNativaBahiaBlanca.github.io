@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Nicotiana longiflora"
+common: "Flor de sapo"
+description: "Herbácea arrosetada perenne. Su follaje es persistente. Hojas ovadas, con el borde algo ondulado y pecíolo alado. Flores actinomorfas y bisexuales, la corola posee un tubo que mide entre 4 y 12 cm., con limbo de entre 2 y 2,5 cm. de diámetro. El fruto es una cápsula ovoide de entre 1 y 1,5 cm."
 title: "Nicotiana longiflora (Flor de sapo)"
 tags: [Herbaceas, Color blanco]
 categories: [Flora, Solanaceae]

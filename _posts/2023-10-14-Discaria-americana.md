@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Discaria americana"
+common: "Brusquilla"
+description: "Arbusto endémico de crecimiento erguido. Sus tallos son de color verde. Las ramas terminan en punta, formando espinas firmes que protegen a la planta. Las hojas son verdes, muy pequeñas y caen rápidamente, por lo que la planta se encuentra afila la mayor parte del tiempo. Las flores se agrupan en las axilas de las espinas, son de color blanco, semejantes a pequeñas campanas. El fruto es una capsula esférica formada por tres partes soldadas entre sí, de color verde-rojizo, que permanece hasta el fin del verano sobre la planta."
 title: "Discaria americana (Brusquilla)"
 tags: [Arbustos, Endemismo, Color blanco]
 categories: [Flora, Rhamnaceae]

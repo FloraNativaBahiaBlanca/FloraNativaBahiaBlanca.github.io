@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Jodina rhombifolia"
+common: "Sombra de Toro"
+description: "Árbol perennifolio de pequeño tamaño, de entre 2 y 5 metros de altura, muy ramoso, de copa globosa y algo irregular. Sus abundantes raíces son gemíferas, se extienden horizontalmente y suelen desarrollar pequeñas plantas en sus extremidades. Sus hojas color verde oscuro son simples, de consistencia similar al cuero, y de forma romboidal con una espina punzante en la punta y otras dos espinas más pequeñas en los otros dos extremos. Las flores se ubican en grupos apretados en las axilas de las hojas. Son pequeñas, de 5 mm. de diámetro, color amarillo verdoso y muy perfumadas. El fruto es una cápsula drupacea, globosa, de 7 mm. de diámetro, color naranja cuando está inmaduro y blanco en la madurez (al caer los tepalos). Cada fruto contiene una sola semilla."
 title: "Jodina rhombifolia (Sombra de Toro)"
 tags: [Arboles, Color verde]
 categories: [Flora, Santalaceae]

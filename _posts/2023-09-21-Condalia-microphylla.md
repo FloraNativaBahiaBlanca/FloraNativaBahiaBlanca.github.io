@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Condalia microphylla"
+common: "Piquillín"
+description: "Arbusto xerófilo endémico de porte erguido. Su tronco es de corteza oscura con ramas rígidas de color verde oscuro, terminadas en punta espinosa, con espinas laterales que poseen pequeñas hojas. Las hojas son simples, diminutas, sésiles, de color verde oscuro y dispuestas en ramillete. Las flores son amarillas y sin pétalos, reunidas en pequeños grupos de 2 a 5 flores. Sus frutos son drupas de 5 a 11 mm., de color anaranjado rojizo hasta negro, brillantes a la madurez, muy dulces y comestibles."
 title: "Condalia microphylla (Piquillín)"
 tags: [Arbustos, Endemismo, Color rojo]
 categories: [Flora, Rhamnaceae]

@@ -15,6 +15,9 @@ permalink: /feed.json
       "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
       "title": {{ post.title | jsonify }},
       "content_html": {{ post.content | jsonify }},
+      "cientific": {{ post.cientific | jsonify }},
+      "common": {{ post.common | jsonify }},
+      "description": {{ post.description | jsonify }},
       "date_published": "{{ post.date | date_to_rfc3339 }}",
       "tags": [
         {% for tag in post.tags %}

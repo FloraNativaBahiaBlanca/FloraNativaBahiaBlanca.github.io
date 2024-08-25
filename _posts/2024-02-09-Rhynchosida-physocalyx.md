@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Rhynchosida physocalyx"
+common: "Malva Amarilla"
+description: "Hierba perenne con una raíz gruesa y leñosa. De tallos tendidos que no superan los 30 cm de longitud. Las hojas están cubiertas de finos pelos y no superan los 6x5 cm. Pueden ser suborbiculares, ovadas, oblongas o eliptico-alargadas. Las flores son solitarias, axilares, de color amarillo claro con las nervaduras de los pétalos de color rojo. El fruto es seco e indehiscente, negro a la madurez, que se separa en varias partes, cada una con una semilla negra muy pequeña, de 3x2 mm."
 title: "Rhynchosida physocalyx (Malva Amarilla)"
 tags: [Herbaceas, Color amarillo]
 categories: [Flora, Malvaceae]
