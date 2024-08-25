@@ -41,10 +41,8 @@ Cané, L. & Nardini, C. A. (2023). *Nativas* (1ᵃ ed.). Revista Jardín
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de 
-[https://shorturl.at/ghBE9](https://shorturl.at/ghBE9)
+Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. [Link al repositorio.](https://revistapsicologia.uchile.cl/index.php/BDF/article/view/49849)
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Solidago chilensis*. Recuperado de 
-[https://shorturl.at/kqGWZ](https://shorturl.at/kqGWZ)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Solidago chilensis*. [Link.](https://buscador.floraargentina.edu.ar/species/details/17743)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.

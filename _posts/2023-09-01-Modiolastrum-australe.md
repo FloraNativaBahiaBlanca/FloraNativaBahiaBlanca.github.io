@@ -4,7 +4,7 @@ cientific: "Modiolastrum australe "
 common: "-----"
 description: "Hierba perenne de crecimiento rastrero. Hojas de hasta 2,5 cm. de largo, palmadas, con 5 lóbulos, color verde oscuro. Flores pequeñas y solitarias, de color rosa. El fruto es una cápsula de color oscuro con varias partes que se separan a la madurez."
 title: "Modiolastrum australe (-----)"
-tags: [Cubresuelos, Color rosado, Endemismo]
+tags: [Cubresuelos, Herbaceas, Color rosado, Endemismo]
 categories: [Flora, Malvaceae]
 image: assets/images/Portadas/ModiolastrumA.webp
 ---
@@ -35,10 +35,8 @@ image: assets/images/Portadas/ModiolastrumA.webp
 
 Delucchi, G. 2006. *Las especies vegetales amenazadas de la Provincia de Buenos Aires: Una actualización.* APRONA Bol. Cient. Nro. 39: 19-31.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Modiolastrum australe*. Recuperado de 
-[https://shorturl.at/aciBG](https://shorturl.at/aciBG)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Modiolastrum australe*. [Link.](https://buscador.floraargentina.edu.ar/species/details/15421)
 
-Plantas Endémicas de la Argentina. (2008). *Lista PlanEAr; Modiolastrum australe Krapov.* Recuperado de 
-[https://shorturl.at/quCN6](https://shorturl.at/quCN6)
+Plantas Endémicas de la Argentina. (2008). *Lista PlanEAr; Modiolastrum australe Krapov.* [Link.](https://planear.uns.edu.ar/index.php?item=especie&accion=ver_ficha&id=29243)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.

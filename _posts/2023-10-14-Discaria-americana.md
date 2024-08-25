@@ -38,9 +38,9 @@ image: assets/images/Portadas/DiscariaA.webp
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. Recuperado a partir de [https://shorturl.at/4AtYb](https://shorturl.at/4AtYb)
+Gunckel, H. (2018). *Nombre indígenas relacionados con la flora chilena.* Boletín De Filología, (11), pp. 191–327. [Link.](https://revistapsicologia.uchile.cl/index.php/BDF/article/view/49849)
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Discaria americana*. Recuperado de [https://shorturl.at/yR5EJ](https://shorturl.at/yR5EJ)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Discaria americana*. [Link.](https://buscador.floraargentina.edu.ar/species/details/3620)
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 

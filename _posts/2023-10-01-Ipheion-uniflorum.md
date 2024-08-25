@@ -39,8 +39,6 @@ Cabrera, A. L. (1953). *Manual de la flora de los alrededores de Buenos Aires*. 
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín
 
-Instituto de Botánica Darwinion. (2021). *Flora Argentina. Ipheion uniflorum*. Recuperado de 
-[https://shorturl.at/acsF0](https://shorturl.at/acsF0)
+Instituto de Botánica Darwinion. (2021). *Flora Argentina. Ipheion uniflorum*. [Link.](https://buscador.floraargentina.edu.ar/species/details/23844)
 
-Laboratorio de Plantas Vasculares del Departamento de Biología, Bioquímica y Farmacia de la Universidad Nacional del Sur. (2006). *Herbario BBB. Pehuén-Co, Un Jardín Natural. 'Ipheion uniflorum'*. 
-[https://shorturl.at/amtuH](https://shorturl.at/amtuH)
+Laboratorio de Plantas Vasculares del Departamento de Biología, Bioquímica y Farmacia de la Universidad Nacional del Sur. (2006). *Herbario BBB. Pehuén-Co, Un Jardín Natural. 'Ipheion uniflorum'*. [Link.](http://www.plantasvasculares.uns.edu.ar/herbario/galeria/pehuen/i.html)

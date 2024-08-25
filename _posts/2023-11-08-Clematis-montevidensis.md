@@ -47,6 +47,6 @@ De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de l
 
 Eynard, C., Calviño, A. & Ashworth, L. (2020). *Cultivo de plantas nativas: propagación y viverismo de especies de Argentina Central* (2ᵃ ed.). Ecoval Ediciones.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Clematis campestris*. Recuperado de [https://shorturl.at/XBOYa](https://shorturl.at/XBOYa)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Clematis campestris*. [Link.](https://buscador.floraargentina.edu.ar/species/details/1278)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.

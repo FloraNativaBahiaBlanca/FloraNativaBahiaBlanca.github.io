@@ -37,11 +37,9 @@ image: assets/images/Portadas/HeliotropiumC.webp
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Heliotropium curassavicum var. curassavicum*. Recuperado de 
-[https://shorturl.at/lHXY5](https://shorturl.at/lHXY5)
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Heliotropium curassavicum var. curassavicum*. [Link.](https://buscador.floraargentina.edu.ar/species/details/7221)
 
-Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. 
-[https://shorturl.at/djtuC](https://shorturl.at/djtuC)
+Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. [Link.](https://www.ambiente.gba.gob.ar/pdfs/002_Catalogo_Nativas_ABRIL2024.pdf)
 
 Sanhueza, C. et al. (2016). *Plantas nativas de Bahía Blanca y alrededores: descubriendo su historia, belleza y magia* (2ᵃ ed.). BBF UNS.
 
