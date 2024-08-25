@@ -1,8 +1,5 @@
 ---
 layout: post
-cientific: "Turnera sidoides"
-common: "Amapolita"
-description: "Herbácea pequeña con raíces profundas y gemiferas. Sus tallos, que pueden llegar a medir hasta 20 cm de alto, son rectos y tienen un ligero vello. Las hojas, también vellosas, están divididas en varios segmentos. Las flores son solitarias y crecen en las axilas de las hojas, con cinco pétalos que pueden ser color amarillo, salmón, rosado o rojizo. El fruto es una pequeña cápsula de unos 6-7 mm de longitud."
 title: "Turnera sidoides (Amapolita)"
 tags: [Herbaceas, Color naranja]
 categories: [Flora, Passifloraceae]

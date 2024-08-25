@@ -1,8 +1,5 @@
 ---
 layout: post
-cientific: "Modiola caroliniana"
-common: "Escobillo"
-description: "Hierba perenne rastrera. Tanto sus tallos como sus hojas están cubiertos de finos pelos. Tallos tendidos o ascendentes, con raíces en los nudos. Hojas alternas, suborbiculares, 5 a 7 veces palmatipartidas, de 1,5 a 4 cm. de longitud y con pecíolos de hasta 7 cm. de largo. Flores pequeñas, solitarias, axilares, color anaranjado. Los frutos son mericarpos oscuros a la madurez, que se dividen en varias partes con una semilla cada una. Las semillas son oscuras, reniformes, de 1,5 mm. de longitud, algo pubescentes."
 title: "Modiola caroliniana (Escobillo)"
 tags: [Herbaceas, Cubresuelos, Color naranja]
 categories: [Flora, Malvaceae]

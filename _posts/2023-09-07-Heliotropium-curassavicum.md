@@ -1,8 +1,5 @@
 ---
 layout: post
-cientific: "Heliotropium curassavicum var. curassavicum"
-common: "Heliotropo"
-description: "Herbácea perenne de hojas y tallos carnosos. Sus tallos son apoyantes, color verde grisáceo. Sus hojas son angostas, alargadas y con borde liso. Las flores se agrupan en cimas, dispuestas de un sólo lado, tomando la forma de una cola de escorpión. Son de color blanco, a veces con el centro lila o amarillo. El fruto es una cápsula muy pequeña (2 mm.) que se separa a la madurez en cuatro partes, cada una con una semilla."
 title: "Heliotropium curassavicum var. curassavicum (Heliotropo)"
 tags: [Herbaceas, Color blanco]
 categories: [Flora, Boraginaceae]

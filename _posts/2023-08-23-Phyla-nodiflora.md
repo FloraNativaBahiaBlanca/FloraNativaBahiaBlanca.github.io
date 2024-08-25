@@ -1,8 +1,5 @@
 ---
 layout: post
-cientific: "Phyla nodiflora"
-common: "Bella Alfombra"
-description: "Herbácea perenne de follaje caduco. Hojas pequeñas, entre 1 y 2,5 cm. de longitud, algo carnosas, con pelos y el borde aserrado desde la mitad hasta el extremo. Flores de 2 a 3 mm. de longitud, blancas o lilas, en capítulos. El fruto es seco y se separa en la madurez."
 title: "Phyla nodiflora (Bella Alfombra)"
 tags: [Cubresuelos, Herbaceas, Color blanco]
 categories: [Flora, Verbenaceae]

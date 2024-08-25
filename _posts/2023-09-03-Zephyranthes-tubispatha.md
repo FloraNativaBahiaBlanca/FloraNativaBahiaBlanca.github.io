@@ -1,8 +1,5 @@
 ---
 layout: post
-cientific: "Zephyranthes tubispatha"
-common: "Azucenita"
-description: "Hierba perenne, bulbosa y de crecimiento erguido. Todas las hojas son basales y lineares, de entre 12 y 15 cm. de longitud y escasas. Tallo desprovisto de hojas que sostiene una flor en el apice protegido por una bractea. La flor es color amarillo o anaranjado cobrizo, aunque dada su variabilidad se pueden llegar a presentar ejemplares con flores rosa claro, casi blancas. El fruto es una cápsula esférica aplastada con semillas planas."
 title: "Zephyranthes tubispatha (Azucenita)"
 tags: [Herbaceas, Color amarillo]
 categories: [Flora, Amaryllidaceae]
