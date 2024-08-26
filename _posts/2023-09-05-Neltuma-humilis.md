@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Neltuma humilis"
+common: "Algarrobilla"
+description: "Subarbusto bajo de entre 20 y 40 cm de altura. Sus tallos son espinosos, con espinas axilares de hasta 5 cm de longitud. Posee hojas reducidas o deciduas, bipinnadas, uniyugadas, con 1 a 2 pares de diminutos folíolos. Las flores se presentan en racimos axilares de una longitud de entre 3 y 6 cm, de un color rojo fuerte y corola amarilla. El fruto es una legumbre comprimida, rojiza, linear, algo curva, de 4 a 10,5 cm de largo por 1 cm de ancho."
 title: "Neltuma humilis (Algarrobilla)"
 tags: [Arbustos, Color rojo, Endemismo]
 categories: [Flora, Fabaceae]
