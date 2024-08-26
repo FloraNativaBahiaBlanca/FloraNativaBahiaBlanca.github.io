@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Passiflora caerulea"
+common: "Mbucuruyá"
+description: "Trepadora perenne de follaje semicaduco. Sus hojas son color verde oscuro y tienen forma de mano. Sus flores son muy vistosas, color blanco y violeta, solitarias, de 7 a 10 cm de diámetro. El fruto es una baya ovoide de 6 cm de largo de color naranja a la madurez. Las semillas son de color negro y están rodeadas por un arilo de color rojo. Cada fruto contiene entre 100 y 160 semillas."
 title: "Passiflora caerulea (Mbucuruyá)"
 tags: [Trepadoras, Color violeta]
 categories: [Flora, Passifloraceae]

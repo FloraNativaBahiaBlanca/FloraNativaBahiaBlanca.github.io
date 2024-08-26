@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Cortaderia selloana"
+common: "Cortadera"
+description: "Gramínea perenne de gran porte. Sus hojas son de color verde grisáceo o verde azulado y miden de 1 a 2 metros de largo por 5 a 10 mm. de ancho, terminadas en punta. Tienen la particularidad de contar con bordes ásperos, filosos y cortantes por la presencia de sílice. Las flores se agrupan en panojas hermafroditas o femeninas. Las panojas son ovaladas, densas, de color amarillento, rosado o violáceo, de 30 a 70 cm. de largo y se ubican en cañas de 2 a 3 metros de altura. El fruto es un cariopse de 2 a 2,5 mm. de longitud de color café claro, que lleva adherido una estructura con pelos largos y finos ideales para su dispersión por el viento."
 title: "Cortaderia selloana (Cortadera)"
 tags: [Gramineas, Color blanco]
 categories: [Flora, Poaceae]

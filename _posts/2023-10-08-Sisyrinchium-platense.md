@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Sisyrinchium platense"
+common: "Canchalagua"
+description: "Hierba perenne, con raíces carnosas. Numerosas hojas basales, acintadas, verde-grisáceas, de hasta 25 cm. de largo. Flores de 10 a 20 mm. de diámetro, con seis tepalos de color azul-violáceo que nacen desde el interior de bracteas verdes, dispuestas en la parte superior de los tallos. El fruto es una capsula con numerosas semillas pequeñas."
 title: "Sisyrinchium platense (Canchalagua)"
 tags: [Herbaceas, Endemismo, Color violeta]
 categories: [Flora, Iridaceae]

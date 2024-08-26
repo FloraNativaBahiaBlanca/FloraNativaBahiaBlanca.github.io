@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Modiolastrum australe "
+common: "-----"
+description: "Hierba perenne de crecimiento rastrero. Hojas de hasta 2,5 cm. de largo, palmadas, con 5 lóbulos, color verde oscuro. Flores pequeñas y solitarias, de color rosa. El fruto es una cápsula de color oscuro con varias partes que se separan a la madurez."
 title: "Modiolastrum australe (-----)"
 tags: [Cubresuelos, Herbaceas, Color rosado, Endemismo]
 categories: [Flora, Malvaceae]
