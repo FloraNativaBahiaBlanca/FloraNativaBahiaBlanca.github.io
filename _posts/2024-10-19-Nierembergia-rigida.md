@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: Nierembergia rigida
+common: Chusco blanco
+description: Hierba con tallos subterráneos y vástagos aéreos en zigzag, de hasta 20 cm. De hojas finas con forma de agujas, de hasta 25 mm. Las flores son de color blanco, de unos 20 mm de diámetro. Posee un androceo de 5 estambres, de los cuales 3 son cortos y 2 largos. El fruto es una pequeña cápsula que se divide en dos partes a la madurez.
 title: "Nierembergia rigida (Chusco blanco)"
 tags: [Herbaceas, Endemismo, Color blanco]
 categories: [Flora, Solanaceae]
