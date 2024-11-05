@@ -27,13 +27,15 @@ image: assets/images/Portadas/ModiolaC.webp
 
 🔍 **Otros datos:** Especie difundida por sus propiedades medicinales con potencial como cubresuelos. Florece en primavera y verano. Se reproduce por semillas. Requiere pleno sol o media sombra y riego medio. Originaria de América cálida y templado-cálida (desde EE.UU. hasta el centro y norte de nuestro país). En la ciudad de Bahía Blanca crece en suelos disturbados y como espontánea en jardines y huertas. Es la única especie nativa del género *Modiola* en nuestro país.
 
-**¡Una curiosidad!** 👀 El nombre vulgar 'pila-pila' proviene del término mapuche "*pëla-pëla*" (que significa 'muy fresco'). Dicho pueblo le atribuye propiedades contra las afecciones de la garganta y los bronquios, como también en casos de hidropesía y empachos.
+**¡Una curiosidad!** 👀 El nombre vulgar 'pila-pila' proviene del término mapuche "*pëla-pëla*" (que significa 'muy fresco'). Dicho pueblo le atribuye propiedades contra las afecciones de la garganta y los bronquios, como también en casos de hidropesía y empachos. A esta planta también se le citan propiedades emolientes, refrigerantes, analgésicas y contra el mal de montaña a partir de sus hojas y tallos (Barboza et al., 2009).
 
  {% include image-gallery.html folder="/assets/images/Modiola-caroliniana" %}
 
 ***
 
 **Bibliografía:**
+
+Barboza, G. E., J. J. Cantero, C. Núñez, A. Pacciaroni & L. Ariza Espinar. 2009. *Medicinal Plants: A general review and a phytochemical and ethnopharmacological screening of the native Argentine Flora*. Kurtziana 34 (1-2): 7-365.
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
