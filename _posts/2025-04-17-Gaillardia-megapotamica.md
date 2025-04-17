@@ -2,7 +2,7 @@
 layout: post
 cientific: Gaillardia megapotamica
 common: Botón de oro
-description:"Hierba perenne, erguida, de entre 40 y 60 cm de altura. Las hojas se encuentran principalmente en la parte inferior, son de color verde-ceniciento, alternas, de forma alargada, con borde liso o irregular y aromáticas al estrujarlas. Puede llegar a presentar raíces gemíferas. Las flores son de color amarillo-ocre y se ubican en capítulos en el extremo superior de los tallos. Los frutos son aquenios cubiertos de pelos rojizos."
+description: "Hierba perenne, erguida, de entre 40 y 60 cm de altura. Las hojas se encuentran principalmente en la parte inferior, son de color verde-ceniciento, alternas, de forma alargada, con borde liso o irregular y aromáticas al estrujarlas. Puede llegar a presentar raíces gemíferas. Las flores son de color amarillo-ocre y se ubican en capítulos en el extremo superior de los tallos. Los frutos son aquenios cubiertos de pelos rojizos."
 title: "Gaillardia megapotamica (Botón de oro)"
 tags: [Herbaceas, Color amarillo]
 categories: [Flora, Asteraceae]
