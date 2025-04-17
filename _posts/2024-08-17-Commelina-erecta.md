@@ -1,5 +1,8 @@
 ---
 layout: post
+cientific: "Commelina erecta"
+common: "Flor de Santa Lucía"
+description: "Herbácea perenne ramosa, ascendente, rizomatosa, de 10 a 25 cm de altura con hojas lanceoladas. Las flores de color azul se encuentran cubiertas por una hojita con forma de capuchón. Sus frutos son cápsulas con 3 semillas en su interior."
 title: "Commelina erecta (Flor de Santa Lucía)"
 tags: [Cubresuelos, Herbaceas, Color azul]
 categories: [Flora, Commelinaceae]
