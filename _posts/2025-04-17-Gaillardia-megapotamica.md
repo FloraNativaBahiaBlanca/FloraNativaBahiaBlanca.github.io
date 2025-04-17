@@ -33,15 +33,15 @@ image: assets/images/Portadas/GaillardiaM.webp
 
 ***Gaillardia megapotamica var. megapotamica:*** De las tres variedades, es la de distribución más restringida, encontrándose en el centro de nuestro país (Córdoba, San Luis, La Pampa, Buenos Aires, Neuquén y Río Negro). Sin embargo, es la más frecuente de encontrar en Bahía Blanca y la región. Se distingue de la *var. scabiosoides* por sus hojas de margen entero hasta lobado. 
 
-![](/media/fede/E6E4-7430/Proyectos/Web/FloraNativaBahiaBlanca.github.io/images/Imagenes/megapotamica.webp)
+![Gaillardia megapotamica var. megapotamica](/assets/images/Imagenes/megapotamica.webp)
 
 ***Gaillardia megapotamica var. radiata:*** Se diferencia de las otras dos variedades por sus capítulos radiados con flores marginales liguladas. Sus hojas pueden variar, siendo dentadas hasta lobadas o pinnatisectas. Tiene una distribución muy similar a la *var. scabiosoides*. La Flora Argentina la cita como nativa en Bahía Blanca aunque su presencia es muy rara.
 
-<img src="/media/fede/E6E4-7430/Proyectos/Web/FloraNativaBahiaBlanca.github.io/images/Imagenes/radiata.webp" alt="Glandularia megapotamica var. radiata" width="576" height="1024">
+<img src="/assets/images/Imagenes/radiata.webp" alt="Glandularia megapotamica var. radiata" width="576" height="1024">
 
 ***Gaillardia megapotamica var. scabiosoides:*** Se diferencia de la variedad tipo por su follaje color verde ceniciento y sus hojas profundamente pinnatisectas, con segmentos desde lineares hasta angostamente lanceolados. Es la variedad de mayor distribución en nuestro país, abarcando desde la provincia de Salta hasta Río Negro.
 
-<img src="/media/fede/E6E4-7430/Proyectos/Web/FloraNativaBahiaBlanca.github.io/images/Imagenes/scabiosoides.webp" alt="Glandularia megapotamica var. scabiosoides" width="687" height="916">
+<img src="/assets/images/Imagenes/scabiosoides.webp" alt="Glandularia megapotamica var. scabiosoides" width="687" height="916">
 
  {% include image-gallery.html folder="/assets/images/Gaillardia-megapotamica" %}
 

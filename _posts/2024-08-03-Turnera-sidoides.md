@@ -47,7 +47,7 @@ image: assets/images/Portadas/TurneraS.webp
 - ***morfotipo pampeano:*** Tiene hojas {% glossary pinnatifida, display: pinnatifidas %} y flores salmón-anaranjado. Su distribución se restringe a la planicie pampeana.
 - ***morfotipo serrano:*** Posee hojas {% glossary pinnatisecta, display: pinnatisectas %} y flores de color salmón. Es común en sitios rocosos de las Sierras Pampeanas y los sistemas de Ventania y Tandilia.
 
-![Variacion morfologica de subsp. pinnatifida](/assets/images/Imagenes/turnera1.jpg)
+![Variacion morfologica de subsp. pinnatifida](/assets/images/Imagenes/turnera1.webp)
 
 <center><font color="grey">Variación morfológica y ambiental de *Turnera sidoides subsp. pinnatifida*.
 a, b: Morfotipo andino. a: Individuo con flores amarillas. b: Pastizal de montaña en las Sierras Subandinas.
@@ -56,7 +56,7 @@ e, f: Morfotipo mesopotámico. e: Individuo con flor rosa claro. f: Vegetación 
 g, h: Morfotipo pampeano. g: Flor naranja-salmón. h: Llanura pampeana.
 i, j: Morfotipo serrano. i: Flor salmón. j: Sierras Pampeanas.
 (Extraído de Solís Neffa, 2010)</font></center>
-![Variacion foliar de subsp. pinnatifida](/assets/images/Imagenes/turnera2.jpg)
+![Variacion foliar de subsp. pinnatifida](/assets/images/Imagenes/turnera2.webp)
 
 <center><font color="grey">Variación foliar entre morfotipos de Turnera sidoides subsp. pinnatifida.
 (Extraído de Solís Neffa, 2010)</font></center>
