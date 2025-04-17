@@ -53,7 +53,7 @@ Barboza, G. E., J. J. Cantero, C. Núñez, A. Pacciaroni & L. Ariza Espinar. 200
 
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
-Instituto de Botánica Darwinion. (2018). *Flora Argentina. Gaillardia megapotamica var. megapotamica*. Recuperado de https://buscador.floraargentina.edu.ar/species/details/16637
+Instituto de Botánica Darwinion. (2018). *Flora Argentina. Gaillardia megapotamica var. megapotamica*. [Link.](https://buscador.floraargentina.edu.ar/species/details/16637)
 
 Sabatino, M., Farina, J. & Maceira, N. (2017). Flores de las Sierras de Tandilia: guía para el reconocimiento de las plantas y sus visitantes florales (1ᵃ ed.). Ediciones INTA.
 
