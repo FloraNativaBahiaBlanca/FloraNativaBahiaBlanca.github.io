@@ -4,7 +4,7 @@ cientific: Convolvulus bonariensis
 common: Campanillita
 description: Enredadera perenne de crecimiento postrado. Presenta una raíz gruesa vertical y hojas sagitadas. Las flores son blancas o blanco-rosadas, y se disponen en cimas o solitarias. Su fruto es una cápsula con 4 semillas de color negro.
 title: "Convolvulus bonariensis (Campanillita)"
-tags: [Herbáceas, Trepadoras, Color blanco]
+tags: [Herbaceas, Trepadoras, Color blanco]
 categories: [Flora, Convolvulaceae]
 image: assets/images/Portadas/ConvolvulusB.webp
 ---
