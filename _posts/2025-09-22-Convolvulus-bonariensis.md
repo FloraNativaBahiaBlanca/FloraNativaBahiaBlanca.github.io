@@ -4,14 +4,14 @@ cientific: Convolvulus bonariensis
 common: Campanillita
 description: Enredadera perenne de crecimiento postrado. Presenta una raíz gruesa vertical y hojas sagitadas. Las flores son blancas o blanco-rosadas, y se disponen en cimas o solitarias. Su fruto es una cápsula con 4 semillas de color negro.
 title: "Convolvulus bonariensis (Campanillita)"
-tags: [Herbáceas, Color blanco]
+tags: [Herbáceas, Trepadoras, Color blanco]
 categories: [Flora, Convolvulaceae]
 image: assets/images/Portadas/ConvolvulusB.webp
 ---
 
 ***
 
-**Tipo:** Herbácea
+**Tipo:** Enredadera herbácea
 
 **Medidas:** Varios cm de longitud, pudiendo alcanzar el metro
 
@@ -31,25 +31,25 @@ image: assets/images/Portadas/ConvolvulusB.webp
 
 ***Convolvulus crenatifolius* (Especie nativa 🌱):** Borde de la hoja crenado-ondulado (como si fuera una sierra redonda); aurículas paralelas o convergentes, nunca divergentes; flores más grandes (1,5–2,5 cm) que las de *C. bonariensis*.
 
-![Crenatifolius1](assets/images/Imagenes/Ccrenatifolius.webp)
+![Crenatifolius1](/assets/images/Imagenes/Ccrenatifolius.webp)
 
-![Crenatifolius2](assets/images/Imagenes/Ccrenatifolius2.webp)
+![Crenatifolius2](/assets/images/Imagenes/Ccrenatifolius2.webp)
 
 ***Convolvulus hermanniae* (Especie nativa 🌱):** Toda la planta está cubierta de pelos que le da una tonalidad grisácea; hojas más anchas que *C. bonariensis* y aurículas redondeadas.
 
-![Hermanniae](assets/images/Imagenes/Chermanniae.webp)
+![Hermanniae](/assets/images/Imagenes/Chermanniae.webp)
 
 ***Convolvulus laciniatus* (Especie nativa 🌱):** Su principal diferencia del resto de especies citadas aquí son sus hojas laciniadas, bipinnatisectas.
 
-![Laciniatus](assets/images/Imagenes/Claciniatus.webp)
+![Laciniatus](/assets/images/Imagenes/Claciniatus.webp)
 
 ***Convolvulus arvensis* (Especie exótica invasora ⚠️):** Flores más grandes (1,3–2,5 cm) y sépalos diminutos (3-5 mm); hojas más variables, a menudo enteras y completamente glabras; tallo casi sin pelos.
 
-![Arvensis](assets/images/Imagenes/Carvensis.webp)
+![Arvensis](/assets/images/Imagenes/Carvensis.webp)
 
 ***Calystegia sepium* (~ *Convolvulus sepium*, Especie exótica invasora ⚠️):** Especie mucho más grande que el resto de las citadas: hojas hasta 15 cm de ancho, brácteas del epicáliz (las “aletas” verdes debajo de la flor) de 1–2 cm, muy llamativas; flores blancas de 3–5 cm.
 
-![Sepium](assets/images/Imagenes/Csepium.webp)
+![Sepium](/assets/images/Imagenes/Csepium.webp)
 
  {% include image-gallery.html folder="/assets/images/Convolvulus-bonariensis" %}
 
