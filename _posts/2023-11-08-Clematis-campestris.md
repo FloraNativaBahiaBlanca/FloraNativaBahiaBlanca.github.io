@@ -1,12 +1,12 @@
 ---
 layout: post
-cientific: "Clematis montevidensis"
-common: "Barba de Viejo"
+cientific: "Clematis campestris"
+common: "Barba de viejo"
 description: "Liana leñosa de tallos delgados y crecimiento apoyante. Follaje persistente, hojas compuestas de 3-5 foliolos de entre 1 y 5 cm de longitud. Flores blancas masculinas y femeninas, perfumadas y agrupadas en cimas terminales o axilares. Las flores masculinas presentan muchos estambres, mientras que las femeninas numerosos estilos plumosos. Los frutos son aquenios plumosos de hasta 10 cm de largo."
-title: "Clematis montevidensis (Barba de Viejo)"
+title: "Clematis campestris (Barba de viejo)"
 tags: [Trepadoras, Color blanco]
 categories: [Flora, Ranunculaceae]
-image: assets/images/Portadas/ClematisM.webp
+image: assets/images/Portadas/ClematisC.webp
 ---
 
 ***
@@ -15,7 +15,7 @@ image: assets/images/Portadas/ClematisM.webp
 
 **Medidas:** Entre 3 y 4 metros de altura
 
-**Otros nombres:** Cabello de ángel, loconte, bejuco, flámula, zocate, centeya, tuyá rendivá (guaraní), barba de chivo, bejuco caústico, cabello de indio, cabello de vieja, centella, clematide, enredadera amarga, liana, parra, parra plumero, plumero, zocate
+**Otros nombres:** Cabello de ángel, loconte, bejuco, flámula, zocate, centeya, tuyá rendivá (guaraní), barba de chivo, bejuco caústico, cabello de indio, cabello de vieja, centella, clematide, enredadera amarga, liana, parra, parra plumero, plumero, zocate (Sinónimo: *Clematis montevidensis*)
 
 ***
 
@@ -31,7 +31,7 @@ image: assets/images/Portadas/ClematisM.webp
 👀 Los pueblos guaraníes le llaman "tuyá rendivá", que significa "enredadera amarga".
 👀 El nombre del género Clematis proviene del griego κληματίς (*clēmatís*), que significa "*enredadera*".
 
- {% include image-gallery.html folder="/assets/images/Clematis-montevidensis" %}
+ {% include image-gallery.html folder="/assets/images/Clematis-campestris" %}
 
 ***
 
