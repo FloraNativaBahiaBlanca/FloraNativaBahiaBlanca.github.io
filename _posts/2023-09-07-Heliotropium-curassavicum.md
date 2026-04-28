@@ -23,11 +23,17 @@ image: assets/images/Portadas/HeliotropiumC.webp
 
 📋 **Descripción técnica:** Hierba perenne hasta de 45 cm de alto; tallos erectos, {% glossary decumbente, display: decumbentes %}, o {% glossary procumbente, display: procumbentes %}, {% glossary glabro, display: glabros %}. Hojas {% glossary alterna, display: alternas %}, {% glossary sesil, display: sesiles %}; láminas {% glossary linear, display: lineares %} o angostamente {% glossary eliptico, display: elipticas %}, de 0,5-4(-8) × 0,1-1(-1,5) cm, {% glossary glabro, display: glabras %}, subcarnosas, {% glossary apice %} {% glossary obtuso %}, base obtusa, el margen liso o ligeramente {% glossary crenado, display: crenulado %}. {% glossary inflorescencia, display: Inflorescencias %} en {% glossary cincino, display: cincinos %} de 8-10(-20) cm de largo, {% glossary pedunculado, display: pedunculados %}, simples, multifloros, con ca. 50 flores. Flores con el {% glossary caliz %} de 2-3 mm de largo, {% glossary lacinia, display: lacinias %} {% glossary ovado, display: ovadas %}, agudas, {% glossary glabro, display: glabras %}; {% glossary corola %} {% glossary infundibuliforme %} blanca o crema, tubo de 2-4 mm de largo, exterior e interiormente glabra, {% glossary limbo %} de 3 mm de diámetro; {% glossary antera, display: anteras %} angostamente ovadas, {% glossary acuminada, display: acuminadas %}, ca. 1,5 mm de largo; ovario de 0,5 mm de largo, {% glossary estigma %} con columna cilíndrica e irregularmente {% glossary lobado, display: lobada %} en el {% glossary apice %}, de 1-2 mm de largo. Fruto de 1,5-2 × 1 mm, glabro, dividido en 4 {% glossary clusa, display: clusas %} 1-seminadas, dorso granuloso.
 
-**Fauna que atrae:** (🦋🐝🪲🐦) Atrae diversos insectos polinizadores que visitan sus flores. A su vez atrae aves que se alimentan de estos insectos.
+🦋🐝🪲🐦 **Fauna que atrae**: Atrae diversos insectos polinizadores que visitan sus flores. A su vez atrae aves que se alimentan de estos insectos.
 
-🔍 **Otros datos:** Especie muy común en Bahía Blanca y la zona, que se puede encontrar creciendo en veredas y baldíos. Amplio potencial ornamental por su extendida floración (fines de primavera hasta principios del otoño). Se reproduce por esquejes y semillas. Suele crecer en suelos salobres y arenosos y resiste la sequía. Crece en gran parte del centro y norte del país. 
-**¡Una curiosidad!** 👀 La que encontramos en nuestra zona es la variedad *curassavicum*, que posee tallos decumbentes o procumbentes, a diferencia de la variedad *fruticulosum* que posee tallos erectos y puede alcanzar una altura mayor. A su vez en la zona podemos encontrar la especie *H. amplexicaule* que posee flores violetas, pero su distribución llega hasta las Sierras de la Ventana.
-👀 Los nativos ranqueles lo llaman '*külen trewa*', que significa '*cola de perro*'. Lo emplean para lavar y desinfectar heridas
+🌸 **Floración y fructificación**: Florece desde fines de primavera hasta principios del otoño.
+
+🧑🏻‍🌾 **Cultivo y propagación**: Se reproduce por esquejes y semillas. Suele crecer en suelos salobres y arenosos y resiste la sequía.
+
+🌎 **Distribución**: Se distribuye por Bolivia, Brasil, Paraguay, Uruguay y Argentina. En nuestro país se la encuentra en la región central y noroeste. Especie muy común en Bahía Blanca y la zona, que se puede encontrar creciendo en veredas y baldíos.
+
+🏺 **Usos y aplicaciones**: Amplio potencial ornamental por su llamativa y extendida floración. Las partes aéreas se emplean en medicina tradicional como remedio para disminuir el nivel de colesterol en sangre. Los nativos ranqueles lo llaman '*külen trewa*', que significa '*cola de perro*'. Lo emplean para lavar y desinfectar heridas.
+
+👀 **¡Una curiosidad!** La que encontramos en nuestra zona es la variedad *curassavicum*, que posee tallos decumbentes o procumbentes, a diferencia de la variedad *fruticulosum* que posee tallos erectos y puede alcanzar una altura mayor. A su vez en la zona podemos encontrar la especie *H. amplexicaule* que posee flores violetas, pero su distribución llega hasta las Sierras de la Ventana.
 
  {% include image-gallery.html folder="/assets/images/Heliotropium-curassavicum" %}
 

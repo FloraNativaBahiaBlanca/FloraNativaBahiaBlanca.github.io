@@ -23,10 +23,15 @@ image: assets/images/Portadas/NeltumaH.webp
 
 📋 **Descripción técnica:** Subarbusto subáfilo de 20-40 cm de alt., con tallos subterráneos robustos y ramas aéreas algo rígidas, {% glossary estrias, display: estriadas %} longitudinalmente. Espinas {% glossary geminado, display: geminadas %}. Hojas de menos de 1 cm, {% glossary pinnada, display: pinnas %} 1-3-yugadas. Racimos {% glossary espiciforme, display: espiciformes %} con flores rojas. Legumbres angostas, ligeramente curvas, 4-11 cm, rojizas. Semillas de 7-9 x 4,8-5,7 mm.
 
-**Fauna que atrae:** Hasta la fecha no existen registros de interacciones biológicas con la especie. 
+🐝 **Fauna que atrae:** Hasta la fecha no existen registros de interacciones biológicas con la especie. 
 
-🔍 **Otros datos:** Especie endémica de Argentina. Sus vistosas flores rojas le proporcionan un gran potencial ornamental. Puede prosperar en suelos con salinidad moderada. En general se lo encuentra creciendo cerca de los alambrados. Su distribución incluye las provincias de Córdoba, San Luis, La Pampa y el sudoeste bonaerense. 
-**¡Una curiosidad!** 👀 En la ciudad de Bahía Blanca existe un ejemplar añoso en las inmediaciones del Hospital Penna declarado Patrimonio Verde Urbano por ordenanza 20371/2021.
+🌸 **Floración y fructificación**: Florece en verano y fructifica durante el verano y el otoño.
+
+🧑🏻‍🌾 **Cultivo y propagación**: Se puede reproducir por semillas. Puede prosperar en suelos con salinidad moderada.
+
+🌎 **Distribución**: Especie endémica de Argentina. Su distribución incluye las provincias de Córdoba, San Luis, La Pampa y el sudoeste bonaerense. En general se lo encuentra creciendo cerca de los alambrados. En la ciudad de Bahía Blanca existe un ejemplar añoso en las inmediaciones del Hospital Penna declarado Patrimonio Verde Urbano por ordenanza 20371/2021.
+
+🏺 **Usos y aplicaciones**: Sus vistosas flores rojas le proporcionan un gran potencial ornamental.
 
  {% include image-gallery.html folder="/assets/images/Neltuma-humilis" %}
 
