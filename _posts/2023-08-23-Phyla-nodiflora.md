@@ -26,9 +26,9 @@ vírgen, yerba del mosquito
 
 🦋🐝🪲🐦 **Fauna que atrae:** Atrae diversos insectos autóctonos como abejas, mariposas y escarabajos. Es hospedera de la mariposa 'Cuatro Ojos' (*Junonia genoveva hilaris*). Sus semillas atraen aves granívoras.
 
-🌸 **Floración y fructificación**: Florece abundantemente de primavera a otoño. Presenta tres variedades; var. nodiflora, var. minor y var. reptans, diferenciándose entre ellas por la forma y tamaño de la lámina foliar.
+🌸 **Floración y fructificación**: Florece abundantemente de primavera a otoño y fructifica en otoño. Presenta tres variedades; var. nodiflora, var. minor y var. reptans, diferenciándose entre ellas por la forma y tamaño de la lámina foliar.
 
-🧑🏻‍🌾 **Cultivo y propagación**: Se puede propagar por semillas pero resulta más sencillo hacerlo por división de matas. Requiere exposición al sol y muy poco riego.
+🧑🏻‍🌾 **Cultivo y propagación**: Se puede propagar por semillas pero resulta más sencillo hacerlo por división de matas. Requiere exposición al sol y muy poco riego. Puede cultivarse en maceta.
 
 🌎 **Distribución**: Crece en Brasil, Chile, Paraguay, Uruguay y Argentina (desde Jujuy hasta Chubut). En nuestra zona es común encontrarla en las veredas junto al césped.
 
