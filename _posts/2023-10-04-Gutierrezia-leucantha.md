@@ -23,11 +23,17 @@ image: assets/images/Portadas/GutierreziaL.webp
 
 📋 **Descripción técnica:** Arbustos rizomatosos, hasta de 100 cm de alto, con tallos ramificados, hojosos, glandulosos. Hojas {% glossary linear, display: lineares %}, de 10-35 × ca. 1 mm, base atenuada, {% glossary apice %} subagudo, margen entero, {% glossary glabro, display: glabras %}. {% glossary capitulo, display: Capitulos %} solitarios, {% glossary pedunculado, display: pedunculados %}, de aproximadamente 6×3 mm. {% glossary involucro, display: Involucro %} acampanado, de 5-6 mm de alto; {% glossary filario, display: filarios %} dispuestos en 3 series, {% glossary ovado %}-{% glossary oblongo, display: oblongos %}, de 2-4,6 × 0,6-2,3 mm, {% glossary apice %} {% glossary apiculado %}. Flores del margen con {% glossary corola, display: corolas %} blancas, a veces cremosas o amarillentas, ca. 5 mm de largo, {% glossary limbo %} de 2,5-5 × 1-2 mm; flores del centro con {% glossary corola, display: corolas %} de 2,5-4 mm de largo; ramas del {% glossary estilo %} {% glossary linear, display: lineares %}. {% glossary aquenio, display: Aquenios %} de 1,7-2,3 × ca. 1 mm, {% glossary sericeo, display: sericeos %}. {% glossary vilano, display: Papus %} formado por pajitas angostas, las de las flores del centro de 1,5-2,5 mm de largo.
 
-**Fauna que atrae:** (🦋🐝) Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas, mariposas y moscas de las flores.
+🦋🐝 **Fauna que atrae:** Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas, mariposas y moscas de las flores.
 
-🔍 **Otros datos:** Especie endémica de las provincias de Buenos Aires y La Pampa. Crece en sierras y llanuras, en suelos muy rocosos y arenosos. En el distrito de Bahía Blanca es posible encontrarla en inmediaciones del puente Canesa y en sitios pedregosos y calizos. Por su porte globoso y compacto y su abundante floración posee un enorme potencial ornamental. Florece durante la primavera y el verano. Crece en sitios soleados y suelos secos y se propaga bien por semilla.
+🌸 **Floración y fructificación**: Florece durante la primavera y el verano.
 
-**¡Una curiosidad!** 👀 Anteriormente esta especie se consideraba parte de *Gutierrezia gilliesii* pero una revisión del género realizada en 2020 (Ratto & Bartoli, 2020) determinó que se trata de una especie diferente. *G. leucantha* se diferencia de *G. gilliesii* por ser de mayor tamaño y poseer hojas más anchas. 
+🧑🏻‍🌾 **Cultivo y propagación**: Se propaga bien por semillas. Crece en sitios soleados y con escaso riego.
+
+🌎 **Distribución**: Especie endémica de las provincias de Buenos Aires y La Pampa. Crece en sierras y llanuras, en suelos muy rocosos y arenosos. En el distrito de Bahía Blanca es posible encontrarla en inmediaciones del puente Canesa y en sitios pedregosos y calizos.
+
+🏺 **Usos y aplicaciones**: Por su porte globoso y compacto y su abundante floración posee un enorme potencial ornamental.
+
+👀 **¡Una curiosidad!** Anteriormente esta especie se consideraba parte de *Gutierrezia gilliesii* pero una revisión del género realizada en 2020 (Ratto & Bartoli, 2020) determinó que se trata de una especie diferente. *G. leucantha* se diferencia de *G. gilliesii* por ser de mayor tamaño y poseer hojas más anchas. 
 
  {% include image-gallery.html folder="/assets/images/Gutierrezia-leucantha" %}
 

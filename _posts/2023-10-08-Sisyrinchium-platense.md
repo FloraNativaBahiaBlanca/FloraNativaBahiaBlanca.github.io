@@ -23,11 +23,17 @@ image: assets/images/Portadas/SisyrinchiumP.webp
 
 📋 **Descripción técnica:** Plantas de 10-50 cm de altura. {% glossary rizoma, display: Rizoma %} corto con muchas raíces {% glossary fasciculado, display: fasciculadas %}, carnoso-fibrosas con frecuencia de color rojizo. Hojas {% glossary basal, display: basales %} numerosas, {% glossary linear, display: lineares %}, verde-grisáceas, de 7-25 cm × 2-4 mm, de bordes ásperos, {% glossary ciliado, display: ciliados %}. Tallos florales numerosos en cada mata, alado-{% glossary ancipitado, display: ancipitados %}, de bordes {% glossary ciliado, display: ciliados %}, con 2-3 hojas gradualmente reducidas hacia el {% glossary apice %} y {% glossary bractea, display: bracteas %}. {% glossary espata, display: Espatas %} hasta 7, rara vez más, multifloras, de 12-15 mm de largo; {% glossary bractea, display: bracteas %} casi iguales, de bordes algo escarioso-membranosos. Flores violáceas, de 10-20 mm de diámetro. {% glossary tepalo, display: Tepalos %} inferiormente contiguos, formando una copa, {% glossary oblanceolado, display: oblanceolados %}, de 12-17 mm de largo, los exteriores de 3,5-4,5 mm lat., los interiores más angostos, ambas series con {% glossary apiculo %}. Columna estaminal {% glossary ventricoso, display: ventricosa %}, de 1,9 mm de largo, densamente cubierta por {% glossary elaioforo, display: elaioforos %} hacia la base, más angosta y con pelos glandulares, ralos hacia el {% glossary apice %}. {% glossary antera, display: Anteras %} contiguas, derechas, de 1-1,2 mm de largo. Ovario {% glossary obovado, display: obovoide %}, piloso-glanduloso, de 1,2 × 0,8-1 mm. Ramas del {% glossary estilo %} muy pequeñas, en gran parte soldadas entre sí. {% glossary capsula, display: Capsula %} {% glossary obovado, display: obovoide %} o casi globosa, irregular, de 4-5 × 3,5 mm. Semillas diminutas, negras.
 
-**Fauna que atrae:** (🐝🪲🐦) Sus flores son polinizadas por pequeños escarabajos y abejas. Las semillas son consumidas por aves.
+🐝🪲🐦 **Fauna que atrae:** Sus flores son polinizadas por pequeños escarabajos y abejas. Las semillas son consumidas por aves.
 
-🔍 **Otros datos:** Especie endémica de las provincias de Buenos Aires y Entre Ríos, también presente en Uruguay y sur de Brasil, con gran potencial ornamental. Florece profusamente en primavera y verano, y fructifica en verano y otoño. Requiere riego medio y exposición al sol. Puede cultivarse en maceta. Se propaga por semillas.
+🌸 **Floración y fructificación**: Florece profusamente en primavera y verano, y fructifica en verano y otoño.
 
-**¡Una curiosidad!** 👀 En la región se pueden encontrar otras especies afines, anuales o perennes, con flores azules, blancas o amarillas.
+🧑🏻‍🌾 **Cultivo y propagación**: Se reproduce por semillas. Requiere riego medio y exposición al sol. Puede cultivarse en maceta.
+
+🌎 **Distribución**: Crece en Brasil, Paraguay, Uruguay y Argentina, ampliamente distribuida en la zona central del país. Es frecuente en lugares húmedos, en suelos calcáreos y en terrenos modificados. En la zona de Bahía Blanca podemos encontrarla en terrenos baldíos, espacios verdes y bordes de caminos, como también en las sierras y en Pehuen Co.
+
+🏺 **Usos y aplicaciones**: Posee gran potencial ornamental.
+
+👀 **¡Una curiosidad!** En la región se pueden encontrar otras especies afines, anuales o perennes, con flores azules, blancas o amarillas.
 
  {% include image-gallery.html folder="/assets/images/Sisyrinchium-platense" %}
 
