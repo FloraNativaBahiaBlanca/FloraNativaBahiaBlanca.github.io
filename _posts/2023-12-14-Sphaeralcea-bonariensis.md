@@ -23,11 +23,15 @@ image: assets/images/Portadas/SphaeralceaB.webp
 
 📋 **Descripción técnica:** Subarbusto o arbusto de entre 1 y 1,5 m. de altura, de porte erecto, cubierto de pelos estrellados grisáceos. {% glossary peciolo, display: Peciolo %} de hasta 4,5 cm de largo. Sus hojas son romboideas o 3-5-{% glossary lobado, display: lobadas %}, hasta 6×6 cm, con el margen levemente dentado o {% glossary crenado, display: crenulado %}, algo {% glossary discolor %}. El haz posee pelos estrellados muy cortos que dejan ver la epidermis y el envés es velludo. Flores agrupadas en {% glossary cincino, display: cincinos %} {% glossary axilar, display: axilares %}, densos, más cortos que las hojas. {% glossary caliculo, display: Caliculo %} de 3 {% glossary bracteola, display: bracteolas %} {% glossary filiforme, display: filiformes %}, de 7-9 mm de largo. {% glossary caliz, display: Caliz %} {% glossary campanulado %}, de 7-9 mm de largo, {% glossary tomento, display: tomentoso %}. Pétalos de 10 mm de largo, desde rosado a anaranjado. Tubo estaminal de 5 mm de largo. Ovario 12-20 {% glossary carpelo, display: carpelar %}. {% glossary mericarpo, display: Mericarpos %} con 1-3 semillas, 4×2 mm, generalmente sin aristas, cuando las hay no pasan de 0,5 mm de largo; a la región basal, {% glossary reticulada %}, {% glossary indehiscente %}, cara dorsal y ápice cubiertos de pelos estrellados muy pequeños.
 
-**Fauna que atrae:** (🦋🐝🐦)  Sus flores son polinizadas por diversos insectos como abejas, abejorros, y moscas (Goñi, 2022). Hospedera de las mariposas Dama Manchada (*Vanessa carye*), Ajedrezada Menor (*Burnsius orcynoides*), Ajedrezada de Lunar (*Heliopyrgus americanus bellatrix*) y Blanca Lomo Negro (*Heliopetes omrina*). Sus semillas son alimento de aves granívoras.
+🦋🐝🐦 **Fauna que atrae:** Sus flores son polinizadas por diversos insectos como abejas, abejorros, y moscas (Goñi, 2022). Hospedera de las mariposas Dama Manchada (*Vanessa carye*), Ajedrezada Menor (*Burnsius orcynoides*), Ajedrezada de Lunar (*Heliopyrgus americanus bellatrix*) y Blanca Lomo Negro (*Heliopetes omrina*). Sus semillas son alimento de aves granívoras.
 
-🔍 **Otros datos:** Florece de primavera a otoño y fructifica de verano a invierno. Requiere riego escaso y exposición al Sol. Puede cultivarse en maceta. Se reproduce por semillas y esquejes. Especie presente en Paraguay, Bolivia, Uruguay, y el norte y centro de Argentina, principalmente a orillas de caminos y de vías férreas. En nuestra ciudad se han encontrado ejemplares silvestres en las afueras de la ciudad (Goñi, 2022), aunque también se emplea en jardines como ornamental por su abundante y vistosa floración.
+🌸 **Floración y fructificación**: Florece de primavera a otoño y fructifica de verano a invierno.
 
-**¡Una curiosidad!** 👀 Se le citan propiedades medicinales entre las que se encuentran el ser carminativo, antiinflamatorio, antidiarreico y digestivo (Barboza, 2009).
+🧑🏻‍🌾 **Cultivo y propagación**: Se reproduce por semillas y esquejes. Requiere riego escaso y exposición al Sol. Puede cultivarse en maceta.
+
+🌎 **Distribución**: Especie presente en Paraguay, Bolivia, Uruguay, y el norte y centro de Argentina, principalmente a orillas de caminos y de vías férreas. En nuestra ciudad se han encontrado ejemplares silvestres en las afueras de la ciudad (Goñi, 2022).
+
+🏺 **Usos y aplicaciones**: Amplia difusión como ornamental por su abundante y vistosa floración. Se le citan propiedades medicinales entre las que se encuentran el ser carminativo, antiinflamatorio, antidiarreico y digestivo (Barboza, 2009).
 
  {% include image-gallery.html folder="/assets/images/Sphaeralcea-bonariensis" %}
 

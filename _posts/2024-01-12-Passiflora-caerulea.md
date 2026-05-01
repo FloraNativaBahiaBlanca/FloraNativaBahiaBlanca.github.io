@@ -23,15 +23,36 @@ image: assets/images/Portadas/PassifloraC.webp
 
 📋 **Descripción técnica:** Liana trepadora de entre 2 y 10 metros de longitud. {% glossary estipula, display: Estipulas %} subreniformes, de 11-25 x 5-11 mm. {% glossary zarcillo, display: Zarcillos %} herbáceos a leñosos. Pecíolos con 2-4 glándulas {% glossary estipite, display: estipitadas %} y {% glossary capitado, display: capitadas %}, de 8-65 mm de longitud; láminas de contorno subelíptico, 3-(5)-6 {% glossary palmatipartido, display: palmatipartidas %}, {% glossary segmento, display: segmentos %} {% glossary eliptico, display: elipticos %} con base atenuada y {% glossary apice %} generalmente agudo y {% glossary acuminada, display: acuminado %}, de 20-135 x 20-180 mm, comisura de los {% glossary segmento, display: segmentos %} con glándulas {% glossary discoide, display: discoides %} o cortamente {% glossary estipite, display: estipitadas %}. {% glossary pedunculo, display: Pedunculo %} solitario de 13-65 mm. {% glossary bractea, display: Bracteas %} anchamente {% glossary ovado, display: ovadas %}, color verde claro. Flores de 46-90 mm de diámetro. {% glossary pedicelo, display: Pedicelo %} floral de 4-10 mm. {% glossary sepalos, display: Sepalos %} {% glossary ovado, display: ovados %}, con una {% glossary carina %} dorsal, subapical, de 22-32 x 9- 13 mm. Pétalos {% glossary ovado, display: ovados %}, blancos a blanco-verdosos, de 16-33 x 9-12 mm. Corona de 4 series, azuladas, blancas y moradas. {% glossary operculo, display: Operculum %} no {% glossary plicativo %}, {% glossary membranaceo %}, filamentoso en la porción superior. Anillo nectarífero carnoso, morado. {% glossary androginoforo, display: Androginoforo %} verdoso, de 12-15 x 1,5-2,0 mm. Porción libre de los filamentos estaminales verdosa. {% glossary antera, display: Anteras %} verdosas. Ovario subesférico a {% glossary eliptico, display: elipsoide %}, verde claro, de 3-8 mm x 1,5-5,0 mm. {% glossary estilo, display: Estilos %} morados. {% glossary estigma, display: Estigmas %} {% glossary papiloso, display: papilosos %}, morados. {% glossary baya, display: Bayas %} subesféricas a {% glossary eliptico, display: elipsoides %}, anaranjadas a la madurez, de 25-50 x 15-38 mm. Semillas {% glossary eliptico, display: elipsoides %}, ligeramente aguzadas en los extremos, {% glossary reticulada, display: reticulado %}-{% glossary foveado, display: foveadas %}, con {% glossary arilo %} rojizo que las cubre totalmente a la madurez, de 4-5 x 2,5-3,0 mm.
 
-**Fauna que atrae:** (🦋🐝🪲🐦) Sus flores son polinizadas por abejorros del género *Xylocopa* y de sus frutos se alimentan las aves frugívoras, quienes luego esparcen las semillas. Esta especie es hospedera de las mariposas Espejito (*Dione vanillae*), Juno (*Dione juno*), Julia (*Dryas iulia alcionea*), Almendra Común (*Heliconius erato phyllis*), Hortensia (*Euptoieta hortensia*), entre otras. También es visitada por el Escarabajo del Mbucuruyá (*Cacoscelis nigripennis*), quien se alimenta de su follaje, y por hormigas que pueden reducir el número de huevos y larvas de la mariposa Espejito (Simonetti & Devoto, 2018).
+🦋🐝🪲🐦 **Fauna que atrae:** Sus flores son polinizadas por abejorros del género *Xylocopa* y de sus frutos se alimentan las aves frugívoras, quienes luego esparcen las semillas. Esta especie es hospedera de las mariposas Espejito (*Dione vanillae*), Juno (*Dione juno*), Julia (*Dryas iulia alcionea*), Almendra Común (*Heliconius erato phyllis*), Hortensia (*Euptoieta hortensia*), entre otras. También es visitada por el Escarabajo del Mbucuruyá (*Cacoscelis nigripennis*), quien se alimenta de su follaje, y por hormigas que pueden reducir el número de huevos y larvas de la mariposa Espejito (Simonetti & Devoto, 2018).
 
-🔍 **Otros datos:** Florece en primavera, verano y otoño. Requiere riego escaso y exposición al Sol o media sombra. Muy recomendada para cercos y alambrados. Puede cultivarse en macetas y se propaga por semillas. Se distribuye por Uruguay, Paraguay, Bolivia, Brasil, Chile, y el norte y centro de nuestro país, hasta la provincia de Buenos Aires. En nuestra región puede llegar a desaparecer durante el invierno si las heladas son intensas, pero luego vuelve a rebrotar.
+🌸 **Floración y fructificación**: Florece y fructifica en primavera, verano y otoño.
 
-**¡Una curiosidad!** 👀 Se le atribuyen numerosas propiedades medicinales, entre las que se destacan las ansiolíticas, sedantes y diuréticas (Barboza, 2009).
-👀 Su fruto es comestible, tanto crudo como cocido, y con él se elaboran dulces, postres y otros preparados.
-👀 En 1920 fue propuesta como flor nacional por los miembros de la Comisión de la Flora Argentina, del Ministerio de Agricultura. Finalmente se aceptó al Ceibo (*Erythrina crista-galli*) para ocupar ese honor (Deginiani & Novara, 1999).
+🧑🏻‍🌾 **Cultivo y propagación**: Se propaga por semillas. Requiere riego escaso y exposición al Sol o media sombra. Muy recomendada para cercos y alambrados. Puede cultivarse en macetas.
+
+🌎 **Distribución**: Se distribuye por Uruguay, Paraguay, Bolivia, Brasil, Chile, y el norte y centro de nuestro país, hasta la provincia de Buenos Aires. En nuestra región puede llegar a desaparecer durante el invierno si las heladas son intensas, pero luego vuelve a rebrotar.
+
+🏺 **Usos y aplicaciones**: Se le atribuyen numerosas propiedades medicinales, entre las que se destacan las ansiolíticas, sedantes y diuréticas (Barboza, 2009). Su fruto es comestible, tanto crudo como cocido, y con él se elaboran dulces, postres y otros preparados.
+
+👀 **¡Una curiosidad!** En 1920 fue propuesta como flor nacional por los miembros de la Comisión de la Flora Argentina, del Ministerio de Agricultura. Finalmente se aceptó al Ceibo (*Erythrina crista-galli*) para ocupar ese honor (Deginiani & Novara, 1999).
 
 ❌ No debe confundirse con el maracuyá (*Passiflora edulis*), una trepadora del mismo género pero de distribución más tropical.
+
+<div style="background:#fef3eb; border-left:4px solid #ee751e; padding:12px 16px; border-radius:4px;">
+  <p>👨‍🍳 <strong>Recetas:</strong></p>
+  <ul style="display: flex; flex-direction: column; gap: 16px;">
+    <li>
+      <strong>Postre de pasionaria</strong><br>
+      Cortar los frutos, abrirlos al medio quitando la pulpa.
+      Separar la pulpa de las semillas y reservar ambas.
+      Disolver gelatina en 3 cdas de agua tibia en una taza y reservar.
+      Mezclar la pulpa sin semillas con leche condensada y batir a mano o en liculadora.
+      Agregar la gelatina disuelta y mezclar.
+      Aparte, batir 200 ml de crema de leche e incorporar a la mezcla anterior.
+      Repartir la mezcla en vasos y sumar las semillas.
+      Guardar al frío 2 hs.
+    </li>
+      </ul>
+</div>
 
  {% include image-gallery.html folder="/assets/images/Passiflora-caerulea" %}
 

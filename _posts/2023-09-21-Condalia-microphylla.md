@@ -42,19 +42,18 @@ image: assets/images/Portadas/CondaliaM.webp
       <strong>Cognac o licor de piquillín</strong><br>
       Incorporar en un frasco o botella de vidrio 5 semillas de albaricoque (pueden ser almendras, enteras y con la cáscara partida), un puñadito de frutos de piquillín (aproximadamente una taza colmada), 250 ml de agua y 150 ml de alcohol. Se pueden agregar unas hojitas de peperina, menta o té de burro. Dejar macerar durante al menos 30 días (preferentemente 40 días).
     </li>
-    
       <li>
-      <strong>Arrope de piquillín</strong><br>
-      Para la realización del arrope se hierven los frutos, se cuelan varias veces, se agrega azúcar y se los coloca a hervir a fuego lento hasta lograr una consistencia similar a la miel. La época de recolección de los frutos es a comienzos del verano.
-    </li>
-    <li>
-      <strong>Dulce de piquillín</strong><br>
-      Colectar 3 kg de frutos de piquillín, lavarlos y colocarlos en un recipiente. Agregar 700 gramos de azúcar y dejar reposar toda la noche. Al día siguiente comenzar a cocinar a fuego lento, si es necesario agregar un poquito de agua. Cuando se termina la cocción se filtra la pasta y se puede agregar esencia de vainilla al terminar.
-    </li>
+  <strong>Arrope de piquillín</strong><br>
+  Para la realización del arrope se hierven los frutos, se cuelan varias veces, se agrega azúcar y se los coloca a hervir a fuego lento hasta lograr una consistencia similar a la miel. La época de recolección de los frutos es a comienzos del verano.
+</li>
+<li>
+  <strong>Dulce de piquillín</strong><br>
+  Colectar 3 kg de frutos de piquillín, lavarlos y colocarlos en un recipiente. Agregar 700 gramos de azúcar y dejar reposar toda la noche. Al día siguiente comenzar a cocinar a fuego lento, si es necesario agregar un poquito de agua. Cuando se termina la cocción se filtra la pasta y se puede agregar esencia de vainilla al terminar.
+</li>
   </ul>
 </div>
 
- {% include image-gallery.html folder="/assets/images/Condalia-microphylla" %}
+{% include image-gallery.html folder="/assets/images/Condalia-microphylla" %}
 
 ***
 
