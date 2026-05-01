@@ -23,11 +23,15 @@ image: assets/images/Portadas/ModiolaC.webp
 
 📋 **Descripción técnica:** Hierba perenne, rastrera, {% glossary radicante %} en los {% glossary nudo, display: nudos %}. Tallos de 20-60 cm, rastreros o ascendentes, {% glossary pubescente, display: pubescentes %}. {% glossary peciolo, display: Peciolo %} de 3-5 cm; lámina 1-4 cm, {% glossary suborbicular, display: suborbiculares %} a {% glossary ovado, display: ovadas %}, {% glossary palmatipartido, display: palmatipartida %}, 5-7 lobuladas, cubierta por pelos estrellados, margen {% glossary crenado %}. {% glossary estipula, display: Estipulas %} de 3-4 × 1,5-3 mm. Flores solitarias, {% glossary axilar, display: axilares %} {% glossary pedunculo, display: pedunculos %} de 1-3 cm. {% glossary caliculo, display: Caliculo %} de 2-3 {% glossary bractea, display: bracteas %} {% glossary lanceolado, display: lanceoladas %}, pestañosas, de 3-5 mm. {% glossary caliz, display: Caliz %} de 4-7 mm, interior lanoso. {% glossary corola, display: Corola %} con 5 pétalos, de 4-8 mm, de color anaranjado con el centro rojo. {% glossary mericarpo, display: Mericarpos %} de 5-6 mm, cara lateral {% glossary reticulada %}, cara dorsal {% glossary setoso, display: setosa %}, con 2 espinas de 1,5-3 mm.
 
-**Fauna que atrae:** (🦋🐝) Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas y mariposas.
+🦋🐝 **Fauna que atrae:** Si bien la bibliografía no menciona interacciones biológicas, es posible que sea visitada por diversas especies de abejas y mariposas.
 
-🔍 **Otros datos:** Especie difundida por sus propiedades medicinales con potencial como cubresuelos. Florece en primavera y verano. Se reproduce por semillas. Requiere pleno sol o media sombra y riego medio. Originaria de América cálida y templado-cálida (desde EE.UU. hasta el centro y norte de nuestro país). En la ciudad de Bahía Blanca crece en suelos disturbados y como espontánea en jardines y huertas. Es la única especie nativa del género *Modiola* en nuestro país.
+🌸 **Floración y fructificación**: Florece en primavera y verano.
 
-**¡Una curiosidad!** 👀 El nombre vulgar 'pila-pila' proviene del término mapuche "*pëla-pëla*" (que significa 'muy fresco'). Dicho pueblo le atribuye propiedades contra las afecciones de la garganta y los bronquios, como también en casos de hidropesía y empachos. A esta planta también se le citan propiedades emolientes, refrigerantes, analgésicas y contra el mal de montaña a partir de sus hojas y tallos (Barboza et al., 2009).
+🧑🏻‍🌾 **Cultivo y propagación**: Se reproduce por semillas. Requiere pleno sol o media sombra y riego medio.
+
+🌎 **Distribución**: Originaria de América cálida y templado-cálida (desde EE.UU. hasta el centro y norte de nuestro país). En la ciudad de Bahía Blanca crece en suelos disturbados y como espontánea en jardines y huertas. Es la única especie nativa del género *Modiola* en nuestro país.
+
+🏺 **Usos y aplicaciones**: Especie difundida por sus propiedades medicinales con potencial como cubresuelos. El nombre vulgar 'pila-pila' proviene del término mapuche "*pëla-pëla*" (que significa 'muy fresco'). Dicho pueblo le atribuye propiedades contra las afecciones de la garganta y los bronquios, como también en casos de hidropesía y empachos. A esta planta también se le citan propiedades emolientes, refrigerantes, analgésicas y contra el mal de montaña a partir de sus hojas y tallos (Barboza et al., 2009).
 
  {% include image-gallery.html folder="/assets/images/Modiola-caroliniana" %}
 

@@ -24,11 +24,19 @@ image: assets/images/Portadas/TurneraS.webp
 📋 **Descripción técnica:** {% glossary hemicriptofito, display: Hemicriptofitas %} herbáceas de 5-40 cm de altura; simples o ramificadas; raíces frecuentemente {% glossary gemifero, display: gemiferas %}. Flores solitarias, {% glossary heterostilia, display: heterostilas %}. {% glossary pedunculo, display: Pedunculo %} de 0,7-21 mm, libre o soldado al {% glossary peciolo %}. {% glossary pedicelo, display: Pedicelo %} de 1-4 mm. {% glossary caliz, display: Caliz %} de 5,5-12 mm. Pétalos frecuentemente con {% glossary macula %} basal purpúrea. {% glossary capsula, display: Capsulas %} {% glossary verrucoso, display: verrucosas %}, pilosas. Semilla negruzca, curvada, {% glossary crestado, display: crestada %}, de 3,5-4,5 mm. {% glossary arilo, display: Arilo %} unilateral, corto.
 *Subespecie pinnatisecta:* Hojas {% glossary pinnatifida, display: pinnatifidas %} o {% glossary pinnatipartida, display: pinnatipartidas %}, a veces bipinnatipartidas, 15-58 mm × 6-28 mm. Flores amarillas, o salmón, o rosadas, o rojizas. {% glossary heterostilia, display: Heterostilia %} marcada, 1-5 mm de diferencia entre {% glossary androceo %} y {% glossary gineceo %} (*ver detalle de subespecies y morfotipos al final del artículo*).
 
-**Fauna que atrae:** (🦋🐝🪲) Es visitada por mariposas, escarabajos, pequeñas avispas y abejas, mientras que sus semillas a menudo son dispersadas por hormigas (Kovalsky et al., 2022 & Sabatino et al., 2017).
+🦋🐝🪲 **Fauna que atrae:** Es visitada por mariposas, escarabajos, pequeñas avispas y abejas, mientras que sus semillas a menudo son dispersadas por hormigas (Kovalsky et al., 2022 & Sabatino et al., 2017).
 
-🔍 **Otros datos:** Su parecido con especies de malváceas del género Sphaeralcea se debe a un posible mimetismo floral (Benitez Vieyra, 2003). Se le atribuyen propiedades medicinales contra el prolapso y lumbalgias (Barboza et al., 2009). En nuestra región crece en sitios pedregosos y puede tolerar suelos modificados. Tiene un gran potencial ornamental y puede reproducirse por semillas o a partir de sus raíces gemíferas.
+🌸 **Floración y fructificación**: Florece en primavera y verano.
 
-**¡Una curiosidad!** 👀 Esta especie posee una gran variabilidad morfológica y se reconocen cinco subespecies y siete morfotipos. **En la región de Bahía Blanca podemos encontrar *T. sidoides subsp. pinnatifida morfotipo serrano*.** No obstante a continuación detallamos brevemente todas las subespecies (tomado de Moreno, 2014):
+🧑🏻‍🌾 **Cultivo y propagación**: Puede reproducirse por semillas o a partir de sus raíces gemíferas.
+
+🌎 **Distribución**: Crece en el sur de Bolivia y Brasil, en Uruguay, Paraguay y Argentina (centro y norte de nuestro país). En la región de Bahía Blanca y alrededores crece en sitios pedregosos y puede tolerar suelos modificados. 
+
+🏺 **Usos y aplicaciones**: Tiene un gran potencial ornamental. Se le atribuyen propiedades medicinales contra el prolapso y lumbalgias (Barboza et al., 2009).
+
+👀 **¡Una curiosidad!** Su parecido con especies de malváceas del género Sphaeralcea se debe a un posible mimetismo floral (Benitez Vieyra, 2003).  
+
+👀 Esta especie posee una gran variabilidad morfológica y se reconocen cinco subespecies y siete morfotipos. **En la región de Bahía Blanca podemos encontrar *T. sidoides subsp. pinnatifida morfotipo serrano*.** No obstante a continuación detallamos brevemente todas las subespecies (tomado de Moreno, 2014):
 
 ***T. sidoides subsp. carnea:*** Presenta pelos simples curvado-{% glossary antrorso, display: antrorsos %} gruesos y pelos simples cortos, e {% glossary indumento %} laxo. Posee hojas herbáceas y es muy variable morfológicamente.
 

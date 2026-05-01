@@ -23,9 +23,13 @@ image: assets/images/Portadas/BaccharisS.webp
 
 📋 **Descripción técnica:** Hierbas perennes, de 10-30 cm de alt., {% glossary glandula, display: glanduloso %}-{% glossary puberulo, display: puberulas %}, con tallos delgados, {% glossary flexuoso, display: flexuosos %}, ascendentes o erectos. Hojas {% glossary linear %}-{% glossary filiforme, display: filiformes %}, agudas en el {% glossary apice %}, enteras o {% glossary denticulado, display: denticuladas %} en el margen, uni o trinervadas, de 1,5-7 x 0,05- 0,2 (0,3) cm. {% glossary capitulo, display: Capitulos %} {% glossary pedunculado, display: pedunculados %}, dispuestos en {% glossary cima, display: cimas %} {% glossary corimbiforme, display: corimbiformes %} compuestas, densamente ramificadas en el ápice de las ramas. Capítulos {% glossary pistilado, display: pistilados %} con {% glossary involucro %} acampanado de 2,5-4 x 3-4 mm; {% glossary filario, display: filarios %} en 3 series, agudos, los exteriores {% glossary ovado, display: ovados %} o angostamente ovados y los interiores lineares. Flores numerosas, de ápice {% glossary truncada, display: truncado %}. Aquenios pubérulos, 5-{% glossary costado, display: costados %}. Capítulos estaminados con involucro acampanado de 3-4 x 2,5-4 mm; filarios en 3-4 series, agudos, los exteriores ovados, los intermedios ovado-oblongos y los interiores linearoblongos. Flores numerosas; {% glossary estilo %} con ramas largas y separadas.
 
-**Fauna que atrae:** (🦋🐝🪲)  La bibliografía existente no aporta información sobre las interacciones biológicas de esta especie. Otras especies del género *Baccharis* atraen polinizadores generalistas como abejas, escarabajos y mariposas por lo que probablemente atraiga insectos similares, pero faltan estudios al respecto.
+🦋🐝🪲 **Fauna que atrae:** La bibliografía existente no aporta información sobre las interacciones biológicas de esta especie. Otras especies del género *Baccharis* atraen polinizadores generalistas como abejas, escarabajos y mariposas por lo que probablemente atraiga insectos similares, pero faltan estudios al respecto.
 
-🔍 **Otros datos:** Florece de Noviembre a Mayo. Es una especie endémica que se encuentra en el centro de Argentina (Buenos Aires, Catamarca, Córdoba, La Pampa, La Rioja, Santa Fe y San Luis) y en Uruguay. En Bahía Blanca puede encontrarse creciendo espontánea en baldíos y veredas de la ciudad.
+🌸 **Floración y fructificación**: Florece en verano y otoño (de Noviembre a Mayo).
+
+🧑🏻‍🌾 **Cultivo y propagación**: Se reproduce por semillas.
+
+🌎 **Distribución**: Es una especie endémica que se encuentra en el centro de Argentina (Buenos Aires, Catamarca, Córdoba, La Pampa, La Rioja, Santa Fe y San Luis) y en Uruguay. En Bahía Blanca puede encontrarse creciendo espontánea en baldíos y veredas de la ciudad.
 
  {% include image-gallery.html folder="/assets/images/Baccharis-stenophylla" %}
 
