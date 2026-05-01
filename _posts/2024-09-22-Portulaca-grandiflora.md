@@ -44,9 +44,10 @@ El presente artículo ha sido elaborado en colaboración con el proyecto de divu
 </div>
 <p align= "center">
  <a href="https://www.instagram.com/nativasdesanluis" target="_blank">
-  <img width="400" height="400" src="/assets/images/Imagenes/SanLuis.png">
+  <img width="400" height="400" src="/assets/images/Imagenes/SanLuis.webp">
  </a>
 </p>
+
 
 
 ***
