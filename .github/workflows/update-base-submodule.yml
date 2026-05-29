@@ -1,7 +1,5 @@
 name: Update website-base submodule
 on:
-  repository_dispatch:
-    types: [update-base]
   workflow_dispatch:
 permissions:
   contents: write
