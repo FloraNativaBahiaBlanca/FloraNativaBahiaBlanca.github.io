@@ -103,6 +103,8 @@ image: assets/images/Portadas/NeltumaF.webp
         </li>
     </ul>
 </div>
+
+```html
 <div style="background:#edf9ee; border-left:4px solid #68d070; padding:12px 16px; border-radius:4px;">
   <p><strong>🔎 ¿Sabías que...?</strong></p>
   <ul style="display:flex; flex-direction:column; gap:16px;">
@@ -122,24 +124,21 @@ image: assets/images/Portadas/NeltumaF.webp
         patrimoniales de Bahía Blanca y se encuentra protegido por la Ordenanza
         Municipal N.º 20.371.
       </p>
-      <div class="galeria">
-        <img src="/assets/images/Imagenes/algarrobobb.webp"
-             alt="Algarrobo centenario"
-             onclick="abrirImagen(this.src)">
-        <img src="/assets/images/Imagenes/algarrobobb2.webp"
-             alt="Algarrobo centenario - vista del tronco"
-             onclick="abrirImagen(this.src)">
-        <img src="/assets/images/Imagenes/algarrobobb3.webp"
-             alt="Algarrobo centenario - copa del árbol"
-             onclick="abrirImagen(this.src)">
-      </div>
-    </li>
-  </ul>
-  <dialog id="visor">
-    <img id="imagenGrande" src="" alt="Imagen ampliada">
-    <button onclick="cerrarImagen()">Cerrar</button>
-  </dialog>
+     <div class="galeria"
+     style="display:flex; flex-direction:column; gap:10px; margin-top:12px;">
+  <img src="/assets/images/Imagenes/algarrobobb.webp"
+       alt="Algarrobo centenario"
+       style="max-width:100%; height:auto; display:block; border-radius:4px;">
+
+  <img src="/assets/images/Imagenes/algarrobobb2.webp"
+       alt="Algarrobo centenario 2"
+       style="max-width:100%; height:auto; display:block; border-radius:4px;">
+
+  <img src="/assets/images/Imagenes/algarrobobb3.webp"
+       alt="Algarrobo centenario 3"
+       style="max-width:100%; height:auto; display:block; border-radius:4px;">
 </div>
+```
 
  {% include image-gallery.html folder="/assets/images/Neltuma-flexuosa" %}
 
