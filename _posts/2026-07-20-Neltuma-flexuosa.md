@@ -103,6 +103,7 @@ image: assets/images/Portadas/NeltumaF.webp
         </li>
     </ul>
 </div>
+
 <div style="background:#edf9ee; border-left:4px solid #68d070; padding:12px 16px; border-radius:4px;">
   <p><strong>🔎 ¿Sabías que...?</strong></p>
      <strong>...en Bahía Blanca se conserva un ejemplar centenario de esta especie?</strong>
@@ -131,8 +132,8 @@ image: assets/images/Portadas/NeltumaF.webp
   <img src="/assets/images/Imagenes/algarrobobb3.webp"
        alt="Algarrobo centenario 3"
        style="max-width:100%; height:auto; display:block; border-radius:4px;">
+ </div>
 </div>
-
 
  {% include image-gallery.html folder="/assets/images/Neltuma-flexuosa" %}
 
