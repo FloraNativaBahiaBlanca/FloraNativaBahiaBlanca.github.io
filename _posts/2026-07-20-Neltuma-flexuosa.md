@@ -2,7 +2,7 @@
 layout: post
 cientific: Neltuma flexuosa
 common: Algarrobo dulce
-description: "Árbol de hasta 10 metros de altura de crecimiento semierguido. Su corteza es delgada y de color pardo oscuro, con fisuras longitudinales. Sus ramas arqueadas parecen péndulas y presentan espinas de hasta 4 cm. en donde nacen las hojas. Las hojas son caudas, bipinnadas y con folíolos opuestos. Posee racimos de 4 a 14 cm. de longitud, que presentan numerosas flores pequeñas de color amarillo, y con algunos pelos. El fruto es una chaucha recta o levemente arqueada, con estrangulaciones que le dan forma similar a las cuentas de un rosario. Es de color amarillo-pajizo con manchas violáceas o negro violáceas y posee una pulpa dulce."
+description: "Árbol de hasta 10 metros de altura de crecimiento semierguido. Su corteza es delgada y de color pardo oscuro, con fisuras longitudinales. Sus ramas arqueadas parecen péndulas y presentan espinas de hasta 4 cm en donde nacen las hojas. Las hojas son caudas, bipinnadas y con folíolos opuestos. Posee racimos de 4 a 14 cm. de longitud, que presentan numerosas flores pequeñas de color amarillo, y con algunos pelos. El fruto es una chaucha recta o levemente arqueada, con estrangulaciones que le dan forma similar a las cuentas de un rosario. Es de color amarillo-pajizo con manchas violáceas o negro violáceas y posee una pulpa dulce."
 title: "Neltuma flexuosa (Algarrobo dulce)"
 tags: [Arboles, Color Verde]
 categories: [Flora, Fabaceae]
@@ -19,9 +19,9 @@ image: assets/images/Portadas/NeltumaF.webp
 
 ***
 
-🌱 **Descripción general:** Árbol de hasta 10 metros de altura de crecimiento semierguido. Su corteza es delgada y de color pardo oscuro, con fisuras longitudinales. Sus ramas arqueadas parecen péndulas y presentan espinas de hasta 4 cm. en donde nacen las hojas. Las hojas son caudas, bipinnadas y con folíolos opuestos. Posee racimos de 4 a 14 cm. de longitud, que presentan numerosas flores pequeñas de color amarillo, y con algunos pelos. El fruto es una chaucha recta o levemente arqueada, con estrangulaciones que le dan forma similar a las cuentas de un rosario. Es de color amarillo-pajizo con manchas violáceas o negro violáceas y posee una pulpa dulce.
+🌱 **Descripción general:** Árbol de hasta 10 metros de altura de crecimiento semierguido. Su corteza es delgada y de color pardo oscuro, con fisuras longitudinales. Sus ramas arqueadas parecen péndulas y presentan espinas de hasta 4 cm. en donde nacen las hojas. Las hojas son caudas, bipinnadas y con folíolos opuestos. Posee racimos de 4 a 14 cm de longitud, que presentan numerosas flores pequeñas de color amarillo, y con algunos pelos. El fruto es una chaucha recta o levemente arqueada, con estrangulaciones que le dan forma similar a las cuentas de un rosario. Es de color amarillo-pajizo con manchas violáceas o negro violáceas y posee una pulpa dulce.
 
-📋 **Descripción técnica:** Arboles o grandes arbustos de 3-10 metros de  altura, copa {% glossary hemisferico, display: hemisferica %} con las últimas ramitas péndulas, {% glossary flexuoso, display: flexuosas %}; espinas {% glossary axilar, display: axilares %}, {% glossary geminado, display: geminadas %}, generalmente pequeñas o ausentes, pero a veces hasta 3-4 cm sobre {% glossary vastago, display: vastagos %} fuertes, robustos; follaje caedizo. Hojas 1-3-{% glossary yugado, display: yugadas %}, {% glossary glabro, display: glabras %} o apenas {% glossary puberulo, display: puberulas %}, {% glossary pinna, display: pinnas %} de 5-13 cm, 12-29-{% glossary yugado, display: yugadas %}; {% glossary foliolo, display: foliolos %} de 4-15 x 1-2 mm, medianos, lineares, opuestos, distantes, la distancia entre ellos mayor que su propio ancho o generalmente varias veces más grande, {% glossary obtuso, display: obtusos %} o {% glossary subagudo, display: subagudos %}, {% glossary cuneada, display: cuneados %}, anchos, {% glossary subcoriacea, display: subcoriaceos %}. {% glossary racimo, display: Racimos %} de 4-14 cm, {% glossary espiciforme, display: espiciformes %}, densifloros (ca. 200 flores cada uno). {% glossary legumbre, display: Legumbres %} de 5-28 x 0,7-1,2 cm, casi derecha o {% glossary subfalcado, display: subfalcada %}, gruesa, subcomprimida, sub-{% glossary moniliforme %}, amarillo-pajiza teñida de violeta o negro-violáceo, pulpa más o menos desarrollada, dulce.
+📋 **Descripción técnica:** Árboles o grandes arbustos de 3-10 metros de  altura, copa {% glossary hemisferico, display: hemisferica %} con las últimas ramitas péndulas, {% glossary flexuoso, display: flexuosas %}; espinas {% glossary axilar, display: axilares %}, {% glossary geminado, display: geminadas %}, generalmente pequeñas o ausentes, pero a veces hasta 3-4 cm sobre {% glossary vastago, display: vastagos %} fuertes, robustos; follaje caedizo. Hojas 1-3-{% glossary yugado, display: yugadas %}, {% glossary glabro, display: glabras %} o apenas {% glossary puberulo, display: puberulas %}, {% glossary pinna, display: pinnas %} de 5-13 cm, 12-29-{% glossary yugado, display: yugadas %}; {% glossary foliolo, display: foliolos %} de 4-15 x 1-2 mm, medianos, lineares, opuestos, distantes, la distancia entre ellos mayor que su propio ancho o generalmente varias veces más grande, {% glossary obtuso, display: obtusos %} o {% glossary subagudo, display: subagudos %}, {% glossary cuneada, display: cuneados %}, anchos, {% glossary subcoriacea, display: subcoriaceos %}. {% glossary racimo, display: Racimos %} de 4-14 cm, {% glossary espiciforme, display: espiciformes %}, densifloros (ca. 200 flores cada uno). {% glossary legumbre, display: Legumbres %} de 5-28 x 0,7-1,2 cm, casi derecha o {% glossary subfalcado, display: subfalcada %}, gruesa, subcomprimida, sub-{% glossary moniliforme %}, amarillo-pajiza teñida de violeta o negro-violáceo, pulpa más o menos desarrollada, dulce.
 
 🦋🐝🪲🐦 **Fauna que atrae:** La producción de frutos de esta especie depende completamente de los polinizadores. A su vez sus frutos son alimento para las aves, como es el caso del loro barranquero (*Cyanoliseus patagonus*).
 
@@ -103,7 +103,43 @@ image: assets/images/Portadas/NeltumaF.webp
         </li>
     </ul>
 </div>
-
+<div style="background:#edf9ee; border-left:4px solid #68d070; padding:12px 16px; border-radius:4px;">
+  <p><strong>🔎 ¿Sabías que...?</strong></p>
+  <ul style="display:flex; flex-direction:column; gap:16px;">
+    <li>
+      <strong>...en Bahía Blanca se conserva un ejemplar centenario de esta especie?</strong>
+      <p>
+        Se trata del algarrobo ubicado en la plaza que lleva su nombre, la
+        <strong>Plaza del Algarrobo</strong>. Aunque popularmente se lo conoce
+        como <strong>algarrobo negro</strong>, corresponde a la especie
+        <em>Neltuma flexuosa</em>, nombre que también suele emplearse para
+        <em>Neltuma nigra (lo que suele dar lugar a confusiones)</em>.
+      </p>
+      <p>
+        Según la tradición local, este árbol ya existía antes de la llegada del
+        ferrocarril en 1884 y brindaba sombra a las carretas que transportaban
+        mercaderías hacia la zona. Actualmente, es uno de los árboles
+        patrimoniales de Bahía Blanca y se encuentra protegido por la Ordenanza
+        Municipal N.º 20.371.
+      </p>
+      <div class="galeria">
+        <img src="/assets/images/Imagenes/algarrobobb.webp"
+             alt="Algarrobo centenario"
+             onclick="abrirImagen(this.src)">
+        <img src="/assets/images/Imagenes/algarrobobb2.webp"
+             alt="Algarrobo centenario - vista del tronco"
+             onclick="abrirImagen(this.src)">
+        <img src="/assets/images/Imagenes/algarrobobb3.webp"
+             alt="Algarrobo centenario - copa del árbol"
+             onclick="abrirImagen(this.src)">
+      </div>
+    </li>
+  </ul>
+  <dialog id="visor">
+    <img id="imagenGrande" src="" alt="Imagen ampliada">
+    <button onclick="cerrarImagen()">Cerrar</button>
+  </dialog>
+</div>
 
  {% include image-gallery.html folder="/assets/images/Neltuma-flexuosa" %}
 
