@@ -103,18 +103,15 @@ image: assets/images/Portadas/NeltumaF.webp
         </li>
     </ul>
 </div>
-
 <div style="background:#edf9ee; border-left:4px solid #68d070; padding:12px 16px; border-radius:4px;">
   <p><strong>🔎 ¿Sabías que...?</strong></p>
-  <ul style="display:flex; flex-direction:column; gap:16px;">
-    <li>
-      <strong>...en Bahía Blanca se conserva un ejemplar centenario de esta especie?</strong>
+     <strong>...en Bahía Blanca se conserva un ejemplar centenario de esta especie?</strong>
       <p>
         Se trata del algarrobo ubicado en la plaza que lleva su nombre, la
         Plaza del Algarrobo. Aunque popularmente se lo conoce
         como algarrobo negro, corresponde a la especie
         <em>Neltuma flexuosa</em>, nombre que también suele emplearse para
-        <em>Neltuma nigra (lo que suele dar lugar a confusiones)</em>.
+        <em>Neltuma nigra</em> (lo que suele dar lugar a confusiones).
       </p>
       <p>
         Según la tradición local, este árbol ya existía antes de la llegada del
@@ -135,6 +132,7 @@ image: assets/images/Portadas/NeltumaF.webp
        alt="Algarrobo centenario 3"
        style="max-width:100%; height:auto; display:block; border-radius:4px;">
 </div>
+
 
  {% include image-gallery.html folder="/assets/images/Neltuma-flexuosa" %}
 
