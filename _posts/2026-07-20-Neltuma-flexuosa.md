@@ -64,7 +64,7 @@ image: assets/images/Portadas/NeltumaF.webp
             </p>
             <figure style="margin:12px 0;">
                 <img
-                    src="/media/fedrito/AC6C-E8D7/Proyectos/Neltuma flexuosa/mapaneltuma.webp"
+                    src="/assets/images/Imagenes/mapaneltuma.webp"
                     alt="Mapa de la distribución de las especies de Neltuma en Argentina"
                     loading="lazy">
                 <figcaption style="font-style:italic; color:#666;">
