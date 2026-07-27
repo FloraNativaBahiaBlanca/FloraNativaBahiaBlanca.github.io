@@ -15,7 +15,7 @@ image: assets/images/Portadas/CommelinaE.webp
 
 **Medidas:** Entre 10 y 25 cm de altura
 
-**Otros nombres:** Baguero-miní (en guaraní), cohíte azul, espuelitas, hierba del pollo, Leandro Gómez, Lucía kachú (en araucano-pampa), mataliste, mataliz, pah-tsá (en maya), Santa Lucía, Santa Lucía azul, Santa Lucía de flores azules, tradescantia, tripa de gallina, uashashalét (en vilela), yerba de Santa Lucía, yerba del pollo.
+**Otros nombres:** Baguero-miní (guaraní), cohíte azul, espuelitas, hierba del pollo, Leandro Gómez, Lucía kachú (araucano-pampa), mataliste, mataliz, pah-tsá (maya), Santa Lucía, Santa Lucía azul, Santa Lucía de flores azules, tradescantia, tripa de gallina, uashashalét (vilela), yerba de Santa Lucía, yerba del pollo.
 
 ***
 
@@ -45,11 +45,11 @@ Barboza, G. E., J. J. Cantero, C. Núñez, A. Pacciaroni & L. Ariza Espinar. 200
 
 Cané, L. & Nardini, C. A. (2023). *Nativas 2* (1ᵃ ed.). Revista Jardín.
 
-Martinez-Crovetto, R. (1965). Estudios etnobotánicos. II: Nombres de las plantas y su utilidad, según los indios vilelas del Chaco. *Bonplandia*, *2*(1), 1–28. [Link al repositorio](http://www.jstor.org/stable/41941098)
-
 De La Peña, M. R., & Pensiero, J. F. (2011). *Catálogo de nombres comunes de la flora argentina* (1ª ed.). Santa Fé: Universidad Nacional del Litoral.
 
 Hurrell, J. A., Bazzano, D. H. y Delucchi G. (2005). *Monocotiledóneas Herbáceas. Nativas y exóticas.* En: Hurrell, J. A. (ed.), Biota Rioplatense. Volumen X. 1ra. Edición, 320 pp. Editorial LOLA (Literature of Latin America), Buenos Aires, Argentina.
+
+Martinez-Crovetto, R. (1965). Estudios etnobotánicos. II: Nombres de las plantas y su utilidad, según los indios vilelas del Chaco. *Bonplandia*, *2*(1), 1–28. [Link al repositorio](http://www.jstor.org/stable/41941098)
 
 Ministerio de Ambiente de la Provincia de Buenos Aires. (2023). *Catálogo de Nativas Bonaerenses 2023*. GPBA. [Link.](https://www.ambiente.gba.gob.ar/imagenes/Nativas/Catalogo_Nativas_2023_web.pdf)
 
