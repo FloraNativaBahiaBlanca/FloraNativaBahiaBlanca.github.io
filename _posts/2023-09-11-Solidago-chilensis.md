@@ -4,7 +4,7 @@ cientific: "Solidago chilensis"
 common: "Vara dorada"
 description: "Herbácea perenne, rizomatosa, que a menudo forma manchones muy extensos. Tallos sin ramificaciones que llevan hojas en toda su extensión. Hojas alargadas, de 4 a 8 cm. de longitud, con pequeños pelos cortos y curvos en sus bordes. Las flores son de color amarillo brillante y se disponen en capítulos agrupados en densas inflorescencias al final del tallo. Los frutos son aquenios con papus blanco."
 title: "Solidago chilensis (Vara dorada)"
-tags: [Herbaceas, Color amarillo]
+tags: [Herbaceas, Color Amarillo]
 categories: [Flora, Asteraceae]
 image: assets/images/Portadas/SolidagoC.webp
 ---

@@ -4,7 +4,7 @@ cientific: "Helenium uniflorum"
 common: "-----"
 description: "Sufrutice o hierba perenne de unos 30 cm de alto, ramificados desde la base. Tallos estriados, densamente pubescentes. Hojas alternas, lanceoladas, pubescentes en ambas caras, en la porción inferior de los tallos. Capítulos solitarios, color amarillo pálido, de unos 3 cm de diámetro con el centro más oscuro, sostenidos por pedúnculos largos. Sus frutos son aquenios turbinados, de 1,5-2,5 mm de largo, densamente cubierto por pelos."
 title: "Helenium uniflorum (-----)"
-tags: [Herbaceas, Color amarillo]
+tags: [Herbaceas, Color Amarillo]
 categories: [Flora, Asteraceae]
 image: assets/images/Portadas/HeleniumU.webp
 ---

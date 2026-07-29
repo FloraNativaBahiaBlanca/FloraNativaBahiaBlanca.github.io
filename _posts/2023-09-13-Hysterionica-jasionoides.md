@@ -4,7 +4,7 @@ cientific: "Hysterionica jasionoides"
 common: "Botón de oro"
 description: "Hierba perenne rizomatosa de crecimiento erguido. Tallos con muchos pelos y con mayor proporción de hojas en su porción inferior que en la superior. Las hojas son largas, angostas y miden 2,5 hasta 6 cm. de largo. Las flores son de color amarillo y se agrupan en capitulos solitarios. Los frutos son aquenios cubiertos de pelos cortos y finos que le dan un aspecto sedoso."
 title: "Hysterionica jasionoides (Botón de oro)"
-tags: [Herbaceas, Color amarillo]
+tags: [Herbaceas, Color Amarillo]
 categories: [Flora, Asteraceae]
 image: assets/images/Portadas/HysterionicaJ.webp
 ---

@@ -4,7 +4,7 @@ cientific: Baccharis stenophylla
 common: -----
 description: Plantas herbáceas de entre 10 y 30 cm de alto, muy ramificadas en la base, sin tallos principales definidos. Sus tallos son delgados, flexibles y cubiertos de pelitos glandulares, que crecen de manera ascendente o recta. Sus hojas son muy delgadas y alargadas, parecidas a hilos finos, con bordes enteros o ligeramente dentados y una punta aguda. Produce flores pequeñas (masculinas y femeninas) agrupadas en racimos densos y ramificados en las puntas de las ramas. Sus frutos son aquenios pequeños cubiertos de pelitos.
 title: "Baccharis stenophylla (-----)"
-tags: [Herbaceas, Endemismo, Color blanco]
+tags: [Herbaceas, Endemismo, Color Blanco]
 categories: [Flora, Asteraceae]
 image: assets/images/Portadas/BaccharisS.webp
 ---

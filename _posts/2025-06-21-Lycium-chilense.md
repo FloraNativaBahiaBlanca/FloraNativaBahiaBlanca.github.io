@@ -4,7 +4,7 @@ cientific: Lycium chilense
 common: Yaoyín
 description: "Arbusto de crecimiento rastrero, erguido o apoyante, de hasta 2 metros de altura. Posee ramas con abundantes hojas, arqueadas y de aspecto espinoso. Sus hojas son pequeñas, entre 0,5 y 2 cm de largo, que pueden tener pelos. Flores solitarias, blancas o violáceas, de 6 mm de diámetro, dispuestas en las axilas de las hojas. El fruto es una baya de color rojo."
 title: "Lycium chilense (Yaoyín)"
-tags: [Arbustos, Endemismo, Color rojo]
+tags: [Arbustos, Endemismo, Color Rojo]
 categories: [Flora, Solanaceae]
 image: assets/images/Portadas/LyciumCh.webp
 ---

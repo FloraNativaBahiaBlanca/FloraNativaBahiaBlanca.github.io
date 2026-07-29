@@ -4,7 +4,7 @@ cientific: "Portulaca grandiflora"
 common: "Flor de seda"
 description: "Planta suculenta anual, rastrera o erecta, con raíces algo engrosadas. Sus hojas son carnosas, alargadas y puntiagudas, dispuestas de forma alterna. Posee pequeños pelitos blancos en las uniones de las hojas. Las flores son grandes, solitarias y vistosas, rodeadas por un verticilo de hojas más largas que las demás. Tiene 5 pétalos caducos de color fucsia. El fruto es una cápsula que libera muchas semillas negras muy pequeñas al madurar."
 title: "Portulaca grandiflora (Flor de seda)"
-tags: [Herbaceas, Cubresuelos, Endemismo, Color rosa]
+tags: [Herbaceas, Cubresuelos, Endemismo, Color Rosa]
 categories: [Flora, Portulacaceae]
 image: assets/images/Portadas/PortulacaG.webp
 ---

@@ -4,7 +4,7 @@ cientific: "Abutilon grandifolium"
 common: "Abutilo"
 description: "Arbusto de hasta 2 metros de altura de follaje persistente, con hojas y ramas cubiertas de pelos que le dan un aspecto aterciopelado. Sus hojas son grandes y con forma acorazonada. Las flores son amarillas o anaranjadas, de tamaño mediano y muy vistosas. Los frutos son secos, de color marrón a la madurez, y cada uno tiene entre 20 y 40 semillas."
 title: "Abutilon grandifolium (Abutilo)"
-tags: [Arbustos, Color amarillo]
+tags: [Arbustos, Color Amarillo, Color Naranja]
 categories: [Flora, Malvaceae]
 image: assets/images/Portadas/AbutilonG.webp
 ---

@@ -4,7 +4,7 @@ cientific: Oxalis articulata
 common: Vinagrillo rosado
 description: Hierba perenne de crecimiento erguido de hasta 30 cm de altura. Los tallos subterráneos se engrosan en tubérculos. Las hojas se disponen en roseta, nacen directamente del tubérculo y tienen tres folíolos en forma de corazón, similares a un trébol. Las flores rosadas, con vetas púrpuras en la base, se disponen en grupos sostenidos por tallos delgados y largos. El fruto es una cápsula cilíndrica con varias semillas.
 title: "Oxalis articulata (Vinagrillo rosado)"
-tags: [Endemismo, Color rosa]
+tags: [Endemismo, Color Rosa]
 categories: [Flora, Oxalidaceae]
 image: assets/images/Portadas/OxalisA.webp
 ---

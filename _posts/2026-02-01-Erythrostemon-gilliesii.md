@@ -4,7 +4,7 @@ cientific: Erythrostemon gilliesii
 common: Barba de chivo
 description: "Arbusto de porte erguido que puede alcanzar entre 0,8 y 3 metros de altura. Las ramas poseen pelos finos y suaves, con glándulas que al tocarlas emanan un olor fuerte. Sus hojas son grandes, compuestas por muchos folíolos. Las flores de pétalos amarillos y largos estambres rojizos, muy vistosas, se disponen agrupadas en inflorescencias terminales. El fruto es una chaucha o legumbre que contiene a las semillas comprimidas, redondeadas, con manchas color oliváceo a castaño."
 title: "Erythrostemon gilliesii (Barba de chivo)"
-tags: [Arbustos, Color amarillo]
+tags: [Arbustos, Color Amarillo]
 categories: [Flora, Fabaceae]
 image: assets/images/Portadas/ErythrostemonG.webp
 ---

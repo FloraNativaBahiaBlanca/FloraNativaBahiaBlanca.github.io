@@ -4,7 +4,7 @@ cientific: "Sphaeralcea australis"
 common: "Malvavisco"
 description: "Hierba perenne o subarbusto de crecimiento erguido y raíces profundas. Sus ramas jóvenes son finamente aterciopeladas. Las hojas tienen forma irregular y variable, están cubiertas de pelos y pueden medir hasta 4 cm. de largo. Las flores son de color naranja y se disponen en racimos terminales. El fruto es una cápsula de color marrón claro, que se separa en varias partes a la madurez, con semillas reniformes."
 title: "Sphaeralcea australis (Malvavisco)"
-tags: [Herbaceas, Endemismo, Color naranja]
+tags: [Herbaceas, Endemismo, Color Naranja]
 categories: [Flora, Malvaceae]
 image: assets/images/Portadas/SphaeralceaA.webp
 ---

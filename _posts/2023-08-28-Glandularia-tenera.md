@@ -4,7 +4,7 @@ cientific: "Glandularia tenera"
 common: "Verbena violeta"
 description: "Herbácea perenne rastrera, con tallos postrados. Hojas de bordes muy recortados. Flores agrupadas de color violeta o lila. El fruto es seco y se separa a la madurez en 4 partes, cada una con una semilla."
 title: "Glandularia tenera (Verbena violeta)"
-tags: [Cubresuelos, Herbaceas, Color violeta]
+tags: [Cubresuelos, Herbaceas, Color Violeta]
 categories: [Flora, Verbenaceae]
 image: assets/images/Portadas/GlandulariaT.webp
 ---

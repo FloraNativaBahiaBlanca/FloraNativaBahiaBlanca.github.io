@@ -4,7 +4,7 @@ cientific: "Sclerophylax spinescens"
 common: "Falsa Espinaca"
 description: "Hierba anual, procumbente, pubescente, con tallos de hasta 1,50 m de largo. Hojas carnosas con forma de rombo de 15-25 × 10-20 mm y peciolos cortos. Flores blancas sesiles, 2 por nudo, muy pequeñas, de 5 mm. de diámetro. El fruto es un carcerulo, con lobulos transformados en espinas axilares. Posee diminutas semillas de hasta 3,5 mm."
 title: "Sclerophylax spinescens (Falsa Espinaca)"
-tags: [Cubresuelos, Endemismo, Color verde]
+tags: [Cubresuelos, Endemismo, Color Verde, Color Blanco]
 categories: [Flora, Solanaceae]
 image: assets/images/Portadas/SclerophylaxS.webp
 ---

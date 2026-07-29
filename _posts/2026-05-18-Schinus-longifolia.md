@@ -4,7 +4,7 @@ cientific: Schinus longifolia
 common: Molle
 description: "Arbusto o pequeño arbolito de hasta 5 metros de altura. Las hojas de 2,5 a 7 cm. de largo son persistentes, alargadas y de color claro en la cara inferior. Las flores están agrupadas en inflorescencias. Son de color blanco, pequeñas, hermafroditas o unisexuales. El fruto es esférico de 6 mm. de diámetro, color lavanda, y da una única semilla."
 title: "Schinus longifolia (Molle)"
-tags: [Arboles, Color Verde]
+tags: [Arboles, Color Verde, Color Blanco]
 categories: [Flora, Anacardiaceae]
 image: assets/images/Portadas/SchinusL.webp
 ---

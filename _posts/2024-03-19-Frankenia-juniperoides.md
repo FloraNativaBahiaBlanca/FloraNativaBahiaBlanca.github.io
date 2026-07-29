@@ -4,7 +4,7 @@ cientific: "Frankenia juniperoides"
 common: "Frankenia"
 description: "Subarbusto postrado, halófilo, que forma tapices. Sus hojas carnosas poseen forma triangular, entre 1 a 3 mm, y se ubican apretadas a las ramas, cubriéndolas. Tienen un color verde grisáceo y durante el invierno toman una coloración rojiza. Las flores son pequeñas, solitarias, de color blanco o rosado. El fruto es una cápsula de 5 mm con una a pocas semillas."
 title: "Frankenia juniperoides (Frankenia)"
-tags: [Arbustos, Endemismo, Color verde]
+tags: [Arbustos, Endemismo, Color Verde]
 categories: [Flora, Frankeniaceae]
 image: assets/images/Portadas/FrankeniaJ.webp
 ---

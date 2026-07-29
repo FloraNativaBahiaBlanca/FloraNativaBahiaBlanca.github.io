@@ -4,7 +4,7 @@ cientific: "Sphaeralcea bonariensis"
 common: "Malvavisco Salmón"
 description: "Subarbusto o arbusto de porte erecto y follaje persistente, cubierto de pelos grisáceos. Las hojas son romboideas o lobadas, de hasta 6 cm, con el margen levemente dentado o crenulado y pelos muy cortos. Las flores se agrupan en cincinos axilares y son de color rosado o anaranjado. El fruto es seco e indehiscente, pequeño, con una a tres semillas en su interior."
 title: "Sphaeralcea bonariensis (Malvavisco Salmón)"
-tags: [Arbustos, Color naranja]
+tags: [Arbustos, Color Naranja]
 categories: [Flora, Malvaceae]
 image: assets/images/Portadas/SphaeralceaB.webp
 ---

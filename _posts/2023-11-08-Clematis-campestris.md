@@ -4,7 +4,7 @@ cientific: "Clematis campestris"
 common: "Barba de viejo"
 description: "Liana leñosa de tallos delgados y crecimiento apoyante. Follaje persistente, hojas compuestas de 3-5 foliolos de entre 1 y 5 cm de longitud. Flores blancas masculinas y femeninas, perfumadas y agrupadas en cimas terminales o axilares. Las flores masculinas presentan muchos estambres, mientras que las femeninas numerosos estilos plumosos. Los frutos son aquenios plumosos de hasta 10 cm de largo."
 title: "Clematis campestris (Barba de viejo)"
-tags: [Trepadoras, Color blanco]
+tags: [Trepadoras, Color Blanco]
 categories: [Flora, Ranunculaceae]
 image: assets/images/Portadas/ClematisC.webp
 ---

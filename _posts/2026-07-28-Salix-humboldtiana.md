@@ -4,7 +4,7 @@ cientific: Salix humboldtiana
 common: Sauce criollo
 description: "Árbol de hasta 15 metros de altura. Su corteza posee rugosidades y surcos, es de color pardo-grisácea o pardo-rojiza. Sus ramas son castañas y algo arqueadas, no péndulas como en el sauce llorón. Las hojas, de 10 a 15 cm. de largo, poseen forma aguda en ambos extremos y bordes aserrados. Son de color verde claro en ambas caras, tomando matices amarillos antes de caer. Existen plantas femeninas y plantas masculinas. La inflorescencia es un racimo péndulo de 5 a 7 cm. de longitud con flores muy pequeñas. Las flores son amarillo-verdosas y muy perfumadas. Los frutos son cápsulas ovaladas, de 4 a 5 cm. de largo de color castaño oscuro y con numerosas semillas provistas de un penacho algodonoso blanco que facilita su dispersión."
 title: "Salix humboldtiana (Sauce criollo)"
-tags: [Arboles, Color Verde]
+tags: [Arboles, Color Verde, Color Amarillo]
 categories: [Flora, Salicaceae]
 image: assets/images/Portadas/SalixH.webp
 ---
