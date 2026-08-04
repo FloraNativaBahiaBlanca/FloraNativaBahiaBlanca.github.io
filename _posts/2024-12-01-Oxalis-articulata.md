@@ -31,9 +31,9 @@ image: assets/images/Portadas/OxalisA.webp
 
 🌎 **Distribución**: Es una especie endémica de América del Sur, y en nuestro país crece en la región pampeana. Es frecuente encontrarla en ambientes arenosos, al costado de caminos y en jardines.
 
-🏺 **Usos y aplicaciones**: Tiene un gran potencial ornamental. Es comestible, de hecho el nombre del género, Oxalis, hace referencia a la presencia de ácido oxálico que poseen estas plantas, la cual les otorga un sabor ácido (similar al vinagre, de ahí su nombre vulgar "vinagrillo").
+🏺 **Usos y aplicaciones**: Tiene un gran potencial ornamental. Es comestible, de hecho el nombre del género, *Oxalis*, hace referencia a la presencia de ácido oxálico que poseen estas plantas, la cual les otorga un sabor ácido (similar al vinagre, de ahí su nombre vulgar "vinagrillo").
 
-❌ Si bien vulgarmente a veces se les llama "tréboles" y se los suele confundir, se trata de familias diferentes. Los Oxalis pertenecen a la familia Oxalidaceae, mientras que los tréboles verdaderos (género Trifolium) pertenecen al género Fabaceae.
+❌ Si bien vulgarmente a veces se les llama "tréboles" y se los suele confundir, se trata de familias diferentes. Los *Oxalis* pertenecen a la familia Oxalidaceae, mientras que los tréboles verdaderos (género *Trifolium*) pertenecen a la familia Fabaceae.
 
  {% include image-gallery.html folder="/assets/images/Oxalis-articulata" %}
 
