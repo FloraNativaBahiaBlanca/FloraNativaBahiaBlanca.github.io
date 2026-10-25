@@ -15,7 +15,7 @@ image: assets/images/Portadas/NeltumaF.webp
 
 **Medidas:** Hasta 10 metros de altura
 
-**Otros nombres:** Algarrobo chico, algarrobo de caballo, algarrobo lámar, algarrobo negro, igopé-guazú (guaraní), lámar, lámaro, lamer, panta negro, patay, shoi witru (ranquel), tacku, yanatacku (quechua)
+**Otros nombres:** Algarrobo chico, algarrobo de caballo, algarrobo lámar, algarrobo negro, igopé-guazú (guaraní), lámar, lámaro, lamer, panta negro, patay, shoi witru (ranquel), tacku, yanatacku (quechua) (Sinónimo: *Prosopis flexuosa*)
 
 ***
 

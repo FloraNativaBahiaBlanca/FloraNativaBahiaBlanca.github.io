@@ -16,7 +16,7 @@ image: assets/images/Portadas/PhylaN.webp
 **Medidas:** Hasta 10 cm. de alto
 
 **Otros nombres:** Verbena del pozo, lipia, hierba del mosquito, salvia rastrera, Santa María, yerba de la
-vírgen, yerba del mosquito
+vírgen, yerba del mosquito (Sinónimo: *Phyla canescens*)
 
 ***
 
